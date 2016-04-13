@@ -52,9 +52,9 @@ class word:
         for par_stem in self.par_stem:
             for whateveritis in par_stem:
                 if whateveritis.par.name not in self.group_par_stem:
-                    self.group_par_stem[whateveritis.par.name] = [set() for i in xrange(whateveritis.par.num_of_stems)]
+                    self.group_par_stem[whateveritis.par.name] = [[] for i in xrange(whateveritis.par.num_of_stems)]
                 # print self.group_par_stem[whateveritis.par.name], whateveritis.stem.number, whateveritis.par.num_of_stems
-                self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] = self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] | set([whateveritis.stem.stem_form])
+                self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] = list(set(self.group_par_stem[whateveritis.par.name][whateveritis.stem.number]) | set([whateveritis.stem.stem_form]))
 
         for par_st in self.group_par_stem:
             i = 0
@@ -90,6 +90,19 @@ class word:
             for stem_forms in self.group_par_stem[par_name]:
                 for form in stem_forms:
                     print form
+
+    def write_guessed_to_file(self):
+        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': u'N', u'gender': self.gramm, u'lemma': self.lemma}
+        wtw[u'examples'] = [{ex.analys : ex.form} for ex in self.examples]
+        wtw[u'par_stem'] = self.group_par_stem
+        wtw[u'lemma_new'] = self.lemma_after_fall
+        return wtw
+
+    def write_unguessed_to_file(self):
+        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': u'N', u'gender': self.gramm, u'lemma': self.lemma}
+        wtw[u'lemma_new'] = self.lemma_after_fall
+        wtw[u'examples'] = [{ex.analys: ex.form, u'paradigms': ex.par_name_list} for ex in self.examples]
+        return wtw
 
 
 class example:

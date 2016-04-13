@@ -2,16 +2,24 @@
 import time
 import codecs
 import noun_class
+import json
 
 def make_content_dict(forms):
     content_dict = {}
     forms = forms.split(u'|')
     for form in forms:
-        tgramm, examples = form.split(u':')
+        try:
+            tgramm, examples = form.split(u':')
+        except:
+            print u'mistake in lemmalist_file:', form
+            continue
         tgramm = tgramm[:-1]
         if tgramm == u'non-infl':
             continue
-        number, gender, case, infl = tgramm.split(u'., ')
+        try:
+            number, gender, case, infl = tgramm.split(u'., ')
+        except:
+            print u'2 mistake in lemmalist file', tgramm
         if case == u'gen./dat':
             case = u'dat'
         gramm = number + u',' + case
@@ -23,10 +31,14 @@ paradigmy = noun_class.parad_from_file()
 anal_data = noun_class.analysis_data(paradigmy)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
+w = codecs.open(u'torot_gram.json', u'w', u'utf-8')
+wb = codecs.open(u'torot_miss.json', u'w', u'utf-8')
 id = 0
 parsed = 0
 unparsed = 0
 time1 = time.clock()
+great_d = []
+misirable = []
 for line in f:
     line = line.rstrip()
     lemma_content = line.split(u';')
@@ -48,13 +60,26 @@ for line in f:
     new_word.group_stems()
     # new_word.print_par_stem()
     # print u'____________________________________________________________________'
-    if id == 50:
-        break
+    # if id == 15:
+    #     break
     if len(new_word.group_par_stem) > 0:
         parsed += 1
+        wtw = new_word.write_guessed_to_file()
+        great_d.append(wtw)
+        # json.dump(wtw, w, ensure_ascii=False, indent=2)
     else:
         unparsed += 1
+        wtw = new_word.write_unguessed_to_file()
+        misirable.append(wtw)
 time2 = time.clock()
 t = time2 - time1
 tword = parsed + unparsed
 print 100*float(parsed)/tword, u'% parsed, time for one word apr. ', t/tword, u', total time ', t
+time3 = time.clock()
+json.dump(great_d, w, ensure_ascii=False, indent=2)
+w.close()
+print time3-time2, u'for writing parsed'
+time4 = time.clock()
+json.dump(misirable, wb, ensure_ascii=False, indent=2)
+print time4-time3, u'for writing unparsed'
+wb.close()

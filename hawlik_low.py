@@ -105,11 +105,11 @@ def indent(goldlemma, unilemma):
         return True
     return False
 
-word = u'сьрдьце'
-print hawlik_low(word)
-word = u'отьць'
-print hawlik_low(word)
-word = u'отьца'
-print hawlik_low(word)
-print indent(u'отьць', u'отець')
-print moscow_prefix_yers(u'состояние')
+# word = u'сьрдьце'
+# print hawlik_low(word)
+# word = u'отьць'
+# print hawlik_low(word)
+# word = u'отьца'
+# print hawlik_low(word)
+# print indent(u'отьць', u'отець')
+# print moscow_prefix_yers(u'состояние')
