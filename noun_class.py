@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 import re
 import codecs
+from hawlik_low import oslo_trans
 
 class word:
     def __init__(self):
@@ -133,7 +134,6 @@ class example:
         return self.par_name_list
 
 
-
 class form_norm:
     def __init__(self):
         self.form = u''
@@ -187,6 +187,21 @@ class paradigm:
         self.num_of_stems = u''
         self.inflexions = []
         self.stem_model = []
+        self.classic_index = u''
+
+    def classic_indexing(self):
+        if u'N1' in self.name:
+            self.classic_index = u'o'
+        if u'N2' in self.name:
+            self.classic_index = u'o'
+        if u'N3' in self.name:
+            self.classic_index = u'a'
+        if u'N4' in self.name:
+            self.classic_index = u'i'
+        if u'N5' in self.name:
+            self.classic_index = u'u-long'
+        if u'N6' in self.name:
+            self.classic_index = u'u-short'
 
 class stem:
     def __init__(self):
@@ -250,6 +265,7 @@ def parad_from_file():
         nos = 1
         apar = paradigm()
         apar.name = j
+        apar.classic_indexing()
         apar.stem_model = stems[j][0]
         for i in paradigms[j]:
             infl = inflexion()

@@ -42,18 +42,19 @@ for line in f:
     new_word.gramm = gender
     new_word.torot_id = lemma_content[1]
     new_word.id = id
+    new_word.lemma_after_fall = noun_class.oslo_trans(new_word.lemma)
     new_word.create_examples(lemma_content_dict)
     new_word.guess(anal_data)
     new_word.group_stems()
     # new_word.print_par_stem()
     # print u'____________________________________________________________________'
-    if id == 15:
+    if id == 50:
         break
     if len(new_word.group_par_stem) > 0:
         parsed += 1
     else:
         unparsed += 1
 time2 = time.clock()
-t = time1 - time2
+t = time2 - time1
 tword = parsed + unparsed
-print parsed/tword*100, u'% parsed, time for one word apr. ', t/tword, u', total time ', t
+print 100*float(parsed)/tword, u'% parsed, time for one word apr. ', t/tword, u', total time ', t
