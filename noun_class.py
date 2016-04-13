@@ -35,7 +35,7 @@ class word:
         par_set = u'firsttime'
         for ex in self.examples:
             ex.guess_example(analy_data)
-            print u'in guess, guessed forms for one example ', ex.par_stem
+            # print u'            guessed forms for ', ex.analys, ex.par_stem
             if par_set == u'firsttime':
                 par_set = set(ex.par_stem)
             par_set = par_set & set(ex.par_stem)
@@ -62,13 +62,28 @@ class word:
                     if len(stemset) > 0:
                         i += 1
                 if i > 1:
+                    # print u'it must be a star, then better delete ', par_st[:-5]
                     todel.append(par_st[:-5])
+            if u'4' in par_st:
+                if u'41' in par_st:
+                    if self.gramm != u'f':
+                        todel.append(par_st)
+                elif self.gramm != u'm':
+                    todel.append(par_st)
+            elif u'1' in par_st and self.gramm != u'm':
+                todel.append(par_st)
+            elif u'2' in par_st and self.gramm != u'n':
+                todel.append(par_st)
+            elif u'3' in par_st and self.gramm == u'n':
+                todel.append(par_st)
+            elif u'6' in par_st and self.gramm != u'm':
+                todel.append(par_st)
 
         for par_name in todel:
             del self.group_par_stem[par_name]
 
     def print_par_stem(self):
-        print self.id, self.lemma
+        print self.id, self.lemma, self.gramm
         for par_name in self.group_par_stem:
             print par_name, self.group_par_stem[par_name]
             for stem_forms in self.group_par_stem[par_name]:
@@ -92,21 +107,28 @@ class example:
         for form_n in self.form_norm:
             # print u'form_n', form_n.form
             form_par = form_n.guess_wordform(grammema)
-            # print u'in guess example, guessed forms for one normal form', form_par
+            # print u'guessed forms for ', form_n.form, form_par
             form_n.par_stem = form_par
             if wordform_par_set == u'firsttime':
                 wordform_par_set = set(form_par)
                 # print u'in guess example first set', wordform_par_set
-            wordform_par_set = wordform_par_set & set(form_n.par_stem)
+            wordform_par_set = wordform_par_set | set(form_n.par_stem)  # нестрогий вариант
+            # wordform_par_set = wordform_par_set & set(form_n.par_stem)  # строгий вариант
         self.par_name_list = list(wordform_par_set)
         for par_name in self.par_name_list:
             for form_n in self.form_norm:
-                good_p_s = form_n.par_name_dict[par_name]
-                self.par_stem.append(good_p_s)
-                if par_name in self.par_name_dict:
-                    self.par_name_dict[par_name].append(good_p_s)
-                else:
-                    self.par_name_dict[par_name] = [good_p_s]
+                try:
+                    good_p_s = form_n.par_name_dict[par_name]
+                    self.par_stem.append(good_p_s)
+                    if par_name in self.par_name_dict:
+                        self.par_name_dict[par_name].append(good_p_s)
+                    else:
+                        self.par_name_dict[par_name] = [good_p_s]
+                except:
+                    # попадаем сюда при выполнении "нестрогого" варианта для тех разборов,
+                    # которые есть не у всех norm form.
+                    # Наверное, в таком случае нам не нужны основы.
+                    pass
         self.par_stem = list(wordform_par_set)
         return self.par_name_list
 
@@ -343,6 +365,7 @@ def letterchange(word):
     newword = newword.replace(u'є', u'e')
     newword = newword.replace(u'́', u'')
     newword = newword.replace(u'҃', u'')
+    newword = newword.replace(u'ʼ', u'')
     newword = newword.replace(u'ѿ', u'от')
     newword = newword.replace(u'꙽', u'')
     newword = newword.replace(u'ѵ', u'и')

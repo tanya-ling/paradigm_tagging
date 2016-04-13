@@ -25,7 +25,7 @@
   gramm: pl,nom
  -flex: <1>.а
   gramm: sg,gen
- -flex: <1>.омъ//<1>.ъмъ//<1>.ъмь
+ -flex: <1>.омъ//<1>.ъмъ//<1>.ъмь//<1>.омь
   gramm: sg,ins
  -flex: <2>.ы//<2>.и//<1>.ы//<1>.и
   gramm: pl,voc
@@ -56,7 +56,7 @@
   gramm: pl,loc
  -flex: <1>.ы//<0>.овъ
   gramm: pl,acc
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<1>.е
   gramm: sg,loc
  -flex: <1>.у
   gramm: du,gen
@@ -68,7 +68,7 @@
   gramm: pl,nom
  -flex: <1>.а
   gramm: sg,gen
- -flex: <1>.омъ//<1>.ъмъ//<1>.ъмь
+ -flex: <1>.омъ//<1>.ъмъ//<1>.ъмь//<1>.омь
   gramm: sg,ins
  -flex: <1>.и//<1>.ы//<1>.а
   gramm: pl,voc
@@ -142,7 +142,7 @@
   gramm: pl,loc
  -flex: <0>.ы//<0>.овъ
   gramm: pl,acc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е//<0>.у
   gramm: sg,loc
  -flex: <0>.у
   gramm: du,gen
@@ -154,7 +154,7 @@
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъм//<0>.ъмъ//<0>.ъмь
+ -flex: <0>.омъ//<0>.ъм//<0>.ъмъ//<0>.ъмь//<0>.омь
   gramm: sg,ins
  -flex: <0>.и//<0>.ы//<0>.а
   gramm: pl,voc
@@ -209,7 +209,7 @@
   gramm: pl,dat
  -flex: <0>.е//<0>.ъ//<0>.ь
   gramm: sg,voc
- -flex: <0>.ей//<0>.ь//<0>.евъ
+ -flex: <0>.ей//<0>.ь//<0>.евъ//<0>.ъ
   gramm: pl,gen
  -flex: <0>.ъ//<0>.ь//<0>.а//<0>.я
   gramm: sg,acc
@@ -252,7 +252,7 @@
   gramm: pl,dat
  -flex: <0>.у//<0>.ю//<0>.е//<0>.ь
   gramm: sg,voc
- -flex: <0>.ей//<0>.ь//<0>.евъ
+ -flex: <0>.ей//<0>.ь//<0>.евъ//<0>.ъ
   gramm: pl,gen
  -flex: <0>.ь//<0>.а
   gramm: sg,acc
@@ -271,7 +271,7 @@
   gramm: pl,loc
  -flex: <0>.ы//<0>.евъ//<0>.ъ//<0>.ѣ
   gramm: pl,acc
- -flex: <0>.ѣ//<0>.и
+ -flex: <0>.ѣ//<0>.и//<0>.е//<0>.у
   gramm: sg,loc
  -flex: <0>.у//<0>.ю
   gramm: du,gen
@@ -357,7 +357,7 @@
   gramm: pl,loc
  -flex: <0>.и//<0>.овъ//<0>.ы
   gramm: pl,acc
- -flex: <1>.ѣ//<0>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: sg,loc
  -flex: <0>.у
   gramm: du,gen
@@ -369,7 +369,7 @@
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъм//<0>.ъмъ//<0>.ъмь
+ -flex: <0>.омъ//<0>.ъм//<0>.ъмъ//<0>.ъмь//<0>.омь
   gramm: sg,ins
  -flex: <1>.ы//<1>.и//<0>.ы//<0>.и
   gramm: pl,voc
@@ -486,7 +486,7 @@
   gramm: pl,loc
  -flex: <0>.и//<0>.овъ//<0>.ы
   gramm: pl,acc
- -flex: <1>.ѣ//<0>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: sg,loc
  -flex: <0>.у
   gramm: du,gen
@@ -498,7 +498,7 @@
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъмъ//<0>.ъмь
+ -flex: <0>.омъ//<0>.ъмъ//<0>.ъмь//<0>.омь
   gramm: sg,ins
  -flex: <1>.ы//<1>.и//<0>.ы//<0>.и
   gramm: pl,voc
@@ -572,7 +572,7 @@
   gramm: pl,loc
  -flex: <1>.ы//<1>.евъ//<0>.ъ//<0>.ѣ
   gramm: pl,acc
- -flex: <1>.ѣ//<1>.и
+ -flex: <1>.ѣ//<1>.и//<0>.е
   gramm: sg,loc
  -flex: <1>.у//<1>.ю
   gramm: du,gen
@@ -656,27 +656,27 @@
   gramm: pl,loc
  -flex: <0>.а
   gramm: pl,acc
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: sg,loc
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
  -flex: <0>.у
   gramm: sg,dat
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,nom
  -flex: <0>.а
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъмь//<0>.ъм
+ -flex: <0>.омъ//<0>.ъмь//<0>.ъм//<0>.омь
   gramm: sg,ins
  -flex: <0>.а
   gramm: pl,voc
  -flex: <0>.ома
   gramm: du,dat
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,acc
  -flex: <0>.омъ//<0>.амъ
   gramm: pl,dat
@@ -725,7 +725,7 @@
   gramm: pl,dat
  -flex: <0>.е
   gramm: sg,voc
- -flex: <0>.ей//<0>.ь
+ -flex: <0>.ей//<0>.ь//<0>.ъ
   gramm: pl,gen
  -flex: <0>.е
   gramm: sg,acc
@@ -785,7 +785,7 @@
   gramm: pl,loc
  -flex: <0>.а//<0>.я
   gramm: pl,acc
- -flex: <0>.ѣ//<0>.ы
+ -flex: <0>.ѣ//<0>.ы//<0>.е
   gramm: sg,loc
  -flex: <0>.ы//<0>.и
   gramm: du,voc
@@ -828,7 +828,7 @@
   gramm: pl,loc
  -flex: <0>.а//<0>.я
   gramm: pl,acc
- -flex: <0>.ѣ//<0>.ы
+ -flex: <0>.ѣ//<0>.ы//<0>.е
   gramm: sg,loc
  -flex: <0>.ы//<0>.и
   gramm: du,voc
@@ -957,27 +957,27 @@
   gramm: pl,loc
  -flex: <0>.а
   gramm: pl,acc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,loc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
  -flex: <0>.у
   gramm: sg,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,nom
  -flex: <0>.а
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъмь//<0>.ъм
+ -flex: <0>.омъ//<0>.ъмь//<0>.ъм//<0>.омь
   gramm: sg,ins
  -flex: <0>.а
   gramm: pl,voc
  -flex: <0>.ома
   gramm: du,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,acc
  -flex: <0>.омъ//<0>.амъ
   gramm: pl,dat
@@ -1000,27 +1000,27 @@
   gramm: pl,loc
  -flex: <0>.а
   gramm: pl,acc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,loc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
  -flex: <0>.у
   gramm: sg,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,nom
  -flex: <0>.а
   gramm: pl,nom
  -flex: <0>.а
   gramm: sg,gen
- -flex: <0>.омъ//<0>.ъмь//<0>.ъм
+ -flex: <0>.омъ//<0>.ъмь//<0>.ъм//<0>.омь
   gramm: sg,ins
  -flex: <0>.а
   gramm: pl,voc
  -flex: <0>.ома
   gramm: du,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,acc
  -flex: <0>.омъ//<0>.амъ
   gramm: pl,dat
@@ -1084,21 +1084,21 @@
   gramm: pl,ins
  -flex: <0>.яхъ
   gramm: pl,loc
- -flex: <0>.и//<0>.ь//<0>.ѣ
+ -flex: <0>.и//<0>.ь//<0>.ѣ//<0>.я
   gramm: pl,acc
- -flex: <0>.и//<0>.е
+ -flex: <0>.и//<0>.е//<0>.ѣ
   gramm: sg,loc
  -flex: <0>.и
   gramm: du,voc
  -flex: <0>.ю
   gramm: du,gen
- -flex: <0>.и//<0>.е
+ -flex: <0>.и//<0>.е//<0>.ѣ
   gramm: sg,dat
  -flex: <0>.и
   gramm: du,nom
  -flex: <0>.и//<0>.ѣ
   gramm: pl,nom
- -flex: <0>.и//<0>.ѣ
+ -flex: <0>.и//<0>.ѣ//<0>.я
   gramm: sg,gen
  -flex: <0>.ею
   gramm: sg,ins
@@ -1117,7 +1117,7 @@
  -flex: <0>.ю
   gramm: sg,acc
 -paradigm: N3k
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1125,19 +1125,19 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.и//<0>.ъ//<0>.ы
   gramm: pl,acc
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: sg,loc
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: sg,dat
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,nom
  -flex: <0>.и//<0>.ы
   gramm: pl,nom
@@ -1147,15 +1147,15 @@
   gramm: sg,ins
  -flex: <0>.и//<0>.ы
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
- -flex: <1>.ѣ
+ -flex: <1>.ѣ//<0>.ѣ//<1>.е//<0>.е
   gramm: du,acc
  -flex: <0>.амъ
   gramm: pl,dat
  -flex: <0>.о//<0>.а
   gramm: sg,voc
- -flex: <0>.ъ
+ -flex: <0>.ъ//<0>.ь
   gramm: pl,gen
  -flex: <0>.у
   gramm: sg,acc
@@ -1203,7 +1203,7 @@
  -flex: <0>.ю
   gramm: sg,acc
 -paradigm: N3c
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1211,17 +1211,17 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.ы//<0>.ѣ//<0>.ъ
   gramm: pl,acc
- -flex: <0>.ѣ//<0>.и
+ -flex: <0>.ѣ//<0>.и//<0>.е
   gramm: sg,loc
  -flex: <0>.ы//<0>.и
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
- -flex: <0>.ѣ//<0>.и
+ -flex: <0>.ѣ//<0>.и//<0>.е
   gramm: sg,dat
  -flex: <0>.ы//<0>.и
   gramm: du,nom
@@ -1233,7 +1233,7 @@
   gramm: sg,ins
  -flex: <0>.ы//<0>.ѣ
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
  -flex: <0>.ы//<0>.и
   gramm: du,acc
@@ -1256,21 +1256,21 @@
   gramm: pl,ins
  -flex: <0>.яхъ
   gramm: pl,loc
- -flex: <0>.и//<0>.ѣ//<1>.ь
+ -flex: <0>.и//<0>.ѣ//<1>.ь//<0>.я
   gramm: pl,acc
- -flex: <0>.и//<0>.е
+ -flex: <0>.и//<0>.е//<0>.ѣ
   gramm: sg,loc
  -flex: <0>.и
   gramm: du,voc
  -flex: <0>.ю
   gramm: du,gen
- -flex: <0>.и//<0>.е
+ -flex: <0>.и//<0>.е//<0>.ѣ
   gramm: sg,dat
  -flex: <0>.и
   gramm: du,nom
  -flex: <0>.и//<0>.ѣ
   gramm: pl,nom
- -flex: <0>.и//<0>.ѣ
+ -flex: <0>.и//<0>.ѣ//<0>.я
   gramm: sg,gen
  -flex: <0>.ею
   gramm: sg,ins
@@ -1289,7 +1289,7 @@
  -flex: <0>.ю
   gramm: sg,acc
 -paradigm: N3k_STAR
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1297,7 +1297,7 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.и//<0>.ы//<1>.ъ
   gramm: pl,acc
@@ -1319,7 +1319,7 @@
   gramm: sg,ins
  -flex: <0>.и//<0>.ы
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
  -flex: <2>.ѣ
   gramm: du,acc
@@ -1327,12 +1327,12 @@
   gramm: pl,dat
  -flex: <0>.о//<0>.а
   gramm: sg,voc
- -flex: <1>.ъ//<0>.ъ
+ -flex: <1>.ъ//<0>.ъ//<0>.ь//<1>.ь
   gramm: pl,gen
  -flex: <0>.у
   gramm: sg,acc
 -paradigm: N3t_STAR
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1340,19 +1340,19 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.ы//<1>.ъ
   gramm: pl,acc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,loc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,nom
  -flex: <0>.ы
   gramm: pl,nom
@@ -1362,20 +1362,20 @@
   gramm: sg,ins
  -flex: <0>.ы
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,acc
  -flex: <0>.амъ
   gramm: pl,dat
  -flex: <0>.о//<0>.а
   gramm: sg,voc
- -flex: <1>.ъ//<0>.ъ
+ -flex: <1>.ъ//<0>.ъ//<0>.ь//<1>.ь
   gramm: pl,gen
  -flex: <0>.у
   gramm: sg,acc
 -paradigm: N3c_STAR
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1383,17 +1383,17 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.ы//<0>.ѣ//<1>.ъ
   gramm: pl,acc
- -flex: <0>.ѣ//<0>.и
+ -flex: <0>.ѣ//<0>.и//<0>.е
   gramm: sg,loc
  -flex: <0>.ы//<0>.и
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
- -flex: <0>.ѣ//<0>.и
+ -flex: <0>.ѣ//<0>.и//<0>.е
   gramm: sg,dat
  -flex: <0>.ы//<0>.и
   gramm: du,nom
@@ -1405,7 +1405,7 @@
   gramm: sg,ins
  -flex: <0>.ы//<0>.ѣ
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
  -flex: <0>.ы//<0>.и
   gramm: du,acc
@@ -1418,7 +1418,7 @@
  -flex: <0>.у//<0>.ю
   gramm: sg,acc
 -paradigm: N3e
- -flex: <0>.ама//<0>.яма
+ -flex: <0>.ама//<0>.яма//<0>.ома
   gramm: du,ins
  -flex: <0>.а//<0>.я
   gramm: sg,nom
@@ -1426,7 +1426,7 @@
   gramm: du,loc
  -flex: <0>.ами//<0>.ями
   gramm: pl,ins
- -flex: <0>.ахъ//<0>.яхъ
+ -flex: <0>.ахъ//<0>.яхъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.и//<0>.ѣ//<0>.й
   gramm: pl,acc
@@ -1448,7 +1448,7 @@
   gramm: sg,ins
  -flex: <0>.и//<0>.ѣ
   gramm: pl,voc
- -flex: <0>.ама//<0>.яма
+ -flex: <0>.ама//<0>.яма//<0>.ома
   gramm: du,dat
  -flex: <0>.и
   gramm: du,acc
@@ -1461,7 +1461,7 @@
  -flex: <0>.ю
   gramm: sg,acc
 -paradigm: N3s
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1469,7 +1469,7 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.ы//<0>.ъ
   gramm: pl,acc
@@ -1491,7 +1491,7 @@
   gramm: sg,ins
  -flex: <0>.и//<0>.ѣ
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
  -flex: <0>.и
   gramm: du,acc
@@ -1504,7 +1504,7 @@
  -flex: <0>.у
   gramm: sg,acc
 -paradigm: N3t
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,ins
  -flex: <0>.а
   gramm: sg,nom
@@ -1512,19 +1512,19 @@
   gramm: du,loc
  -flex: <0>.ами
   gramm: pl,ins
- -flex: <0>.ахъ
+ -flex: <0>.ахъ//<0>.охъ
   gramm: pl,loc
  -flex: <0>.ы//<0>.ъ
   gramm: pl,acc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,loc
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,voc
  -flex: <0>.у
   gramm: du,gen
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: sg,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,nom
  -flex: <0>.ы
   gramm: pl,nom
@@ -1534,15 +1534,15 @@
   gramm: sg,ins
  -flex: <0>.ы
   gramm: pl,voc
- -flex: <0>.ама
+ -flex: <0>.ама//<0>.ома
   gramm: du,dat
- -flex: <0>.ѣ
+ -flex: <0>.ѣ//<0>.е
   gramm: du,acc
  -flex: <0>.амъ
   gramm: pl,dat
  -flex: <0>.о//<0>.а
   gramm: sg,voc
- -flex: <0>.ъ
+ -flex: <0>.ъ//<0>.ь
   gramm: pl,gen
  -flex: <0>.у
   gramm: sg,acc
