@@ -14,12 +14,28 @@ class word:
         self.id = u''
         self.par_name_list = []
         self.group_par_stem = {}
+        self.lemma_after_fall = u''
+
+    def create_examples(self, testdict):
+        for key in testdict:
+            new_ex = example()
+            new_ex.analys = key
+            new_ex.form = testdict[key]
+            common_wf = []
+            for wordform in new_ex.form:
+                wordform_norm = commonform(wordform)
+                if wordform_norm not in common_wf:
+                    new_ex_form_norm = form_norm()
+                    new_ex_form_norm.form = wordform_norm
+                    common_wf.append(wordform_norm)
+                    new_ex.form_norm.append(new_ex_form_norm)
+            self.examples.append(new_ex)
 
     def guess(self, analy_data):
         par_set = u'firsttime'
         for ex in self.examples:
             ex.guess_example(analy_data)
-            # print u'in guess, guessed forms for one example ', ex.par_stem
+            print u'in guess, guessed forms for one example ', ex.par_stem
             if par_set == u'firsttime':
                 par_set = set(ex.par_stem)
             par_set = par_set & set(ex.par_stem)
@@ -31,12 +47,33 @@ class word:
                 self.par_stem.append(good_p_s)
 
     def group_stems(self):
+        todel = []
         for par_stem in self.par_stem:
             for whateveritis in par_stem:
                 if whateveritis.par.name not in self.group_par_stem:
                     self.group_par_stem[whateveritis.par.name] = [set() for i in xrange(whateveritis.par.num_of_stems)]
                 # print self.group_par_stem[whateveritis.par.name], whateveritis.stem.number, whateveritis.par.num_of_stems
                 self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] = self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] | set([whateveritis.stem.stem_form])
+
+        for par_st in self.group_par_stem:
+            i = 0
+            if u'STAR' in par_st:
+                for stemset in self.group_par_stem[par_st]:
+                    if len(stemset) > 0:
+                        i += 1
+                if i > 1:
+                    todel.append(par_st[:-5])
+
+        for par_name in todel:
+            del self.group_par_stem[par_name]
+
+    def print_par_stem(self):
+        print self.id, self.lemma
+        for par_name in self.group_par_stem:
+            print par_name, self.group_par_stem[par_name]
+            for stem_forms in self.group_par_stem[par_name]:
+                for form in stem_forms:
+                    print form
 
 
 class example:
@@ -52,7 +89,6 @@ class example:
         # print u'analys', self.analys
         grammema = analy_data[self.analys]
         wordform_par_set = u'firsttime'
-        # print u'form_norm class', type(self.form_norm[0])
         for form_n in self.form_norm:
             # print u'form_n', form_n.form
             form_par = form_n.guess_wordform(grammema)
@@ -102,7 +138,7 @@ class form_norm:
                     self.par_stem.append(new_par_stem)
                     self.par_name_list.append(new_par_stem.par.name)
                     if new_par_stem.par.name in self.par_name_dict:
-                        print self.par_name_dict[new_par_stem.par.name], u'два матча на одну парадигму в конкретном примере, в основу запишется позднейщий'
+                        print new_par_stem.par.name, new_par_stem.stem.stem_form, self.form, u'два матча на одну парадигму в конкретном примере, в основу запишется первый'
                     else:
                         self.par_name_dict[new_par_stem.par.name] = new_par_stem
                         # print new_par_stem.stem.stem_form, u'это основа для', new_par_stem.par.name
@@ -368,40 +404,26 @@ anal_data = analysis_data(paradigmy)
 #         print infl.name
 #         print infl.grammema
 
-testdict = {u'sg,nom': [u'коло'], u'sg,ins': [u'колесемъ', u'колесем'], u'du,ins': [u'колесема']}
-testdict = {u'sg,nom': [u'другъ'], u'sg,gen': [u'друга'], u'pl,nom': [u'друзи', u'дгузи']}
-kolo = word()
-kolo.lemma = u'коло'
-kolo.id = 1
-for key in testdict:
-    new_ex = example()
-    new_ex.analys = key
-    new_ex.form = testdict[key]
-    common_wf = []
-    for wordform in new_ex.form:
-        wordform_norm = commonform(wordform)
-        if wordform_norm not in common_wf:
-            new_ex_form_norm = form_norm()
-            new_ex_form_norm.form = wordform_norm
-            common_wf.append(wordform_norm)
-            new_ex.form_norm.append(new_ex_form_norm)
-    kolo.examples.append(new_ex)
-
-# for ex in kolo.examples:
-#     print ex.analys
-#     for rorm in ex.form:
-#         print rorm
-#     for rorm in ex.form_norm:
-#         print rorm
-
-kolo.guess(anal_data)
-for p_s in kolo.par_stem:
-    for item in p_s:
-        print item.par.name, item.stem.stem_form, item.stem.number
-
-kolo.group_stems()
-for par_name in kolo.group_par_stem:
-    print par_name, kolo.group_par_stem[par_name]
-    for stem_forms in kolo.group_par_stem[par_name]:
-        for form in stem_forms:
-            print form
+# testdict = {u'sg,nom': [u'коло'], u'sg,ins': [u'колесемъ', u'колесем'], u'du,ins': [u'колесема']}
+# # testdict = {u'sg,nom': [u'другъ'], u'sg,gen': [u'друга'], u'pl,nom': [u'други', u'дгузи']}
+# kolo = word()
+# kolo.lemma = u'коло'
+# kolo.id = 666
+# kolo.create_examples(testdict)
+#
+#
+# # for ex in kolo.examples:
+# #     print ex.analys
+# #     for rorm in ex.form:
+# #         print rorm
+# #     for rorm in ex.form_norm:
+# #         print rorm
+#
+# kolo.guess(anal_data)
+# for p_s in kolo.par_stem:
+#     for item in p_s:
+#         print item.par.name, item.stem.stem_form, item.stem.number
+#
+# kolo.group_stems()
+#
+# kolo.print_par_stem()
