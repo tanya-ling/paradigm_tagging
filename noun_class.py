@@ -81,7 +81,13 @@ class word:
                 todel.append(par_st)
 
         for par_name in todel:
-            del self.group_par_stem[par_name]
+            try:
+                del self.group_par_stem[par_name]
+            except:
+                try:
+                    del self.group_par_stem[u'N5ov']
+                except:
+                    print u'key error', par_name
 
     def print_par_stem(self):
         print self.id, self.lemma, self.gramm
