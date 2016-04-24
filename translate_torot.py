@@ -4,7 +4,8 @@ import codecs
 import noun_class
 import json
 
-def make_content_dict(forms):
+
+def make_content_dict(forms, pos):
     content_dict = {}
     forms = forms.split(u'|')
     for form in forms:
@@ -16,6 +17,15 @@ def make_content_dict(forms):
         tgramm = tgramm[:-1]
         if tgramm == u'non-infl':
             continue
+        if pos == u'N':
+            gramm, gender = make_content_dict_noun(tgramm)
+        if pos == u'Adj':
+            gramm, gender = make_content_dict_adj(tgramm)
+        examples = examples.split(u',')
+        content_dict[gramm] = examples
+    return content_dict, gender
+
+def make_content_dict_noun(tgramm):
         try:
             number, gender, case, infl = tgramm.split(u'., ')
         except:
@@ -23,11 +33,23 @@ def make_content_dict(forms):
         if case == u'gen./dat':
             case = u'dat'
         gramm = number + u',' + case
-        examples = examples.split(u',')
-        content_dict[gramm] = examples
-    return content_dict, gender
+        return gramm, gender
 
-paradigmy = noun_class.parad_from_file()
+def make_content_dict_adj(tgramm):
+        tgramm = tgramm.replace(u'k,', u'k.,')
+        tgramm = tgramm.replace(u'g,', u'g.,')
+        try:
+            number, gender, case, bla, strong, infl = tgramm.split(u'., ')
+        except:
+            print u'2 mistake in lemmalist file', tgramm
+        if case == u'gen./dat':
+            case = u'dat'
+        gramm = number + u',' + gender + u',' + case
+        if strong == u'strong':
+            gramm += u',brev'
+        return gramm, u'-'
+
+paradigmy = noun_class.parad_from_file(u'прилфлексии.txt')
 anal_data = noun_class.analysis_data(paradigmy)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
@@ -39,18 +61,23 @@ unparsed = 0
 time1 = time.clock()
 great_d = []
 misirable = []
+pos = u'Adj'
 for line in f:
     line = line.rstrip()
     lemma_content = line.split(u';')
-    if lemma_content[2] != u'common noun' or lemma_content[0] == u'FIXME':
+    #if lemma_content[2] != u'common noun' or lemma_content[0] == u'FIXME':
+    if lemma_content[2] != u'adjective' or lemma_content[0] == u'FIXME':
         continue
     id += 1
     # if id < 6:
     #     continue
-    lemma_content_dict, gender = make_content_dict(lemma_content[3])
+    lemma_content_dict, gender = make_content_dict(lemma_content[3], pos)
     new_word = noun_class.word()
     new_word.lemma = lemma_content[0]
-    new_word.pos = u'N'
+    if pos == u'N':
+        new_word.pos = u'N'
+    elif pos == u'Adj':
+        new_word.pos = u'Adj'
     new_word.gramm = gender
     new_word.torot_id = lemma_content[1]
     new_word.id = id
@@ -58,10 +85,10 @@ for line in f:
     new_word.create_examples(lemma_content_dict)
     new_word.guess(anal_data)
     new_word.group_stems()
-    # new_word.print_par_stem()
-    # print u'____________________________________________________________________'
-    # if id == 15:
-    #     break
+    new_word.print_par_stem()
+    print u'____________________________________________________________________'
+    if id == 15:
+        break
     if len(new_word.group_par_stem) > 0:
         parsed += 1
         wtw = new_word.write_guessed_to_file()

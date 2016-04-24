@@ -16,6 +16,7 @@ class word:
         self.par_name_list = []
         self.group_par_stem = {}
         self.lemma_after_fall = u''
+        self.weight_dict = {}
 
     def create_examples(self, testdict):
         for key in testdict:
@@ -41,13 +42,63 @@ class word:
                 par_set = set(ex.par_stem)
             par_set = par_set & set(ex.par_stem)
         self.par_name_list = list(par_set)
+        self.get_stems()
+
+    def get_p_s_if_no(self):
+        looked_pars = []
+        for example in self.examples:
+            print example.par_stem
+            for par_stem in example.par_stem:
+                    if par_stem not in looked_pars:
+                        looked_pars.append(par_stem)
+                        for ex in self.examples:
+                            for par_st in ex.par_stem:
+                                if par_st == par_stem:
+                                    print example.par_name_dict[par_stem]
+                                    example.par_name_dict[par_stem][0].weight += 1
+                                    example.par_name_dict[par_st][0].weight += 1
+                                    # par_stem.weight += 1
+                                    # par_st.weight = par_stem.weight
+
+        max_score = 0
+        for para in looked_pars:
+            con = False
+            for example in self.examples:
+                if con:
+                    continue
+                for par_stem in example.par_stem:
+                    if con:
+                        continue
+                    if par_stem == para:
+                        if example.par_name_dict[par_stem][0].weight > max_score:
+                            print u'par stem weight', example.par_name_dict[par_stem][0].weight
+                            max_score = example.par_name_dict[par_stem][0].weight
+                            best_match = [par_stem]
+                            con = True
+                            self.weight_dict = {par_stem : max_score}
+                        elif example.par_name_dict[par_stem][0].weight == max_score:
+                            best_match.append(par_stem)
+                            con = True
+                            self.weight_dict[par_stem] = max_score
+
+        self.par_name_list = best_match
+        self.get_stems()
+
+    def get_stems(self):
         for par_name in self.par_name_list:
             # print u'getting stems for', par_name
             for ex in self.examples:
-                good_p_s = ex.par_name_dict[par_name]
-                self.par_stem.append(good_p_s)
+                try:
+                    good_p_s = ex.par_name_dict[par_name]
+                    self.par_stem.append(good_p_s)
+                except KeyError:
+                    pass
+
 
     def group_stems(self):
+        if len(self.par_stem) == 0:
+            print u'не нашли точного совпадения'  # ну уж совсем нестрогий вариант
+            self.get_p_s_if_no()
         todel = []
         for par_stem in self.par_stem:
             for whateveritis in par_stem:
@@ -65,20 +116,21 @@ class word:
                 if i > 1:
                     # print u'it must be a star, then better delete ', par_st[:-5]
                     todel.append(par_st[:-5])
-            if u'4' in par_st:
-                if u'41' in par_st:
-                    if self.gramm != u'f':
+            if self.pos == u'N':
+                if u'4' in par_st:
+                    if u'41' in par_st:
+                        if self.gramm != u'f':
+                            todel.append(par_st)
+                    elif self.gramm != u'm':
                         todel.append(par_st)
-                elif self.gramm != u'm':
+                elif u'1' in par_st and self.gramm != u'm':
                     todel.append(par_st)
-            elif u'1' in par_st and self.gramm != u'm':
-                todel.append(par_st)
-            elif u'2' in par_st and self.gramm != u'n':
-                todel.append(par_st)
-            elif u'3' in par_st and self.gramm == u'n':
-                todel.append(par_st)
-            elif u'6' in par_st and self.gramm != u'm':
-                todel.append(par_st)
+                elif u'2' in par_st and self.gramm != u'n':
+                    todel.append(par_st)
+                elif u'3' in par_st and self.gramm == u'n':
+                    todel.append(par_st)
+                elif u'6' in par_st and self.gramm != u'm':
+                    todel.append(par_st)
 
         for par_name in todel:
             try:
@@ -87,10 +139,10 @@ class word:
                 try:
                     del self.group_par_stem[u'N5ov']
                 except:
-                    print u'key error', par_name
+                    print u'key error in group stems', par_name
 
     def print_par_stem(self):
-        print self.id, self.lemma, self.gramm
+        print self.id, self.lemma, self.gramm, u'in print_par_stem'
         for par_name in self.group_par_stem:
             print par_name, self.group_par_stem[par_name]
             for stem_forms in self.group_par_stem[par_name]:
@@ -98,14 +150,16 @@ class word:
                     print form
 
     def write_guessed_to_file(self):
-        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': u'N', u'gender': self.gramm, u'lemma': self.lemma}
+        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
+        if self.pos == u'N':
+            wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys : ex.form} for ex in self.examples]
         wtw[u'par_stem'] = self.group_par_stem
         wtw[u'lemma_new'] = self.lemma_after_fall
         return wtw
 
     def write_unguessed_to_file(self):
-        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': u'N', u'gender': self.gramm, u'lemma': self.lemma}
+        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'gender': self.gramm, u'lemma': self.lemma}
         wtw[u'lemma_new'] = self.lemma_after_fall
         wtw[u'examples'] = [{ex.analys: ex.form, u'paradigms': ex.par_name_list} for ex in self.examples]
         return wtw
@@ -193,6 +247,7 @@ class par_stem:
         self.stem = u''
         self.infl = u''
         self.ishod = u''
+        self.weight = 0
 
 # class par_stems:
 #     def __init__(self):
@@ -251,8 +306,8 @@ class par_infl_mod:
         self.infl = []
         self.model = []
 
-def open_paradigms():
-    f = codecs.open(u'сущфлексии.txt', u'r', u'utf-8')
+def open_paradigms(filen):
+    f = codecs.open(filen, u'r', u'utf-8')
     a = f.read()
     a = a.split(u'-paradigm: ')
     dict = {}
@@ -269,15 +324,17 @@ def inside_paradigm(i, dict):
             continue
         # print j, u'мы внутри парадигмы', byline[j]
         content = byline[j-1][8:].split(u'//')
+        for index in range(len(content)):
+            content[index].replace(u'й', u'и')  # с replace это довольно спорный шаг
         c_dic[byline[j][9:]] = content
     if byline[0] == u'':
         return dict
     dict[byline[0]] = c_dic
     return dict
 
-def parad_from_file():
+def parad_from_file(filen):
     paradigmy = []
-    paradigms = open_paradigms()
+    paradigms = open_paradigms(filen)
     parad_dict = {}
     stems = open_stems()
     for j in paradigms:
@@ -368,6 +425,9 @@ def sochet(word):
     word2 = word2.replace(u'жы', u'жи')
     word2 = word2.replace(u'шы', u'ши')
     word2 = word2.replace(u'щы', u'щи')
+    word2 = word2.replace(u'кы', u'ки')
+    # word2 = word2.replace(u'гы', u'ги')  # чтобы не пороть другый, но вообще решение нужно
+    word2 = word2.replace(u'хы', u'хи')
     word2 = word2.replace(u'чы', u'чи')
     word2 = word2.replace(u'жю', u'жу')
     word2 = word2.replace(u'шю', u'шу')
@@ -441,11 +501,12 @@ def begend_new(word):
     return word
 
 
-paradigmy = parad_from_file()
-anal_data = analysis_data(paradigmy)
+# paradigmy = parad_from_file(u'сущфлексии.txt')
+# paradigmy = parad_from_file(u'прилфлексии.txt')
+# anal_data = analysis_data(paradigmy)
 
 # for grammema in anal_data:
-#     print grammema
+#     print grammema, u'grammema'
 #     print anal_data[grammema].an_name
 #     for p_i_m in anal_data[grammema].par_infl_mod:
 #         print p_i_m.par.name
@@ -464,6 +525,7 @@ anal_data = analysis_data(paradigmy)
 
 # testdict = {u'sg,nom': [u'коло'], u'sg,ins': [u'колесемъ', u'колесем'], u'du,ins': [u'колесема']}
 # # testdict = {u'sg,nom': [u'другъ'], u'sg,gen': [u'друга'], u'pl,nom': [u'други', u'дгузи']}
+# testdict = {u'pl,f,nom': [u'храбрыя'], u'pl,m,nom,brev': [u'храбри', u'храбры'], u'sg,m,nom,brev': [u'храбръ']}
 # kolo = word()
 # kolo.lemma = u'коло'
 # kolo.id = 666
