@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "gender": "-", 
+    "pos": "V", 
+    "lemma_new": "седати", 
+    "lemma": "съсѣдати", 
+    "examples": [
+      {
+        "paradigms": [], 
+        "indic,praes,pl,3p": [
+          "съсѣдѧть"
+        ]
+      }
+    ], 
+    "id": 4, 
+    "torot_id": "120304"
+  }
+]

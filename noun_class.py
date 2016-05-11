@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 import re
 import codecs
+import math
 from hawlik_low import oslo_trans
 
 class word:
@@ -17,12 +18,14 @@ class word:
         self.group_par_stem = {}
         self.lemma_after_fall = u''
         self.weight_dict = {}
+        self.score_dict = {}
 
     def create_examples(self, testdict):
         for key in testdict:
             new_ex = example()
             new_ex.analys = key
             new_ex.form = testdict[key]
+            # print u'noun class line 28', new_ex.form, new_ex.analys
             common_wf = []
             for wordform in new_ex.form:
                 wordform_norm = commonform(wordform)
@@ -54,11 +57,14 @@ class word:
                         for ex in self.examples:
                             for par_st in ex.par_stem:
                                 if par_st == par_stem:
-                                    print example.par_name_dict[par_stem]
+                                    # print example.par_name_dict[par_stem]
                                     example.par_name_dict[par_stem][0].weight += 1
-                                    example.par_name_dict[par_st][0].weight += 1
+                                    ex.par_name_dict[par_st][0].weight += 1
                                     # par_stem.weight += 1
                                     # par_st.weight = par_stem.weight
+        if len(looked_pars) == 0:
+            return
+
 
         max_score = 0
         for para in looked_pars:
@@ -70,8 +76,17 @@ class word:
                     if con:
                         continue
                     if par_stem == para:
+                        # print par_stem
+                        # print float(example.par_name_dict[par_stem][0].weight), float(len(self.examples))
+                        # print float(example.par_name_dict[par_stem][0].weight) / float(len(self.examples))
+                        # print math.log(1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
+                        example.par_name_dict[par_stem][0].weight_score = float(example.par_name_dict[par_stem][
+                                                                           0].weight) / 16 * math.log(
+                            1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
+                        self.score_dict[par_stem] = example.par_name_dict[par_stem][0].weight_score
+                        # print u'par stem weight score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
                         if example.par_name_dict[par_stem][0].weight > max_score:
-                            print u'par stem weight', example.par_name_dict[par_stem][0].weight
+                            # print u'par stem weight', par_stem, example.par_name_dict[par_stem][0].weight
                             max_score = example.par_name_dict[par_stem][0].weight
                             best_match = [par_stem]
                             con = True
@@ -80,7 +95,6 @@ class word:
                             best_match.append(par_stem)
                             con = True
                             self.weight_dict[par_stem] = max_score
-
         self.par_name_list = best_match
         self.get_stems()
 
@@ -97,7 +111,7 @@ class word:
 
     def group_stems(self):
         if len(self.par_stem) == 0:
-            print u'не нашли точного совпадения'  # ну уж совсем нестрогий вариант
+            print u'не нашли точного совпадения', self.lemma  # ну уж совсем нестрогий вариант
             self.get_p_s_if_no()
         todel = []
         for par_stem in self.par_stem:
@@ -155,6 +169,12 @@ class word:
             wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys : ex.form} for ex in self.examples]
         wtw[u'par_stem'] = self.group_par_stem
+        wtw[u'scores'] = {}
+        for par_name in self.par_name_list:
+            if par_name in self.score_dict:
+                wtw[u'scores'][par_name] = self.score_dict[par_name]
+            else:
+                wtw[u'scores'][par_name] = float(len(self.examples))/16
         wtw[u'lemma_new'] = self.lemma_after_fall
         return wtw
 
@@ -233,7 +253,8 @@ class form_norm:
                     self.par_stem.append(new_par_stem)
                     self.par_name_list.append(new_par_stem.par.name)
                     if new_par_stem.par.name in self.par_name_dict:
-                        print new_par_stem.par.name, new_par_stem.stem.stem_form, self.form, u'два матча на одну парадигму в конкретном примере, в основу запишется первый'
+                        pass
+                        # print new_par_stem.par.name, new_par_stem.stem.stem_form, self.form, u'два матча на одну парадигму в конкретном примере, в основу запишется первый'
                     else:
                         self.par_name_dict[new_par_stem.par.name] = new_par_stem
                         # print new_par_stem.stem.stem_form, u'это основа для', new_par_stem.par.name
@@ -248,6 +269,7 @@ class par_stem:
         self.infl = u''
         self.ishod = u''
         self.weight = 0
+        self.weight_score = 0
 
 # class par_stems:
 #     def __init__(self):
@@ -289,16 +311,26 @@ class inflexion:
         self.name = u''
         self.grammema = grammema()
 
+
 class grammema():
     def __init__(self):
         self.gram_form = u''
         self.st_mod = u''
         self.st_num = u''
 
+    def num_of_stems(self, nos, paradigma, flex):
+        try:
+            self.st_mod = paradigma.stem_model[nos][:-1]
+            self.st_num = nos
+        except:
+            print u'no stem ' + str(nos) + u': ', paradigma.name, flex
+
+
 class analysis:
     def __init__(self):
         self.an_name = u''
         self.par_infl_mod = []
+
 
 class par_infl_mod:
     def __init__(self):
@@ -332,16 +364,17 @@ def inside_paradigm(i, dict):
     dict[byline[0]] = c_dic
     return dict
 
-def parad_from_file(filen):
+def parad_from_file(filen, filename):
     paradigmy = []
     paradigms = open_paradigms(filen)
     parad_dict = {}
-    stems = open_stems()
+    stems = open_stems(filename)
     for j in paradigms:
         nos = 1
         apar = paradigm()
         apar.name = j
         apar.classic_indexing()
+        # print stems, u'line 363'
         apar.stem_model = stems[j][0]
         for i in paradigms[j]:
             infl = inflexion()
@@ -362,8 +395,7 @@ def parad_from_file(filen):
     return parad_dict
     return paradigmy
 
-def open_stems():
-    filename = u'описание основ сущ_lite.txt'
+def open_stems(filename):
     f = codecs.open(filename, u'r', u'utf-8')
     dict = {}
     for line in f:
@@ -389,29 +421,7 @@ def analysis_data(paradigmy):
             for flex in infl.grammema:
                 new_grammema = grammema()
                 new_grammema.gram_form = re.sub(u'<[012]>\.', u'', flex)
-                if u'<0>' in flex:
-                    new_grammema.st_mod = paradigmy[par_name].stem_model[0][:-1]
-                    new_grammema.st_num = 0
-                elif u'<1>' in flex:
-                    try:
-                        new_grammema.st_mod = paradigmy[par_name].stem_model[1][:-1]
-                        new_grammema.st_num = 1
-                    except:
-                        print u'no stem 1: ', paradigmy[par_name].name, flex
-                elif u'<2>' in flex:
-                    try:
-                        new_grammema.st_mod = paradigmy[par_name].stem_model[2][:-1]
-                        new_grammema.st_num = 2
-                    except:
-                        print u'no stem 2: ', paradigmy[par_name].name, flex
-                elif u'<3>' in flex:
-                    try:
-                        new_grammema.st_mod = paradigmy[par_name].stem_model[3][:-1]
-                        new_grammema.st_num = 3
-                    except:
-                        print u'no stem 3: ', paradigmy[par_name].name, flex
-                else:
-                    print u'mistake in stems description', flex, par_name, infl.name
+                new_grammema.num_of_stems(int(flex[1]), paradigmy[par_name], flex)
                 new_par_gram.infl.append(new_grammema)
             # new_par_gram.model = paradigmy[par_name].stem_model
             anal_data[infl.name].par_infl_mod.append(new_par_gram)
