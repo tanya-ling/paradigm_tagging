@@ -16,6 +16,8 @@ def make_content_dict(forms, pos):
             continue
         tgramm = tgramm[:-1]
         if tgramm == u'non-infl':
+            if pos != u'N':
+                gender = u'-'
             continue
         if pos == u'N':
             gramm, gender = make_content_dict_noun(tgramm)
@@ -23,13 +25,17 @@ def make_content_dict(forms, pos):
             gramm, gender = make_content_dict_adj(tgramm)
         if pos == u'V':
             gramm = make_content_dict_verb(tgramm)
-            if gramm == u'participle':
-                continue
             gender = u'-'
+            if gramm == u'participle' or gramm == u'supine':
+                continue
         examples = examples.split(u',')
         # print u't_t, line 30',  gramm, examples
         content_dict[gramm] = examples
-    return content_dict, gender
+    try:
+        return content_dict, gender
+    except UnboundLocalError:
+        print u'no gender in: ', forms, pos
+        return content_dict, u'-'
 
 
 def make_content_dict_noun(tgramm):
@@ -65,6 +71,8 @@ def make_content_dict_adj(tgramm):
 
 def make_content_dict_verb(tgramm):
     tgramm = become_stronger(tgramm)
+    if u'sup.' in tgramm:
+        return u'supine'
     if u'part' in tgramm:
         if u'result' not in tgramm:
             return u'participle'
@@ -121,10 +129,12 @@ def translate_person(person):
     return person
 
 
-# paradigmy = noun_class.parad_from_file(u'прилфлексии.txt', u'описание основ сущ_lite.txt')
-# paradigmy = noun_class.parad_from_file(u'сущфлексии.txt', u'описание основ сущ_lite.txt')
-paradigmy = noun_class.parad_from_file(u'глагфлексии.txt', u'глаголы_основы.txt')
-anal_data = noun_class.analysis_data(paradigmy)
+paradigmy_a = noun_class.parad_from_file(u'прилфлексии.txt', u'описание основ сущ_lite.txt')
+paradigmy_n = noun_class.parad_from_file(u'сущфлексии.txt', u'описание основ сущ_lite.txt')
+paradigmy_v = noun_class.parad_from_file(u'глагфлексии.txt', u'глаголы_основы.txt')
+anal_data_a = noun_class.analysis_data(paradigmy_a)
+anal_data_n = noun_class.analysis_data(paradigmy_n)
+anal_data_v = noun_class.analysis_data(paradigmy_v)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
 w = codecs.open(u'torot_gram.json', u'w', u'utf-8')
@@ -135,12 +145,16 @@ unparsed = 0
 time1 = time.clock()
 great_d = []
 misirable = []
-pos = u'V'
 for line in f:
     line = line.rstrip()
     lemma_content = line.split(u';')
-    if lemma_content[2] != u'verb' or lemma_content[0] == u'FIXME':
-    #if lemma_content[2] != u'adjective' or lemma_content[0] == u'FIXME':
+    if lemma_content[2] == u'verb':
+        pos = u'V'
+    elif lemma_content[2] == u'adjective':
+        pos = u'Adj'
+    elif lemma_content[2] == u'common noun':
+        pos = u'N'
+    else:
         continue
     id += 1
     # if id < 10:
@@ -151,16 +165,23 @@ for line in f:
     new_word.pos = pos
     new_word.gramm = gender
     new_word.torot_id = lemma_content[1]
+    if new_word.torot_id != u'123114':
+        continue
     new_word.id = id
     new_word.lemma_after_fall = noun_class.oslo_trans(new_word.lemma)
     # print u'translate_torot, line 155', lemma_content_dict
     new_word.create_examples(lemma_content_dict)
-    new_word.guess(anal_data)
+    if pos == u'N':
+        new_word.guess(anal_data_n)
+    elif pos == u'V':
+        new_word.guess(anal_data_v)
+    elif pos == u'Adj':
+        new_word.guess(anal_data_a)
     new_word.group_stems()
     new_word.print_par_stem()
     print u'____________________________________________________________________'
-    if id == 5:
-        break
+    # if id == 5:
+    #     break
     if len(new_word.group_par_stem) > 0:
         parsed += 1
         wtw = new_word.write_guessed_to_file()

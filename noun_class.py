@@ -50,7 +50,7 @@ class word:
     def get_p_s_if_no(self):
         looked_pars = []
         for example in self.examples:
-            print example.par_stem
+            print example.form[0], u'possible paradigms: ',example.par_stem
             for par_stem in example.par_stem:
                     if par_stem not in looked_pars:
                         looked_pars.append(par_stem)
@@ -86,7 +86,7 @@ class word:
                         self.score_dict[par_stem] = example.par_name_dict[par_stem][0].weight_score
                         # print u'par stem weight score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
                         if example.par_name_dict[par_stem][0].weight > max_score:
-                            # print u'par stem weight', par_stem, example.par_name_dict[par_stem][0].weight
+                            print u'par stem best weight, weight-score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
                             max_score = example.par_name_dict[par_stem][0].weight
                             best_match = [par_stem]
                             con = True
