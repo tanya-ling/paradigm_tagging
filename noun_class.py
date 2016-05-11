@@ -19,6 +19,8 @@ class word:
         self.lemma_after_fall = u''
         self.weight_dict = {}
         self.score_dict = {}
+        self.unan_examples = {}
+        self.second_score_dict = {}
 
     def create_examples(self, testdict):
         for key in testdict:
@@ -50,7 +52,7 @@ class word:
     def get_p_s_if_no(self):
         looked_pars = []
         for example in self.examples:
-            print example.form[0], u'possible paradigms: ',example.par_stem
+            # print example.form[0], u'possible paradigms: ',example.par_stem
             for par_stem in example.par_stem:
                     if par_stem not in looked_pars:
                         looked_pars.append(par_stem)
@@ -65,8 +67,19 @@ class word:
         if len(looked_pars) == 0:
             return
 
+        if self.pos == u'N':
+            pos_max = 15  # real - 31
+        elif self.pos == u'Adj':
+            pos_max = 21  # real - 45
+        elif self.pos == u'V':
+            pos_max = 23  # real - 101
+        else:
+            print u'what a pos?', self.pos, self.lemma
+            pos_max = 1
 
         max_score = 0
+        second_best = []
+        not_first = False
         for para in looked_pars:
             con = False
             for example in self.examples:
@@ -80,18 +93,26 @@ class word:
                         # print float(example.par_name_dict[par_stem][0].weight), float(len(self.examples))
                         # print float(example.par_name_dict[par_stem][0].weight) / float(len(self.examples))
                         # print math.log(1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
-                        example.par_name_dict[par_stem][0].weight_score = float(example.par_name_dict[par_stem][
-                                                                           0].weight) / 16 * math.log(
+                        measure = float(example.par_name_dict[par_stem][
+                                                                           0].weight) / pos_max * math.log(
                             1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
+                        if measure > 1:
+                            measure = 1
+                        example.par_name_dict[par_stem][0].weight_score = measure
                         self.score_dict[par_stem] = example.par_name_dict[par_stem][0].weight_score
                         # print u'par stem weight score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
-                        if example.par_name_dict[par_stem][0].weight > max_score:
-                            print u'par stem best weight, weight-score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
-                            max_score = example.par_name_dict[par_stem][0].weight
+                        if example.par_name_dict[par_stem][0].weight_score > max_score:
+                            # print u'par stem best weight, weight-score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
+                            if not_first and max_score > 0.19:
+                                second_best.append(old_par_stem)
+                                self.second_score_dict[old_par_stem] = max_score
+                            max_score = example.par_name_dict[par_stem][0].weight_score
                             best_match = [par_stem]
+                            old_par_stem = par_stem
                             con = True
-                            self.weight_dict = {par_stem : max_score}
-                        elif example.par_name_dict[par_stem][0].weight == max_score:
+                            self.weight_dict = {par_stem: max_score}
+                            not_first = True
+                        elif example.par_name_dict[par_stem][0].weight_score == max_score:
                             best_match.append(par_stem)
                             con = True
                             self.weight_dict[par_stem] = max_score
@@ -111,7 +132,7 @@ class word:
 
     def group_stems(self):
         if len(self.par_stem) == 0:
-            print u'не нашли точного совпадения', self.lemma  # ну уж совсем нестрогий вариант
+            # print u'не нашли точного совпадения', self.lemma  # ну уж совсем нестрогий вариант
             self.get_p_s_if_no()
         todel = []
         for par_stem in self.par_stem:
@@ -164,18 +185,34 @@ class word:
                     print form
 
     def write_guessed_to_file(self):
+        if self.pos == u'N':
+            pos_max = 15  # real - 31
+        elif self.pos == u'Adj':
+            pos_max = 21  # real - 45
+        elif self.pos == u'V':
+            pos_max = 23  # real - 101
+        else:
+            print u'what a pos?', self.pos, self.lemma
+            pos_max = 1
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
         if self.pos == u'N':
             wtw[u'gender'] = self.gramm
-        wtw[u'examples'] = [{ex.analys : ex.form} for ex in self.examples]
+        wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
         wtw[u'par_stem'] = self.group_par_stem
         wtw[u'scores'] = {}
         for par_name in self.par_name_list:
             if par_name in self.score_dict:
                 wtw[u'scores'][par_name] = self.score_dict[par_name]
+                for par_name2 in self.second_score_dict:  # тупо сделано и всё тормозит, по несколько раз добавляет
+                    wtw[u'scores'][par_name2] = self.second_score_dict[par_name2]
             else:
-                wtw[u'scores'][par_name] = float(len(self.examples))/16
+                measure = float(len(self.examples))/pos_max
+                if measure > 1:
+                    measure = 1
+                wtw[u'scores'][par_name] = measure
         wtw[u'lemma_new'] = self.lemma_after_fall
+        wtw[u'unanalysed_examples'] = self.unan_examples
+        wtw
         return wtw
 
     def write_unguessed_to_file(self):

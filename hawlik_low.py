@@ -55,7 +55,7 @@ def letterchange(word):
 
 def inter_new(word):
     newword = re.sub(u'([цкнгшщзхфвпрлджчсмтб])(ь|ъ)([цкнгшщзхфвпрлджчсмтб])', u'\\1\\3', word)
-    if newword[-1] == u'ь' or newword[-1] == u'ъ':
+    if newword[-1] == u'ъ':
         newword = newword[:-1]
     return newword
 

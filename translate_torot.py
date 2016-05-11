@@ -8,6 +8,7 @@ import json
 def make_content_dict(forms, pos):
     content_dict = {}
     forms = forms.split(u'|')
+    unanalysed_content = {}
     for form in forms:
         try:
             tgramm, examples = form.split(u':')
@@ -18,6 +19,7 @@ def make_content_dict(forms, pos):
         if tgramm == u'non-infl':
             if pos != u'N':
                 gender = u'-'
+                unanalysed_content[tgramm] = examples.split(u',')
             continue
         if pos == u'N':
             gramm, gender = make_content_dict_noun(tgramm)
@@ -27,15 +29,16 @@ def make_content_dict(forms, pos):
             gramm = make_content_dict_verb(tgramm)
             gender = u'-'
             if gramm == u'participle' or gramm == u'supine':
+                unanalysed_content[tgramm] = examples.split(u',')
                 continue
         examples = examples.split(u',')
         # print u't_t, line 30',  gramm, examples
         content_dict[gramm] = examples
     try:
-        return content_dict, gender
+        return content_dict, gender, unanalysed_content
     except UnboundLocalError:
         print u'no gender in: ', forms, pos
-        return content_dict, u'-'
+        return content_dict, u'-', unanalysed_content
 
 
 def make_content_dict_noun(tgramm):
@@ -159,16 +162,15 @@ for line in f:
     id += 1
     # if id < 10:
     #     continue
-    lemma_content_dict, gender = make_content_dict(lemma_content[3], pos)
+    lemma_content_dict, gender, unanal_content = make_content_dict(lemma_content[3], pos)
     new_word = noun_class.word()
     new_word.lemma = lemma_content[0]
     new_word.pos = pos
     new_word.gramm = gender
     new_word.torot_id = lemma_content[1]
-    if new_word.torot_id != u'123114':
-        continue
     new_word.id = id
     new_word.lemma_after_fall = noun_class.oslo_trans(new_word.lemma)
+    new_word.unan_examples = unanal_content
     # print u'translate_torot, line 155', lemma_content_dict
     new_word.create_examples(lemma_content_dict)
     if pos == u'N':
@@ -178,9 +180,9 @@ for line in f:
     elif pos == u'Adj':
         new_word.guess(anal_data_a)
     new_word.group_stems()
-    new_word.print_par_stem()
-    print u'____________________________________________________________________'
-    # if id == 5:
+    # new_word.print_par_stem()
+    print float(id)/8370 * 100, u'% made'
+    # if id == 15:
     #     break
     if len(new_word.group_par_stem) > 0:
         parsed += 1
