@@ -25,6 +25,9 @@ def make_content_dict(forms, pos):
             gramm, gender = make_content_dict_noun(tgramm)
         if pos == u'Adj':
             gramm, gender = make_content_dict_adj(tgramm)
+            if gramm == u'vocative':
+                unanalysed_content[tgramm] = examples.split(u',')
+                continue
         if pos == u'V':
             gramm = make_content_dict_verb(tgramm)
             gender = u'-'
@@ -44,6 +47,7 @@ def make_content_dict(forms, pos):
 def make_content_dict_noun(tgramm):
         try:
             number, gender, case, infl = tgramm.split(u'., ')
+            gender = genderize(gender)
         except:
             print u'2 mistake in lemmalist file', tgramm
         if case == u'gen./dat':
@@ -60,8 +64,11 @@ def become_stronger(tgramm):
 
 def make_content_dict_adj(tgramm):
         tgramm = become_stronger(tgramm)
+        if u'voc' in tgramm:
+            return u'vocative', u'-'
         try:
             number, gender, case, bla, strong, infl = tgramm.split(u'., ')
+            gender = genderize(gender)
         except:
             print u'2 mistake in lemmalist file', tgramm
         if case == u'gen./dat':
@@ -70,6 +77,17 @@ def make_content_dict_adj(tgramm):
         if strong == u'strong':
             gramm += u',brev'
         return gramm, u'-'
+
+def genderize(gender):
+    if u'/' in gender:
+        if u'm' in gender:
+            gender = u'm'
+        elif u'f' in gender:
+            gender = u'f'
+        else:
+            print u'what_the_gender?', gender
+            gender = u'm'
+    return gender
 
 
 def make_content_dict_verb(tgramm):
@@ -81,6 +99,7 @@ def make_content_dict_verb(tgramm):
             return u'participle'
         try:
             number, result, part, voice, gender, case, strong, infl = tgramm.split(u'., ')
+            gender = genderize(gender)
             gramm = u'perf,' + number + u',' + gender
             return gramm
         except:

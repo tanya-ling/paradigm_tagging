@@ -233,7 +233,11 @@ class example:
 
     def guess_example(self, analy_data):
         # print u'analys', self.analys
-        grammema = analy_data[self.analys]
+        try:
+            grammema = analy_data[self.analys]
+        except KeyError:
+            print u'key error in guess example', self.analys
+            return []
         wordform_par_set = u'firsttime'
         for form_n in self.form_norm:
             # print u'form_n', form_n.form
