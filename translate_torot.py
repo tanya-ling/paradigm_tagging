@@ -223,9 +223,11 @@ for line in f:
     elif pos == u'Adj' or pos == u'A-NUM':
         new_word.guess(anal_data_a)
     new_word.group_stems()
+    if pos == u'N':
+        new_word.predict_stems()
     # new_word.print_par_stem()
     print float(id)/8370 * 100, u'% made'
-    if id == 15:
+    if id == 150:
         break
     if len(new_word.group_par_stem) > 0 or uninfl:
         parsed += 1

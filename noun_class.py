@@ -3,6 +3,11 @@ import re
 import codecs
 import math
 from hawlik_low import oslo_trans
+from sys import path
+
+path.append(u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser')
+import total_new_dict_1903
+
 
 class word:
     def __init__(self):
@@ -16,6 +21,7 @@ class word:
         self.id = u''
         self.par_name_list = []
         self.group_par_stem = {}
+        self.predicted_par_stem = {}
         self.lemma_after_fall = u''
         self.weight_dict = {}
         self.score_dict = {}
@@ -129,6 +135,33 @@ class word:
                 except KeyError:
                     pass
 
+    def predict_stems(self):
+        for par_stem in self.group_par_stem:
+            if self.pos == u'N':
+                stem0 = total_new_dict_1903.osnnoun(self.lemma_after_fall, par_stem)
+                stems = total_new_dict_1903.nounstem(par_stem, stem0)
+                stem0_old = total_new_dict_1903.osnnoun(self.lemma, par_stem)
+                if stem0_old == stem0:
+                    if u'w' not in stems:
+                        res_stems = [[stems[i]] for i in xrange(len(stems))]
+                    else:
+                        res_stems = []
+                    self.predicted_par_stem[par_stem] = res_stems
+                    continue
+                stems_old = total_new_dict_1903.nounstem(par_stem, stem0_old)
+            # print par_stem, stems, u'and stems old', stems_old
+            if u'w' in stems or u'w' in stems_old:
+                res_stems = []
+            else:
+                stems = stems.split(u'.|')
+                stems_old = stems_old.split(u'.|')
+                res_stems = [None for i in xrange(len(stems))]
+                for i in xrange(len(stems)):
+                                if stems[i] == stems_old[i]:
+                                    res_stems[i] = [stems[i]]
+                                else:
+                                    res_stems[i] = [stems[i], stems_old[i]]
+            self.predicted_par_stem[par_stem] = res_stems
 
     def group_stems(self):
         if len(self.par_stem) == 0:
@@ -203,6 +236,7 @@ class word:
             wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
         wtw[u'par_stem'] = self.group_par_stem
+        wtw[u'predicted_stems'] = self.predicted_par_stem
         wtw[u'scores'] = {}
         for par_name in self.par_name_list:
             if par_name in self.score_dict:

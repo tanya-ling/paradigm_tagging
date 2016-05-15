@@ -60,7 +60,7 @@ def letterchange(word):
     newword = newword.replace(u'ѯ', u'кс')
     newword = newword.replace(u'ѱ', u'пс')
     newword = newword.replace(u'ѕ', u'з')
-    newword = newword.replace(u'ѣ', u'е')
+    # newword = newword.replace(u'ѣ', u'е')
     newword = newword.replace(u'ꙋ', u'у')
     newword = newword.replace(u'ꙗ', u'я')
     newword = newword.replace(u'ѧ', u'я')
