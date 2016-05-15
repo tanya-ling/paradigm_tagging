@@ -159,8 +159,8 @@ anal_data_n = noun_class.analysis_data(paradigmy_n)
 anal_data_v = noun_class.analysis_data(paradigmy_v)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
-w = codecs.open(u'torot_gram.json', u'w', u'utf-8')
-wb = codecs.open(u'torot_miss.json', u'w', u'utf-8')
+w = codecs.open(u'torot_gram_2.json', u'w', u'utf-8')
+wb = codecs.open(u'torot_miss_2.json', u'w', u'utf-8')
 id = 0
 parsed = 0
 unparsed = 0
