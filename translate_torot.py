@@ -23,17 +23,21 @@ def make_content_dict(forms, pos):
             continue
         if pos == u'N':
             gramm, gender = make_content_dict_noun(tgramm)
-        if pos == u'Adj':
+        elif pos == u'Adj' or pos == u'A-NUM':
             gramm, gender = make_content_dict_adj(tgramm)
             if gramm == u'vocative':
                 unanalysed_content[tgramm] = examples.split(u',')
                 continue
-        if pos == u'V':
+        elif pos == u'V':
             gramm = make_content_dict_verb(tgramm)
             gender = u'-'
             if gramm == u'participle' or gramm == u'supine':
                 unanalysed_content[tgramm] = examples.split(u',')
                 continue
+        else:
+            unanalysed_content[tgramm] = examples.split(u',')
+            gender = u'-'
+            continue
         examples = examples.split(u',')
         # print u't_t, line 30',  gramm, examples
         content_dict[gramm] = examples
@@ -151,6 +155,15 @@ def translate_person(person):
     return person
 
 
+def mal(pos, lemma):
+    if pos == u'Adj':
+        if lemma[-1] == u'ъ':
+            if lemma[-3:] != u'евъ' and lemma[-3:] != u'овъ':
+                lemma = lemma[:-1] + u'ый'
+    return lemma
+
+
+
 paradigmy_a = noun_class.parad_from_file(u'прилфлексии.txt', u'описание основ сущ_lite.txt')
 paradigmy_n = noun_class.parad_from_file(u'сущфлексии.txt', u'описание основ сущ_lite.txt')
 paradigmy_v = noun_class.parad_from_file(u'глагфлексии.txt', u'глаголы_основы.txt')
@@ -167,28 +180,39 @@ unparsed = 0
 time1 = time.clock()
 great_d = []
 misirable = []
+firstline = True
 for line in f:
+    if firstline:
+        firstline = False
+        continue
     line = line.rstrip()
     lemma_content = line.split(u';')
+    if lemma_content[0] == u'FIXME':
+        continue
     if lemma_content[2] == u'verb':
         pos = u'V'
     elif lemma_content[2] == u'adjective':
         pos = u'Adj'
     elif lemma_content[2] == u'common noun':
         pos = u'N'
+    elif lemma_content[2] == u'ordinal numeral':
+        pos = u'A-NUM'
     else:
-        continue
+        pos = lemma_content[2]
+        uninfl = True
     id += 1
     # if id < 10:
     #     continue
     lemma_content_dict, gender, unanal_content = make_content_dict(lemma_content[3], pos)
     new_word = noun_class.word()
     new_word.lemma = lemma_content[0]
+    if new_word.lemma[-1] == u' ':
+        new_word.lemma = new_word.lemma[:-1]
     new_word.pos = pos
     new_word.gramm = gender
     new_word.torot_id = lemma_content[1]
     new_word.id = id
-    new_word.lemma_after_fall = noun_class.oslo_trans(new_word.lemma)
+    new_word.lemma_after_fall = mal(pos, noun_class.oslo_trans(new_word.lemma))
     new_word.unan_examples = unanal_content
     # print u'translate_torot, line 155', lemma_content_dict
     new_word.create_examples(lemma_content_dict)
@@ -196,14 +220,14 @@ for line in f:
         new_word.guess(anal_data_n)
     elif pos == u'V':
         new_word.guess(anal_data_v)
-    elif pos == u'Adj':
+    elif pos == u'Adj' or pos == u'A-NUM':
         new_word.guess(anal_data_a)
     new_word.group_stems()
     # new_word.print_par_stem()
     print float(id)/8370 * 100, u'% made'
-    # if id == 15:
-    #     break
-    if len(new_word.group_par_stem) > 0:
+    if id == 15:
+        break
+    if len(new_word.group_par_stem) > 0 or uninfl:
         parsed += 1
         wtw = new_word.write_guessed_to_file()
         great_d.append(wtw)

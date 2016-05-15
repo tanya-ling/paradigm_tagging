@@ -185,16 +185,20 @@ class word:
                     print form
 
     def write_guessed_to_file(self):
+        uninfl = False
         if self.pos == u'N':
             pos_max = 15  # real - 31
-        elif self.pos == u'Adj':
+        elif self.pos == u'Adj' or self.pos == u'A-NUM':
             pos_max = 21  # real - 45
         elif self.pos == u'V':
             pos_max = 23  # real - 101
         else:
-            print u'what a pos?', self.pos, self.lemma
-            pos_max = 1
+            uninfl = True
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
+        wtw[u'lemma_new'] = self.lemma_after_fall
+        wtw[u'unanalysed_examples'] = self.unan_examples
+        if uninfl:
+            return wtw
         if self.pos == u'N':
             wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
@@ -210,9 +214,6 @@ class word:
                 if measure > 1:
                     measure = 1
                 wtw[u'scores'][par_name] = measure
-        wtw[u'lemma_new'] = self.lemma_after_fall
-        wtw[u'unanalysed_examples'] = self.unan_examples
-        wtw
         return wtw
 
     def write_unguessed_to_file(self):

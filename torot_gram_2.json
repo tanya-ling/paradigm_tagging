@@ -1,0 +1,1003 @@
+[
+  {
+    "scores": {
+      "V15y": 0.28732995090390095, 
+      "Vbyt": 1
+    }, 
+    "pos": "V", 
+    "lemma_new": "быти", 
+    "id": 1, 
+    "lemma": "быти", 
+    "examples": [
+      {
+        "indic,aor,pl,3p": [
+          "быша"
+        ]
+      }, 
+      {
+        "indic,aor,du,2p": [
+          "быста"
+        ]
+      }, 
+      {
+        "indic,aor,pl,1p": [
+          "быхомъ", 
+          "быхом", 
+          "бѧхом"
+        ]
+      }, 
+      {
+        "indic,imperf,du,3p": [
+          "бѧста", 
+          "бѣста"
+        ]
+      }, 
+      {
+        "imper,sg,3p": [
+          "буди", 
+          "буд", 
+          "ест", 
+          "бѹди", 
+          "бѹт", 
+          "бѹдь", 
+          "бѹд"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,du,1p": [
+          "будевѣ", 
+          "бѹдевѣ"
+        ]
+      }, 
+      {
+        "inf": [
+          "быти", 
+          "бꙑти", 
+          "быт", 
+          "быть"
+        ]
+      }, 
+      {
+        "indic,imperf,sg,1p": [
+          "бѣхъ", 
+          "бѣх", 
+          "бых"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,sg,1p": [
+          "буду", 
+          "бѹдѹ"
+        ]
+      }, 
+      {
+        "indic,praes,du,1p": [
+          "есвѣ"
+        ]
+      }, 
+      {
+        "indic,imperf,pl,1p": [
+          "бѧхомъ"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,sg,3p": [
+          "будеть", 
+          "будетъ", 
+          "буде", 
+          "будет", 
+          "бѹдетъ", 
+          "бѹдеть", 
+          "бѹдет", 
+          "бѹдѣтъ", 
+          "бѹде", 
+          "боудеть", 
+          "боудет", 
+          "боудетъ", 
+          "бꙋдет"
+        ]
+      }, 
+      {
+        "indic,praes,du,3p": [
+          "еста", 
+          "ѥста"
+        ]
+      }, 
+      {
+        "indic,praes,sg,3p": [
+          "есть", 
+          "етсь", 
+          "е", 
+          "ес", 
+          "ѥсть", 
+          "ѥ", 
+          "естъ", 
+          "єс"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,pl,2p": [
+          "будете", 
+          "будет", 
+          "бѹдете"
+        ]
+      }, 
+      {
+        "indic,praes,sg,1p": [
+          "есмь", 
+          "ѥсмь", 
+          "ѥсмъ", 
+          "есмъ", 
+          "емь", 
+          "есми"
+        ]
+      }, 
+      {
+        "perf,sg,m": [
+          "былъ", 
+          "был"
+        ]
+      }, 
+      {
+        "perf,sg,n": [
+          "было"
+        ]
+      }, 
+      {
+        "perf,sg,f": [
+          "была"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,du,2p": [
+          "будета"
+        ]
+      }, 
+      {
+        "indic,imperf,sg,2p": [
+          "бѣ"
+        ]
+      }, 
+      {
+        "indic,praes,pl,2p": [
+          "есте", 
+          "ѥсте", 
+          "ще", 
+          "естя"
+        ]
+      }, 
+      {
+        "indic,praes,pl,1p": [
+          "есмы", 
+          "ѥсмы", 
+          "Есмя", 
+          "есме", 
+          "есмъ", 
+          "єсмѧ", 
+          "есмѧ"
+        ]
+      }, 
+      {
+        "imper,pl,1p": [
+          "бѹдѣмъ"
+        ]
+      }, 
+      {
+        "indic,aor,du,3p": [
+          "быста", 
+          "бѣста", 
+          "бꙑста"
+        ]
+      }, 
+      {
+        "indic,praes,pl,3p": [
+          "суть", 
+          "сутъ", 
+          "сут", 
+          "Суть", 
+          "сѹть", 
+          "сѹт", 
+          "бдуть", 
+          "соуть"
+        ]
+      }, 
+      {
+        "imper,sg,2p": [
+          "буди", 
+          "бѹди"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,sg,2p": [
+          "будеши", 
+          "боудши", 
+          "бѹдеши", 
+          "бѹдешї", 
+          "будеш", 
+          "будешъ"
+        ]
+      }, 
+      {
+        "indic,imperf,pl,3p": [
+          "бѧху", 
+          "бѣша", 
+          "бѧх", 
+          "бѣяху", 
+          "бѣаша", 
+          "бѧхȣть", 
+          "бѣахѹть", 
+          "бѧхꙋ"
+        ]
+      }, 
+      {
+        "indic,aor,sg,2p": [
+          "бысть", 
+          "бы"
+        ]
+      }, 
+      {
+        "indic,aor,sg,3p": [
+          "быс", 
+          "бы", 
+          "быша", 
+          "бысть", 
+          "б҃ы", 
+          "Быс", 
+          "беѣ", 
+          "бꙑсть", 
+          "бъ", 
+          "бе", 
+          "бь", 
+          "б", 
+          "быст", 
+          "быстъ", 
+          "бы҃с", 
+          "быс҃", 
+          "быстʼ"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,pl,1p": [
+          "будемъ", 
+          "будем"
+        ]
+      }, 
+      {
+        "indic,aor,sg,1p": [
+          "быхъ", 
+          "бых", 
+          "бѧхъ"
+        ]
+      }, 
+      {
+        "indic,imperf,sg,3p": [
+          "бѣ", 
+          "бѧше", 
+          "будѧше", 
+          "бѧшеть", 
+          "Бѣ", 
+          "бѣаше", 
+          "бяше", 
+          "бꙗше", 
+          "бꙗаше", 
+          "бѹдꙗше", 
+          "бѹдѧше"
+        ]
+      }, 
+      {
+        "indic,praes,du,2p": [
+          "еста", 
+          "ѥста"
+        ]
+      }, 
+      {
+        "analyt,indic,praes,pl,3p": [
+          "будуть", 
+          "будть", 
+          "будут", 
+          "бѹдѹтъ", 
+          "бѹдѹт", 
+          "бѹдть", 
+          "буть", 
+          "бдуть", 
+          "будутъ", 
+          "бѹдѹть", 
+          "боудꙋть"
+        ]
+      }, 
+      {
+        "indic,praes,sg,2p": [
+          "еси", 
+          "ѥси", 
+          "бѹдеши"
+        ]
+      }, 
+      {
+        "perf,pl,n": [
+          "была", 
+          "были"
+        ]
+      }, 
+      {
+        "perf,pl,m": [
+          "были"
+        ]
+      }, 
+      {
+        "perf,pl,f": [
+          "были"
+        ]
+      }, 
+      {
+        "indic,aor,pl,2p": [
+          "бысте", 
+          "бѣсте"
+        ]
+      }, 
+      {
+        "imper,pl,2p": [
+          "будѣте"
+        ]
+      }
+    ], 
+    "par_stem": {
+      "Vbyt": [
+        [
+          ""
+        ]
+      ]
+    }, 
+    "unanalysed_examples": {
+      "sg., fut., part., act., m., gen., weak, infl": [
+        "бѹдѹщаго"
+      ], 
+      "pl., pres., part., act., n., gen., weak, infl": [
+        "сѹщиихъ"
+      ], 
+      "sg., pres., part., act., m., dat., weak, infl": [
+        "сѹщюѹмѹ"
+      ], 
+      "pl., pres., part., act., m., gen., weak, infl": [
+        "сущихъ", 
+        "сѹщиихъ"
+      ], 
+      "pl., past, part., act., m., gen., weak, infl": [
+        "бывъшиихъ", 
+        "бывших"
+      ], 
+      "sg., past, part., act., f., dat., strong, infl": [
+        "бывши", 
+        "бывъши"
+      ], 
+      "pl., pres., part., act., m., acc., strong, infl": [
+        "суща", 
+        "сѹща"
+      ], 
+      "sg., past, part., act., n., gen., weak, infl": [
+        "бывшаго"
+      ], 
+      "sg., past, part., act., m., nom., strong, infl": [
+        "бывъ", 
+        "быв", 
+        "Бывъ", 
+        "бывше"
+      ], 
+      "sg., pres., part., act., m., gen., strong, infl": [
+        "суща", 
+        "сѹща", 
+        "сȣща", 
+        "соуща"
+      ], 
+      "sg., pres., part., act., m., nom., strong, infl": [
+        "сы", 
+        "си", 
+        "сѹщь"
+      ], 
+      "sg., fut., part., act., m., nom., weak, infl": [
+        "будущии"
+      ], 
+      "pl., pres., part., act., n., nom., weak, infl": [
+        "сущие"
+      ], 
+      "pl., pres., part., act., n., dat., strong, infl": [
+        "сѹщемъ"
+      ], 
+      "sg., past, part., act., n., acc., weak, infl": [
+        "бывшее", 
+        "бывъшеѥ", 
+        "бывшеє"
+      ], 
+      "sg., pres., part., act., n., nom., strong, infl": [
+        "сѹще"
+      ], 
+      "sg., pres., part., act., n., dat., strong, infl": [
+        "сущю", 
+        "сѹщю", 
+        "сѹщѹ", 
+        "соущꙋ"
+      ], 
+      "sg., pres., part., act., f., acc., weak, infl": [
+        "сущюю"
+      ], 
+      "pl., past, part., act., m., nom., weak, infl": [
+        "бывъшеи"
+      ], 
+      "pl., pres., part., act., m., nom., weak, infl": [
+        "сущии", 
+        "сѹщеи", 
+        "соущїи"
+      ], 
+      "pl., pres., part., act., m., loc., weak, infl": [
+        "сѹщиихъ"
+      ], 
+      "du., past, part., act., m., gen., strong, infl": [
+        "бывъшю"
+      ], 
+      "pl., pres., part., act., n., acc., weak, infl": [
+        "сѹщаꙗ", 
+        "сѹщаѧ", 
+        "соущаѧ"
+      ], 
+      "sg., pres., part., act., m., nom., weak, infl": [
+        "сыи", 
+        "соущїи"
+      ], 
+      "sg., pres., part., act., f., dat., weak, infl": [
+        "сущеи"
+      ], 
+      "sg., fut., part., act., m., loc., weak, infl": [
+        "бѹдщемъ", 
+        "бѹдѹщемъ", 
+        "будущем"
+      ], 
+      "pl., past, part., act., m., dat., weak, infl": [
+        "бывшимъ"
+      ], 
+      "pl., pres., part., act., m., dat., weak, infl": [
+        "сущимъ", 
+        "сущим", 
+        "сѹщиимъ", 
+        "сѹщимъ", 
+        "соущимъ"
+      ], 
+      "du., pres., part., act., m., gen., strong, infl": [
+        "сѹщю"
+      ], 
+      "sg., pres., part., act., m., dat., strong, infl": [
+        "сущю", 
+        "сѹщю", 
+        "сущу", 
+        "сѹщѹ", 
+        "сѹщȣ"
+      ], 
+      "sg., pres., part., act., m., gen., weak, infl": [
+        "сущаго", 
+        "сѹщааго"
+      ], 
+      "sg., past, part., act., m., nom., weak, infl": [
+        "бывыи"
+      ], 
+      "sg., pres., part., act., m., acc., weak, infl": [
+        "сѹщии"
+      ], 
+      "sg., past, part., act., m., gen., strong, infl": [
+        "бывъша"
+      ], 
+      "pl., fut., part., act., m., acc., weak, infl": [
+        "будущая"
+      ], 
+      "sg., pres., part., act., m., acc., strong, infl": [
+        "сущи", 
+        "сѹщь"
+      ], 
+      "sg., pres., part., act., n., gen., weak, infl": [
+        "сущаго", 
+        "сѹщаго"
+      ], 
+      "sg., past, part., act., n., loc., weak, infl": [
+        "бывшемъ"
+      ], 
+      "sg., fut., part., act., m., acc., weak, infl": [
+        "будущии", 
+        "будущїи", 
+        "бѹдѹщии", 
+        "бѹдѹщиї"
+      ], 
+      "pl., pres., part., act., m., dat., strong, infl": [
+        "сущемъ", 
+        "сѹщемъ"
+      ], 
+      "pl., past, part., act., m., dat., strong, infl": [
+        "бывъшемъ"
+      ], 
+      "pl., past, part., act., n., acc., weak, infl": [
+        "бывшая"
+      ], 
+      "du., pres., part., act., m., nom., strong, infl": [
+        "суща"
+      ], 
+      "sg., past, part., act., f., nom., strong, infl": [
+        "бывши"
+      ], 
+      "sg., pres., part., act., f., dat., strong, infl": [
+        "сущи", 
+        "суще", 
+        "сѹщи", 
+        "сѹще"
+      ], 
+      "pl., pres., part., act., m., nom., strong, infl": [
+        "суще", 
+        "сущи", 
+        "сѹще", 
+        "соущи", 
+        "соуще", 
+        "сꙋщи"
+      ], 
+      "sg., pres., part., act., f., acc., strong, infl": [
+        "сущю", 
+        "сѹщю", 
+        "сѹщȣ"
+      ], 
+      "sg., past, part., act., f., acc., strong, infl": [
+        "бывшю", 
+        "бывши"
+      ], 
+      "du., pres., part., act., m., dat., strong, infl": [
+        "сѹщема"
+      ], 
+      "pl., pres., part., act., n., acc., strong, infl": [
+        "сѹща"
+      ], 
+      "sg., past, part., act., n., dat., strong, infl": [
+        "бывшю", 
+        "бывъшю", 
+        "бывшꙋ"
+      ], 
+      "sg., pres., part., act., n., nom., weak, infl": [
+        "сущее"
+      ], 
+      "pl., pres., part., act., m., ins., weak, infl": [
+        "сущими", 
+        "сѹщиими", 
+        "сꙋщими"
+      ], 
+      "sg., past, part., act., m., dat., strong, infl": [
+        "бывшю", 
+        "бывъшю", 
+        "бывшꙋ"
+      ], 
+      "sg., pres., part., act., f., nom., strong, infl": [
+        "суща", 
+        "сѹщи", 
+        "соущи"
+      ], 
+      "sg., pres., part., act., f., nom., weak, infl": [
+        "сѹщаꙗ"
+      ], 
+      "pl., past, part., act., m., nom., strong, infl": [
+        "бывше", 
+        "бывъше"
+      ], 
+      "pl., pres., part., act., m., acc., weak, infl": [
+        "сущая"
+      ], 
+      "sg., pres., part., act., n., gen., strong, infl": [
+        "сѹща"
+      ], 
+      "sg., pres., part., act., n., acc., strong, infl": [
+        "сѹще"
+      ]
+    }, 
+    "torot_id": "120247"
+  }, 
+  {
+    "pos": "indefinite pronoun", 
+    "lemma_new": "кто", 
+    "id": 2, 
+    "lemma": "къто", 
+    "unanalysed_examples": {
+      "sg., m./f./n., nom., infl": [
+        "хто", 
+        "кто"
+      ], 
+      "sg., m., gen., infl": [
+        "кого", 
+        "когѡ"
+      ], 
+      "sg., m., ins., infl": [
+        "кѣмъ", 
+        "кемъ"
+      ], 
+      "sg., n., loc., infl": [
+        "комъ"
+      ], 
+      "sg., m., nom., infl": [
+        "кто", 
+        "хто", 
+        "къто"
+      ], 
+      "sg., m., dat., infl": [
+        "кому", 
+        "комѹ"
+      ], 
+      "sg., m., loc., infl": [
+        "комъ"
+      ]
+    }, 
+    "torot_id": "120250"
+  }, 
+  {
+    "pos": "preposition", 
+    "lemma_new": "въ", 
+    "id": 3, 
+    "lemma": "въ", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "въ", 
+        "в", 
+        "во", 
+        "Въ", 
+        "В", 
+        "у", 
+        "въ.", 
+        "оу", 
+        "ве", 
+        "вь", 
+        "а", 
+        "вʼ", 
+        "в꙽"
+      ]
+    }, 
+    "torot_id": "120251"
+  }, 
+  {
+    "pos": "conjunction", 
+    "lemma_new": "и", 
+    "id": 4, 
+    "lemma": "и", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "и", 
+        "И", 
+        "ї", 
+        "ι", 
+        "i", 
+        "ꙇ", 
+        "і", 
+        "н"
+      ]
+    }, 
+    "torot_id": "120253"
+  }, 
+  {
+    "gender": "f", 
+    "scores": {
+      "N3j": 0.7333333333333333, 
+      "N3j_STAR": 0.7333333333333333
+    }, 
+    "pos": "N", 
+    "lemma_new": "земля", 
+    "id": 5, 
+    "lemma": "земля", 
+    "examples": [
+      {
+        "sg,nom": [
+          "земѧ", 
+          "землѧ", 
+          "земля", 
+          "землꙗ"
+        ]
+      }, 
+      {
+        "sg,dat": [
+          "земли", 
+          "землі", 
+          "землѣ"
+        ]
+      }, 
+      {
+        "pl,loc": [
+          "землѧхъ"
+        ]
+      }, 
+      {
+        "pl,acc": [
+          "землѣ", 
+          "земли", 
+          "земля"
+        ]
+      }, 
+      {
+        "pl,dat": [
+          "землѧмъ", 
+          "землѧм", 
+          "землꙗмъ", 
+          "зѣмлꙗмъ"
+        ]
+      }, 
+      {
+        "pl,gen": [
+          "земль", 
+          "земель"
+        ]
+      }, 
+      {
+        "sg,gen": [
+          "землѣ", 
+          "землѧ", 
+          "земли", 
+          "землꙗ"
+        ]
+      }, 
+      {
+        "sg,ins": [
+          "землею"
+        ]
+      }, 
+      {
+        "sg,acc": [
+          "землю", 
+          "зелмю", 
+          "земьлю"
+        ]
+      }, 
+      {
+        "sg,voc": [
+          "земле"
+        ]
+      }, 
+      {
+        "sg,loc": [
+          "земли", 
+          "землѣ", 
+          "земьли", 
+          "земле", 
+          "змли", 
+          "землї"
+        ]
+      }
+    ], 
+    "par_stem": {
+      "N3j_STAR": [
+        [
+          "зелм", 
+          "земл", 
+          "зѣмл", 
+          "змл"
+        ], 
+        [
+          "земел"
+        ]
+      ]
+    }, 
+    "unanalysed_examples": {}, 
+    "torot_id": "120254"
+  }, 
+  {
+    "pos": "interjection", 
+    "lemma_new": "се", 
+    "id": 6, 
+    "lemma": "се", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "Се", 
+        "се", 
+        "си"
+      ]
+    }, 
+    "torot_id": "120255"
+  }, 
+  {
+    "gender": "f", 
+    "scores": {
+      "N41": 0.2
+    }, 
+    "pos": "N", 
+    "lemma_new": "повесть", 
+    "id": 7, 
+    "lemma": "повѣсть", 
+    "examples": [
+      {
+        "sg,nom": [
+          "повѣсть"
+        ]
+      }, 
+      {
+        "sg,acc": [
+          "повѣсть", 
+          "повесть"
+        ]
+      }, 
+      {
+        "pl,nom": [
+          "повѣсти"
+        ]
+      }
+    ], 
+    "par_stem": {
+      "N41": [
+        [
+          "повѣст", 
+          "повест"
+        ]
+      ]
+    }, 
+    "unanalysed_examples": {}, 
+    "torot_id": "120256"
+  }, 
+  {
+    "pos": "preposition", 
+    "lemma_new": "по", 
+    "id": 8, 
+    "lemma": "по", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "по", 
+        "По", 
+        "по."
+      ]
+    }, 
+    "torot_id": "120258"
+  }, 
+  {
+    "gender": "m", 
+    "scores": {
+      "N1k": 0.4
+    }, 
+    "pos": "N", 
+    "lemma_new": "встокъ", 
+    "id": 9, 
+    "lemma": "въстокъ", 
+    "examples": [
+      {
+        "sg,nom": [
+          "въстокъ"
+        ]
+      }, 
+      {
+        "sg,dat": [
+          "востокомъ", 
+          "въстоку", 
+          "встоку", 
+          "востоку"
+        ]
+      }, 
+      {
+        "sg,gen": [
+          "въстока", 
+          "стока", 
+          "востока"
+        ]
+      }, 
+      {
+        "sg,ins": [
+          "встокомь"
+        ]
+      }, 
+      {
+        "sg,acc": [
+          "въстокъ", 
+          "встокъ", 
+          "восток", 
+          "востокъ"
+        ]
+      }, 
+      {
+        "sg,loc": [
+          "въстоцѣ"
+        ]
+      }
+    ], 
+    "par_stem": {
+      "N1k": [
+        [
+          "сток", 
+          "восток", 
+          "всток"
+        ], 
+        [
+          "встоц"
+        ], 
+        []
+      ]
+    }, 
+    "unanalysed_examples": {}, 
+    "torot_id": "120259"
+  }, 
+  {
+    "pos": "adverb", 
+    "lemma_new": "тоже", 
+    "id": 10, 
+    "lemma": "тоже", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "тоже", 
+        "тожъ"
+      ]
+    }, 
+    "torot_id": "120262"
+  }, 
+  {
+    "pos": "preposition", 
+    "lemma_new": "до", 
+    "id": 11, 
+    "lemma": "до", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "до", 
+        "до.", 
+        "д", 
+        "До", 
+        "дао", 
+        "да"
+      ]
+    }, 
+    "torot_id": "120263"
+  }, 
+  {
+    "pos": "preposition", 
+    "lemma_new": "отъ", 
+    "id": 12, 
+    "lemma": "отъ", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "ѿ", 
+        "ѡт", 
+        "ѿѡ", 
+        "ѿ.", 
+        "Ѿ", 
+        "ѡ тъ", 
+        "от", 
+        "ОТ", 
+        "От", 
+        "отъ", 
+        "ѡ҃", 
+        "ѡ", 
+        "ото", 
+        "ѡто", 
+        "ѡтъ", 
+        "оть", 
+        "ѡть"
+      ]
+    }, 
+    "torot_id": "120266"
+  }, 
+  {
+    "pos": "preposition", 
+    "lemma_new": "на", 
+    "id": 13, 
+    "lemma": "на", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "на", 
+        "н", 
+        "На", 
+        "на ", 
+        "ни", 
+        "НА", 
+        "а", 
+        "не"
+      ]
+    }, 
+    "torot_id": "120267"
+  }, 
+  {
+    "pos": "adverb", 
+    "lemma_new": "же", 
+    "id": 14, 
+    "lemma": "же", 
+    "unanalysed_examples": {
+      "non-infl": [
+        "же", 
+        "жи", 
+        "жа", 
+        "жь", 
+        "ж", 
+        "жо", 
+        "жъ", 
+        "жк"
+      ]
+    }, 
+    "torot_id": "120269"
+  }
+]
