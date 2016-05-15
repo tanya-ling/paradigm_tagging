@@ -24,8 +24,8 @@
       <file leaf-file-name="translate_torot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/translate_torot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+            <state relative-caret-position="-378">
+              <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
               <folding>
                 <element signature="e#23#34#0" expanded="true" />
               </folding>
@@ -33,47 +33,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noun_class.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="noun_class.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/noun_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
+            <state relative-caret-position="319">
+              <caret line="166" column="79" selection-start-line="166" selection-start-column="79" selection-end-line="166" selection-end-column="79" />
               <folding>
                 <element signature="e#23#32#0" expanded="true" />
                 <element signature="e#785#1414#0" expanded="false" />
                 <element signature="e#1457#1831#0" expanded="false" />
                 <element signature="e#1870#5630#0" expanded="false" />
                 <element signature="e#5665#5976#0" expanded="false" />
-                <element signature="e#23055#23103#0" expanded="false" />
+                <element signature="e#23988#24036#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="total_new_dict_1903.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="total_new_dict_1903.py" pinned="false" current-in-tab="true">
         <entry file="file://C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/total_new_dict_1903.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="1498" column="36" selection-start-line="1498" selection-start-column="36" selection-end-line="1498" selection-end-column="36" />
+            <state relative-caret-position="32">
+              <caret line="1351" column="12" selection-start-line="1351" selection-start-column="8" selection-end-line="1351" selection-end-column="12" />
               <folding>
-                <element signature="e#38530#39740#0" expanded="false" />
-                <element signature="e#39780#40582#0" expanded="false" />
-                <element signature="e#40633#40757#0" expanded="false" />
-                <element signature="e#43352#44021#0" expanded="false" />
-                <element signature="e#44073#47093#0" expanded="false" />
-                <element signature="e#50731#51813#0" expanded="false" />
-                <element signature="e#51851#52831#0" expanded="false" />
-                <element signature="e#52870#53291#0" expanded="false" />
-                <element signature="e#53327#53671#0" expanded="false" />
-                <element signature="e#53707#54049#0" expanded="false" />
-                <element signature="e#54085#54753#0" expanded="false" />
-                <element signature="e#71096#71649#0" expanded="false" />
-                <element signature="e#71672#71766#0" expanded="false" />
-                <element signature="e#71828#72863#0" expanded="false" />
-                <element signature="e#72954#74215#0" expanded="false" />
-                <element signature="e#74293#74834#0" expanded="false" />
-                <element signature="e#74879#77026#0" expanded="false" />
-                <element signature="e#77048#77349#0" expanded="false" />
+                <element signature="e#39838#40640#0" expanded="false" />
+                <element signature="e#40691#40815#0" expanded="false" />
+                <element signature="e#40854#43248#0" expanded="false" />
+                <element signature="e#43410#44079#0" expanded="false" />
+                <element signature="e#50789#51871#0" expanded="false" />
+                <element signature="e#51909#52889#0" expanded="false" />
+                <element signature="e#52928#53349#0" expanded="false" />
+                <element signature="e#53385#53729#0" expanded="false" />
+                <element signature="e#53765#54107#0" expanded="false" />
+                <element signature="e#54143#54811#0" expanded="false" />
+                <element signature="e#71154#71707#0" expanded="false" />
+                <element signature="e#71730#71824#0" expanded="false" />
+                <element signature="e#71886#72921#0" expanded="false" />
+                <element signature="e#73012#74273#0" expanded="false" />
+                <element signature="e#74351#74892#0" expanded="false" />
+                <element signature="e#74937#77084#0" expanded="false" />
+                <element signature="e#77106#77407#0" expanded="false" />
+                <marker date="1463345345275" expanded="false" signature="47185:50746" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -115,8 +115,8 @@
         <option value="C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/total_new_dict_1903.py" />
         <option value="C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/translate_dict.py" />
         <option value="$PROJECT_DIR$/hawlik_low.py" />
-        <option value="C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/total_new_dict_1903.py" />
         <option value="$PROJECT_DIR$/translate_torot.py" />
+        <option value="C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/total_new_dict_1903.py" />
         <option value="$PROJECT_DIR$/noun_class.py" />
       </list>
     </option>
@@ -424,14 +424,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14740741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27401575" sideWeight="0.14934114" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27401575" sideWeight="0.85065883" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27401575" sideWeight="0.85065883" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -506,7 +506,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -531,7 +531,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -556,7 +556,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -571,7 +571,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -586,7 +586,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -601,7 +601,7 @@
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -638,52 +638,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/translate_torot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
+        <state relative-caret-position="-378">
+          <caret line="202" column="22" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
           <folding>
             <element signature="e#23#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/total_new_dict_1903.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="1498" column="36" selection-start-line="1498" selection-start-column="36" selection-end-line="1498" selection-end-column="36" />
-          <folding>
-            <element signature="e#38530#39740#0" expanded="false" />
-            <element signature="e#39780#40582#0" expanded="false" />
-            <element signature="e#40633#40757#0" expanded="false" />
-            <element signature="e#43352#44021#0" expanded="false" />
-            <element signature="e#44073#47093#0" expanded="false" />
-            <element signature="e#50731#51813#0" expanded="false" />
-            <element signature="e#51851#52831#0" expanded="false" />
-            <element signature="e#52870#53291#0" expanded="false" />
-            <element signature="e#53327#53671#0" expanded="false" />
-            <element signature="e#53707#54049#0" expanded="false" />
-            <element signature="e#54085#54753#0" expanded="false" />
-            <element signature="e#71096#71649#0" expanded="false" />
-            <element signature="e#71672#71766#0" expanded="false" />
-            <element signature="e#71828#72863#0" expanded="false" />
-            <element signature="e#72954#74215#0" expanded="false" />
-            <element signature="e#74293#74834#0" expanded="false" />
-            <element signature="e#74879#77026#0" expanded="false" />
-            <element signature="e#77048#77349#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/noun_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
+        <state relative-caret-position="319">
+          <caret line="166" column="79" selection-start-line="166" selection-start-column="79" selection-end-line="166" selection-end-column="79" />
           <folding>
             <element signature="e#23#32#0" expanded="true" />
             <element signature="e#785#1414#0" expanded="false" />
             <element signature="e#1457#1831#0" expanded="false" />
             <element signature="e#1870#5630#0" expanded="false" />
             <element signature="e#5665#5976#0" expanded="false" />
-            <element signature="e#23055#23103#0" expanded="false" />
+            <element signature="e#23988#24036#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Tanya/НИУ ВШЭ/двевн курсач/приведение словаря/poliakov-to-uniparser/total_new_dict_1903.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1351" column="12" selection-start-line="1351" selection-start-column="8" selection-end-line="1351" selection-end-column="12" />
+          <folding>
+            <element signature="e#39838#40640#0" expanded="false" />
+            <element signature="e#40691#40815#0" expanded="false" />
+            <element signature="e#40854#43248#0" expanded="false" />
+            <element signature="e#43410#44079#0" expanded="false" />
+            <element signature="e#50789#51871#0" expanded="false" />
+            <element signature="e#51909#52889#0" expanded="false" />
+            <element signature="e#52928#53349#0" expanded="false" />
+            <element signature="e#53385#53729#0" expanded="false" />
+            <element signature="e#53765#54107#0" expanded="false" />
+            <element signature="e#54143#54811#0" expanded="false" />
+            <element signature="e#71154#71707#0" expanded="false" />
+            <element signature="e#71730#71824#0" expanded="false" />
+            <element signature="e#71886#72921#0" expanded="false" />
+            <element signature="e#73012#74273#0" expanded="false" />
+            <element signature="e#74351#74892#0" expanded="false" />
+            <element signature="e#74937#77084#0" expanded="false" />
+            <element signature="e#77106#77407#0" expanded="false" />
+            <marker date="1463345345275" expanded="false" signature="47185:50746" placeholder="..." />
           </folding>
         </state>
       </provider>

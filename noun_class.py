@@ -137,7 +137,7 @@ class word:
 
     def predict_stems(self):
         for par_stem in self.group_par_stem:
-            if self.pos == u'N':
+            if self.pos == u'N' or self.pos == u'Adj' or self.pos == u'A-NUM':
                 stem0 = total_new_dict_1903.osnnoun(self.lemma_after_fall, par_stem)
                 stems = total_new_dict_1903.nounstem(par_stem, stem0)
                 stem0_old = total_new_dict_1903.osnnoun(self.lemma, par_stem)
@@ -149,7 +149,23 @@ class word:
                     self.predicted_par_stem[par_stem] = res_stems
                     continue
                 stems_old = total_new_dict_1903.nounstem(par_stem, stem0_old)
-            # print par_stem, stems, u'and stems old', stems_old
+            if self.pos == u'V':
+                    stem0 = total_new_dict_1903.osninf(self.lemma_after_fall, par_stem)
+                    try:
+                        stems = total_new_dict_1903.verbstem(stem0, par_stem, 1, 0)
+                    except IndexError:
+                        print self.lemma, stem0, par_stem, u'index error'
+                        stems = []
+                    stem0_old = total_new_dict_1903.osninf(self.lemma, par_stem)
+                    if stem0_old == stem0:
+                        if u'w' not in stems:
+                            res_stems = [[stems[i]] for i in xrange(len(stems))]
+                        else:
+                            res_stems = []
+                        self.predicted_par_stem[par_stem] = res_stems
+                        continue
+                    stems_old = total_new_dict_1903.verbstem(stem0, par_stem, 1, 0)
+            print par_stem, stems, u'and stems old', stems_old
             if u'w' in stems or u'w' in stems_old:
                 res_stems = []
             else:

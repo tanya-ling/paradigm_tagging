@@ -191,12 +191,16 @@ for line in f:
         continue
     if lemma_content[2] == u'verb':
         pos = u'V'
+        uninfl = False
     elif lemma_content[2] == u'adjective':
         pos = u'Adj'
+        uninfl = False
     elif lemma_content[2] == u'common noun':
         pos = u'N'
+        uninfl = False
     elif lemma_content[2] == u'ordinal numeral':
         pos = u'A-NUM'
+        uninfl = False
     else:
         pos = lemma_content[2]
         uninfl = True
@@ -223,7 +227,7 @@ for line in f:
     elif pos == u'Adj' or pos == u'A-NUM':
         new_word.guess(anal_data_a)
     new_word.group_stems()
-    if pos == u'N':
+    if not uninfl:
         new_word.predict_stems()
     # new_word.print_par_stem()
     print float(id)/8370 * 100, u'% made'
