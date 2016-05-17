@@ -71,6 +71,7 @@ class word:
                                     # par_stem.weight += 1
                                     # par_st.weight = par_stem.weight
         if len(looked_pars) == 0:
+            # print self.lemma, u'really nothing to guess?'
             return
 
         if self.pos == u'N':
@@ -139,44 +140,70 @@ class word:
         for par_stem in self.group_par_stem:
             if self.pos == u'N' or self.pos == u'Adj' or self.pos == u'A-NUM':
                 stem0 = total_new_dict_1903.osnnoun(self.lemma_after_fall, par_stem)
+                if stem0 == u'delete_this_word':
+                    self.predicted_par_stem[par_stem] = u'delete_this_word'
+                    return
                 stems = total_new_dict_1903.nounstem(par_stem, stem0)
                 stem0_old = total_new_dict_1903.osnnoun(self.lemma, par_stem)
                 if stem0_old == stem0:
                     if u'w' not in stems:
-                        res_stems = [[stems[i]] for i in xrange(len(stems))]
+                        res_stems = stems.split(u'.|')
+                        res_stems = [res_stems[i].split(u'.//') for i in xrange(len(res_stems))]
                     else:
                         res_stems = []
                     self.predicted_par_stem[par_stem] = res_stems
                     continue
                 stems_old = total_new_dict_1903.nounstem(par_stem, stem0_old)
+                # print u'stems old', stems_old
             if self.pos == u'V':
                     stem0 = total_new_dict_1903.osninf(self.lemma_after_fall, par_stem)
                     try:
-                        stems = total_new_dict_1903.verbstem(stem0, par_stem, 1, 0)
-                    except IndexError:
-                        print self.lemma, stem0, par_stem, u'index error'
+                        stems, paradigm = total_new_dict_1903.verbstem(self.lemma_after_fall, par_stem, 1, 0)
+                        if stems == u'delete_this':
+                            stems = []
+                            continue
+                        if stems[-2:] == u'|.':  # очень тупой способ дебажки
+                            stems = stems[:-2]
+                    # except IndexError:
+                    #     print self.lemma, stem0, par_stem, u'index error'
+                    #     stems = []
+                    except ValueError:
+                        print self.lemma, stem0, par_stem, u'too many values to unpack'
                         stems = []
                     stem0_old = total_new_dict_1903.osninf(self.lemma, par_stem)
-                    if stem0_old == stem0:
+                    if stem0_old == stem0:  # не знаю, ускоряет или замедляет эта проверка, так как нулевая основа считается дважды
                         if u'w' not in stems:
-                            res_stems = [[stems[i]] for i in xrange(len(stems))]
+                            stems = stems[:-1]
+                            res_stems = stems.split(u'.|')
+                            res_stems = [res_stems[i].split(u'.//') for i in xrange(len(res_stems))]
                         else:
                             res_stems = []
                         self.predicted_par_stem[par_stem] = res_stems
                         continue
-                    stems_old = total_new_dict_1903.verbstem(stem0, par_stem, 1, 0)
-            print par_stem, stems, u'and stems old', stems_old
+                    stems_old, paradigm = total_new_dict_1903.verbstem(self.lemma, par_stem, 1, 0)
+                    if stems_old[-2:] == u'|.':
+                        stems_old = stems_old[:-2]
+            # print par_stem, stems, u'and stems old', stems_old
             if u'w' in stems or u'w' in stems_old:
                 res_stems = []
             else:
+                if stems[-1] == u'.':
+                    stems = stems[:-1]
+                if stems_old[-1] == u'.':
+                    stems_old = stems_old[:-1]
+                # print self.id, stems, stems_old, u'asdf'
                 stems = stems.split(u'.|')
+                stems = [stems[i].split(u'.//') for i in xrange(len(stems))]
                 stems_old = stems_old.split(u'.|')
+                stems_old = [stems_old[i].split(u'.//') for i in xrange(len(stems_old))]
                 res_stems = [None for i in xrange(len(stems))]
                 for i in xrange(len(stems)):
                                 if stems[i] == stems_old[i]:
                                     res_stems[i] = [stems[i]]
                                 else:
-                                    res_stems[i] = [stems[i], stems_old[i]]
+                                    listmerge6 = lambda s: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
+                                    res_stems[i] = listmerge6([stems[i], stems_old[i]])
+                                    # res_stems[i] = lambda [stems[i], stems_old[i]]: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
             self.predicted_par_stem[par_stem] = res_stems
 
     def group_stems(self):

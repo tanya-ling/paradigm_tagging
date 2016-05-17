@@ -51,9 +51,9 @@ def make_content_dict(forms, pos):
 def make_content_dict_noun(tgramm):
         try:
             number, gender, case, infl = tgramm.split(u'., ')
-            gender = genderize(gender)
         except:
-            print u'2 mistake in lemmalist file', tgramm
+            print u'2.0 mistake in lemmalist file', tgramm
+        gender = genderize(gender)
         if case == u'gen./dat':
             case = u'dat'
         gramm = number + u',' + case
@@ -187,6 +187,9 @@ for line in f:
         continue
     line = line.rstrip()
     lemma_content = line.split(u';')
+    id += 1
+    # if id < 9887:
+    #     continue
     if lemma_content[0] == u'FIXME':
         continue
     if lemma_content[2] == u'verb':
@@ -200,13 +203,13 @@ for line in f:
         uninfl = False
     elif lemma_content[2] == u'ordinal numeral':
         pos = u'A-NUM'
-        uninfl = False
+        uninfl = True
+        continue
     else:
         pos = lemma_content[2]
         uninfl = True
-    id += 1
-    # if id < 10:
-    #     continue
+        # print u'uninflected', lemma_content[0]
+
     lemma_content_dict, gender, unanal_content = make_content_dict(lemma_content[3], pos)
     new_word = noun_class.word()
     new_word.lemma = lemma_content[0]
@@ -224,15 +227,17 @@ for line in f:
         new_word.guess(anal_data_n)
     elif pos == u'V':
         new_word.guess(anal_data_v)
-    elif pos == u'Adj' or pos == u'A-NUM':
+    elif pos == u'Adj':
         new_word.guess(anal_data_a)
-    new_word.group_stems()
     if not uninfl:
+        new_word.group_stems()
         new_word.predict_stems()
+        if new_word.predicted_par_stem == u'delete_this_word':
+            continue
     # new_word.print_par_stem()
-    print float(id)/8370 * 100, u'% made'
-    if id == 150:
-        break
+    print new_word.torot_id, float(id)/8370 * 100, u'% made'
+    # if id == 175:
+    #     break
     if len(new_word.group_par_stem) > 0 or uninfl:
         parsed += 1
         wtw = new_word.write_guessed_to_file()
