@@ -110,7 +110,7 @@ class word:
                         # print u'par stem weight score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
                         if example.par_name_dict[par_stem][0].weight_score > max_score:
                             # print u'par stem best weight, weight-score', par_stem, example.par_name_dict[par_stem][0].weight, example.par_name_dict[par_stem][0].weight_score
-                            if not_first and max_score > 0.19:
+                            if not_first and max_score > 0.1:
                                 second_best.append(old_par_stem)
                                 self.second_score_dict[old_par_stem] = max_score
                             max_score = example.par_name_dict[par_stem][0].weight_score
@@ -252,6 +252,68 @@ class word:
                 except:
                     print u'key error in group stems', par_name
 
+    def change_score(self):
+        for par_name in self.group_par_stem:
+            # print u'change score', self.lemma, par_name
+            if par_name in self.score_dict or par_name in self.second_score_dict:
+                # print u'change_score 0', self.lemma, par_name
+                self.change_concrete_score(par_name)
+            else:
+                if self.pos == u'N':
+                    pos_max = 15  # real - 31
+                elif self.pos == u'Adj' or self.pos == u'A-NUM':
+                    pos_max = 21  # real - 45
+                elif self.pos == u'V':
+                    pos_max = 23  # real - 101
+                measure = float(len(self.examples)) / pos_max
+                if measure > 1:
+                    measure = 1
+                self.score_dict[par_name] = measure
+                # print u'change score 0.5', self.lemma, par_name
+                self.change_concrete_score(par_name)
+
+    def change_concrete_score(self, par_name):
+        real_stems = self.group_par_stem[par_name]
+        if par_name not in self.predicted_par_stem:
+            # print u'is it okey that nothing was predicted for ', self.lemma, par_name
+            l.write(u'nothing was predicted for:\t' + self.lemma + u'\t' + par_name + u'\r\n')
+            measure = 0.1
+        elif self.predicted_par_stem[par_name] == []:
+            if par_name != u'Viti':
+                print u'is it okey that nothing was predicted for ', self.lemma, par_name
+                l.write(u'nothing was predicted for:\t' + self.lemma + u'\t' + par_name + u'\r\n')
+            measure = 0.1
+        else:
+            predicted_stems = self.predicted_par_stem[par_name]
+            if len(predicted_stems) != len(real_stems):
+                if par_name == u'Vdat':
+                    self.group_par_stem[par_name] = [self.group_par_stem[par_name][0]]  # очень тупой способ дебажки
+                    real_stems = self.group_par_stem[par_name]
+                    if real_stems[0][0] == predicted_stems[0][0]:
+                        measure = 1
+                    else:
+                        measure = 0.05
+                else:
+                    print u'predicted and real stems length is no equal', self.lemma, par_name, len(predicted_stems), predicted_stems[0][0], len(real_stems)
+                    l.write(u'predicted ' + str(len(predicted_stems)) + ' and real' + str(len(real_stems)) + ' stems length is no equal:\t' + self.lemma + u'\t' + par_name + u'\r\n')
+                    measure = 0.1
+            else:
+                i = 0
+                for stem_nummer in xrange(len(real_stems)):
+                    found_predicted_stem = False
+                    for stem in real_stems[stem_nummer]:
+                        if stem in predicted_stems[stem_nummer]:
+                            found_predicted_stem = True
+                    if found_predicted_stem:
+                        i += 1
+                if i != 0:
+                    measure = float(i) / float(len(real_stems))
+                else:
+                    measure = 0.05
+        # print self.lemma, par_name, measure, i, len(real_stems), u'in change_concrete_score'
+        self.score_dict[par_name] = self.score_dict[par_name] * measure
+
+
     def print_par_stem(self):
         print self.id, self.lemma, self.gramm, u'in print_par_stem'
         for par_name in self.group_par_stem:
@@ -281,12 +343,13 @@ class word:
         wtw[u'par_stem'] = self.group_par_stem
         wtw[u'predicted_stems'] = self.predicted_par_stem
         wtw[u'scores'] = {}
-        for par_name in self.par_name_list:
+        for par_name in self.group_par_stem:
             if par_name in self.score_dict:
                 wtw[u'scores'][par_name] = self.score_dict[par_name]
                 for par_name2 in self.second_score_dict:  # тупо сделано и всё тормозит, по несколько раз добавляет
                     wtw[u'scores'][par_name2] = self.second_score_dict[par_name2]
             else:
+                print u"I'll marry her anyway", par_name, self.lemma
                 measure = float(len(self.examples))/pos_max
                 if measure > 1:
                     measure = 1
@@ -563,8 +626,8 @@ def sochet(word):
     word2 = word2.replace(u'щю', u'щу')
     word2 = word2.replace(u'чю', u'чу')
     # ! 09.12 by manuscript
-    word2 = word2.replace(u'сч', u'щ')
-    word2 = word2.replace(u'жч', u'щ')
+    # word2 = word2.replace(u'сч', u'щ')  #  не нравится мне это для этой программы
+    # word2 = word2.replace(u'жч', u'щ')  #  не нравится мне это для этой программы
     word2 = word2.replace(u'дч', u'дш')
     word2 = word2.replace(u'дщ', u'дш')
     # ! 09.12 agso
@@ -603,6 +666,7 @@ def letterchange(word):
     newword = newword.replace(u'ꙗ', u'я')
     newword = newword.replace(u'ѧ', u'я')
     newword = newword.replace(u'ѹ', u'у')
+    newword = newword.replace(u'ѳ', u'ф')
     return newword
 
 def inter_new(word):
@@ -612,7 +676,7 @@ def inter_new(word):
 def commonform(word):
     word = letterchange(word)
     # print word
-    word = inter_new(word)
+    # word = inter_new(word)  # от этого нужно отказаться, иначе невозможно выделить основы до падения редуцированных
     word = sochet(word)
     # print word
     # print word
@@ -629,7 +693,7 @@ def begend_new(word):
         # print u'begend_new'
     return word
 
-
+l = codecs.open(u'error_log.txt', 'w', 'utf-8')
 # paradigmy = parad_from_file(u'сущфлексии.txt')
 # paradigmy = parad_from_file(u'прилфлексии.txt')
 # anal_data = analysis_data(paradigmy)

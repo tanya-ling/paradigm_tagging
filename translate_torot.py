@@ -172,8 +172,8 @@ anal_data_n = noun_class.analysis_data(paradigmy_n)
 anal_data_v = noun_class.analysis_data(paradigmy_v)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
-w = codecs.open(u'torot_gram_2.json', u'w', u'utf-8')
-wb = codecs.open(u'torot_miss_2.json', u'w', u'utf-8')
+w = codecs.open(u'torot_gram_4.json', u'w', u'utf-8')
+wb = codecs.open(u'torot_miss_4.json', u'w', u'utf-8')
 id = 0
 parsed = 0
 unparsed = 0
@@ -188,7 +188,7 @@ for line in f:
     line = line.rstrip()
     lemma_content = line.split(u';')
     id += 1
-    # if id < 9887:
+    # if id < 1000:
     #     continue
     if lemma_content[0] == u'FIXME':
         continue
@@ -234,9 +234,10 @@ for line in f:
         new_word.predict_stems()
         if new_word.predicted_par_stem == u'delete_this_word':
             continue
+        new_word.change_score()
     # new_word.print_par_stem()
-    print new_word.torot_id, float(id)/8370 * 100, u'% made'
-    # if id == 175:
+    print new_word.torot_id, float(id)/10319 * 100, u'% made'
+    # if id == 1070:
     #     break
     if len(new_word.group_par_stem) > 0 or uninfl:
         parsed += 1
