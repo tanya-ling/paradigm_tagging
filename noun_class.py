@@ -667,6 +667,7 @@ def letterchange(word):
     newword = newword.replace(u'ѧ', u'я')
     newword = newword.replace(u'ѹ', u'у')
     newword = newword.replace(u'ѳ', u'ф')
+    newword = newword.replace(u'ꙑ', u'ы')
     return newword
 
 def inter_new(word):

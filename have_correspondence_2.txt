@@ -1,0 +1,11 @@
+from встокъ	 to 	востокъ	 distance == 1
+from тоже	 to 	уже	 distance == 2
+from из	 to 	изъ	 distance == 1
+from братръ	 to 	братия	 distance == 2
+from то	 to 	ово	 distance == 2
+from идти	 to 	ити	 distance == 1
+from прийти	 to 	прияти, приити	 distance == 1
+from всхотѣти	 to 	восхотѣти	 distance == 1
+from третий	 to 	утрений	 distance == 2
+from тгда	 to 	тогда	 distance == 1
+from взлюбити	 to 	возлюбити	 distance == 1
