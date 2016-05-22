@@ -322,6 +322,18 @@ class word:
                 for form in stem_forms:
                     print form
 
+    def write_guessed_to_file_short(self):
+        uninfl = False
+        wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
+        wtw[u'lemma_new'] = self.lemma_after_fall
+        wtw[u'unanalysed_examples'] = self.unan_examples
+        if uninfl:
+            return wtw
+        if self.pos == u'N':
+            wtw[u'gender'] = self.gramm
+        wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
+        return wtw
+
     def write_guessed_to_file(self):
         uninfl = False
         if self.pos == u'N':

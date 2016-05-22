@@ -3,8 +3,8 @@ import re
 import codecs
 import json
 from noun_class import letterchange
-import noun_class
 from levestein import levenshtein
+import time
 
 
 class uni_parser_word():
@@ -40,7 +40,6 @@ def files_open(name_uni_parser, name_original):
         else:
             print line, u'no groups'
         or_dict[letterchange(lemma)] = examples.split(u'</a> , ')
-    up_array = []
     up_arr = upt.split(u'-lexeme\r\n')
     for word in up_arr:
         word_content = word.split(u'\r\n')
@@ -62,7 +61,7 @@ def files_open(name_uni_parser, name_original):
                         new_word.examples = u'delete_this_word'
                         continue
             elif i == 2:
-                new_word.stems = item[7:]
+                new_word.stems = work_with_stems(item[7:])
             elif i == 3:
                 new_word.gram = item[8:]
                 if u'ADV' in new_word.gram:
@@ -109,34 +108,105 @@ def files_open(name_uni_parser, name_original):
 def add_torot_to_up(name_torot, up_dict):
     t = codecs.open(name_torot, u'r', u'utf-8')
     tf = json.load(t)
-    i = 0
+    i = -1
+    added = {}  # словарь слов из up (лемма : [distance, index]), которые были присоединены к торот
     for word in tf:
         i += 1
+        # if i <= 6060:
+        #     continue
         if word[u'lemma_new'] in up_dict:
-            word[u'up_lemma'] = word[u'lemma_new']
-            word[u'up_lemma_cs'] = up_dict[word[u'lemma_new']][0].lemma
-            word[u'up_examples'] = up_dict[word[u'lemma_new']][0].examples
-            word[u'up_gramm'] = up_dict[word[u'lemma_new']][0].gram
-            word[u'up_translation'] = up_dict[word[u'lemma_new']][0].translation
-            word[u'up_stems'] = {}
-            for dict_entity in up_dict[word[u'lemma_new']]:
-                word[u'up_stems'][dict_entity.paradigm] = dict_entity.stems
+            word, added = add_group_of_words(word, up_dict, added, word[u'lemma_new'], i, tf)
         else:
             if word[u'pos'] == u'N':
                 distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'], word['gender'])
             else:
                 distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'])
-            if distance == u'no':
+            if array == u'no':
                 lr.write(u'no correspondence to ' + word[u'lemma_new'] + u'\r\n')
             else:
-                array_text = u''
-                for lemma in array:
-                    array_text += lemma + u', '
-                array_text = array_text[:-2]
-                tr.write(u'from ' + word[u'lemma_new'] + u'\t to \t' + array_text + u'\t distance == ' + str(distance) + u'\r\n')
+                if len(array) > 1:
+                    array_text = u''
+                    for lemma in array:
+                        array_text += lemma + u', '
+                    array_text = array_text[:-2]
+                    tr.write(u'CANNOT chose from ' + word[u'lemma_new'] + u'\t to \t' + array_text + u'\t distance == ' + str(distance) + u'\r\n')
+                else:
+                    word, added = add_group_of_words(word, up_dict, added, array[0], i, tf, distance)
+                    oc.write(u'from ' + word[u'lemma_new'] + u'\t to \t' + array[0] + u'\t distance == ' + str(distance) + u'\r\n')
         print i, u'done'
-        if i == 100:
-            break
+        # if i == 100:
+        #     # json.dump(tf, pt, ensure_ascii=False, indent=2)
+        #     break
+    return tf, added
+
+
+def work_with_stems(stems):
+    if stems[-1] == u'.':
+        stems = stems[:-1]
+    stems_arr = stems.split(u'.|')
+    g_stems = []
+    for stem_group in stems_arr:
+        stem_gr = list(set(stem_group.split(u'.//')))
+        g_stems.append(stem_gr)
+    return g_stems
+
+
+def add_rest(tf, added, up):
+    max_index = int(tf[-1]['id'])
+    print max_index
+    for sl in up:
+        if sl not in added:
+            word = {}
+            word[u'up_lemma'] = up[sl][0].simple_lemma
+            word[u'up_lemma_cs'] = up[sl][0].lemma
+            word[u'up_examples'] = up[sl][0].examples
+            word[u'up_gramm'] = up[sl][0].gram
+            word[u'up_translation'] = up[sl][0].translation
+            word[u'up_stems'] = {}
+            for par in up[sl]:
+                word[u'up_stems'][par.paradigm] = par.stems
+            word[u'index'] = max_index + 1
+            max_index += 1
+            tf.append(word)
+    return tf
+
+
+def add_group_of_words(word, up_dict, added, up_sl, j, tf, distance=0):
+    if up_sl in added:
+        if added[up_sl][0][0] < distance:
+            print u'we will not add', up_sl, 'to', word[u'lemma_new'], u', because the better correspondence exists:', tf[added[up_sl][0][1]][u'lemma_new']
+            return word, added  # не добавляем, если это слово мы уже добавили к какому-то, у когорого меньше distance
+        elif added[up_sl][0][0] > distance:
+            print u'we will delete', up_sl, 'to', tf[added[up_sl][0][1]][u'lemma_new'], u', because the better correspondence exists:', \
+            word[u'lemma_new']
+            for index_group in added[up_sl]:
+                index = index_group[1]
+                del tf[index][u'up_lemma']
+                del tf[index][u'up_lemma_cs']
+                del tf[index][u'up_examples']
+                del tf[index][u'up_gramm']
+                del tf[index][u'up_translation']
+                del tf[index][u'distance_to_up']
+                del tf[index][u'up_stems']
+                added[up_sl] = [[distance, j]]
+            # нужно найти источник, там было добавлено неправильно
+        else:  # если равно, то нужно хранить несколько
+            added[up_sl].append([distance, j])
+            print u'we will add', up_sl, 'to', word[u'lemma_new'], u', but the other correspondence also exists:', tf[added[up_sl][0][1]][
+                u'lemma_new']
+
+    else:
+        added[up_sl] = [[distance, j]]
+    word[u'up_lemma'] = up_sl
+    word[u'up_lemma_cs'] = up_dict[up_sl][0].lemma
+    word[u'up_examples'] = up_dict[up_sl][0].examples
+    word[u'up_gramm'] = up_dict[up_sl][0].gram
+    word[u'up_translation'] = up_dict[up_sl][0].translation
+    word[u'distance_to_up'] = distance
+    word[u'up_stems'] = {}
+    for dict_entity in up_dict[up_sl]:
+        word[u'up_stems'][dict_entity.paradigm] = dict_entity.stems
+    return word, added
 
 
 def use_leven(word, up_dict, word_pos, gender=u'-'):
@@ -185,9 +255,9 @@ def simplify_array(word, full_fall0):
     else:
         complete_fall0 = []
         complete_fall1 = []
-        word_cf = re.sub(u'[уъыаоэяиюое]', u'', word)
+        word_cf = re.sub(u'[уъыаоэяиюье]', u'', word)
         for w in full_fall0:
-            w_cf = re.sub(u'[уъыаоэяиюое]', u'', w)
+            w_cf = re.sub(u'[уъыаоэяиюье]', u'', w)
             if w_cf == word_cf:
                 complete_fall0.append(w)
             elif levenshtein(w_cf, word_cf) == 1 and complete_fall0 == []:
@@ -198,15 +268,27 @@ def simplify_array(word, full_fall0):
             return complete_fall1
         else:
             print u'is it possible???', word
+            for i in full_fall0:
+                print i
+            return u'no'
 
-
-lr = codecs.open(u'no_correspondence_2.txt', u'w', u'utf-8')
-tr = codecs.open(u'have_correspondence_2.txt', u'w', u'utf-8')
+lr = codecs.open(u'no_correspondence_6.txt', u'w', u'utf-8')
+tr = codecs.open(u'have_several_corr_6.txt', u'w', u'utf-8')
+oc = codecs.open(u'have_one_corr_6.txt', u'w', u'utf-8')
+pt = codecs.open(u'poliakov_added_6.json', u'w', u'utf-8')
 name_up = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\dictionary_1805_norm_pos.txt'
 name_or = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\All_dict_polyakov.txt'
 up_array = files_open(name_up, name_or)
 print len(up_array)
-add_torot_to_up(u'torot_gram_4.json', up_array)
+t1 = time.clock()
+tf, added = add_torot_to_up(u'torot_gram_6.json', up_array)
+t2 = time.clock()
+print str(t2-t1), 'seconds for searching correspondencies'
+tf = add_rest(tf, added, up_array)
 # for word in up_array:
 #     print word.lemma, word.simple_lemma, word.paradigm, word.stems, word.translation, word.gram, word.examples[0]
+json.dump(tf, pt, ensure_ascii=False, indent=2)
+t3 = time.clock()
+print str(t3-t2), 'seconds for writing correspondencies'
+pt.close()
 

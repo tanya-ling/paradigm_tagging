@@ -172,8 +172,8 @@ anal_data_n = noun_class.analysis_data(paradigmy_n)
 anal_data_v = noun_class.analysis_data(paradigmy_v)
 
 f = codecs.open(u'lemmalist.csv', u'r', u'utf-8')
-w = codecs.open(u'torot_gram_5.json', u'w', u'utf-8')
-wb = codecs.open(u'torot_miss_5.json', u'w', u'utf-8')
+w = codecs.open(u'torot_gram_7.json', u'w', u'utf-8')
+wb = codecs.open(u'torot_miss_7.json', u'w', u'utf-8')
 id = 0
 parsed = 0
 unparsed = 0
@@ -187,18 +187,20 @@ for line in f:
         continue
     line = line.rstrip()
     lemma_content = line.split(u';')
+    if lemma_content[0] == u'FIXME':
+        continue
+    if u'pronoun' in lemma_content[2]:
+        continue
     id += 1
     # if id < 1000:
     #     continue
-    if lemma_content[0] == u'FIXME':
-        continue
     if lemma_content[2] == u'verb':
         pos = u'V'
         uninfl = False
     elif lemma_content[2] == u'adjective':
         pos = u'Adj'
         uninfl = False
-    elif lemma_content[2] == u'common noun':
+    elif lemma_content[2] == u'common noun' or lemma_content[2] == u'proper noun':
         pos = u'N'
         uninfl = False
     elif lemma_content[2] == u'ordinal numeral':
@@ -247,7 +249,9 @@ for line in f:
     else:
         unparsed += 1
         wtw = new_word.write_unguessed_to_file()
+        wtw2 = new_word.write_guessed_to_file_short()
         misirable.append(wtw)
+        great_d.append(wtw2)
 time2 = time.clock()
 t = time2 - time1
 tword = parsed + unparsed
