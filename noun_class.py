@@ -27,6 +27,7 @@ class word:
         self.score_dict = {}
         self.unan_examples = {}
         self.second_score_dict = {}
+        self.rnc_id = []
 
     def create_examples(self, testdict):
         for key in testdict:
@@ -100,8 +101,7 @@ class word:
                         # print float(example.par_name_dict[par_stem][0].weight), float(len(self.examples))
                         # print float(example.par_name_dict[par_stem][0].weight) / float(len(self.examples))
                         # print math.log(1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
-                        measure = float(example.par_name_dict[par_stem][
-                                                                           0].weight) / pos_max * math.log(
+                        measure = float(len(self.examples)) / pos_max * math.log(
                             1 + float(example.par_name_dict[par_stem][0].weight) / len(self.examples), 2)
                         if measure > 1:
                             measure = 1
@@ -679,6 +679,7 @@ def letterchange(word):
     newword = newword.replace(u'ѧ', u'я')
     newword = newword.replace(u'ѹ', u'у')
     newword = newword.replace(u'ѳ', u'ф')
+    newword = newword.replace(u'ꙑ', u'ы')
     newword = newword.replace(u'ꙑ', u'ы')
     return newword
 

@@ -272,16 +272,16 @@ def simplify_array(word, full_fall0):
                 print i
             return u'no'
 
-lr = codecs.open(u'no_correspondence_6.txt', u'w', u'utf-8')
-tr = codecs.open(u'have_several_corr_6.txt', u'w', u'utf-8')
-oc = codecs.open(u'have_one_corr_6.txt', u'w', u'utf-8')
-pt = codecs.open(u'poliakov_added_6.json', u'w', u'utf-8')
+lr = codecs.open(u'no_correspondence_7.txt', u'w', u'utf-8')
+tr = codecs.open(u'have_several_corr_7.txt', u'w', u'utf-8')
+oc = codecs.open(u'have_one_corr_7.txt', u'w', u'utf-8')
+pt = codecs.open(u'poliakov_added_7.json', u'w', u'utf-8')
 name_up = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\dictionary_1805_norm_pos.txt'
 name_or = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\All_dict_polyakov.txt'
 up_array = files_open(name_up, name_or)
 print len(up_array)
 t1 = time.clock()
-tf, added = add_torot_to_up(u'torot_gram_6.json', up_array)
+tf, added = add_torot_to_up(u'torot_gram_7.json', up_array)
 t2 = time.clock()
 print str(t2-t1), 'seconds for searching correspondencies'
 tf = add_rest(tf, added, up_array)

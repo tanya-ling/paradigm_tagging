@@ -106,6 +106,9 @@ def oslo_trans(goldlemma):
     goldlemma = goldlemma.replace(u'лЬн', u'льн')
     # goldlemma = samelettter(goldlemma)
     goldlemma = modernize_oslo(goldlemma)
+    consonants = u'кнгзхвпрлджмтб'.split()
+    if goldlemma[-1] in consonants:
+        goldlemma += u'ъ'
     return goldlemma
 
 def indent(goldlemma, unilemma):
