@@ -13,6 +13,7 @@ class word:
     def __init__(self):
         self.examples = []
         self.lemma = u''
+        self.simple_lemma = u''
         self.pos = u''
         self.gramm = u''
         self.par_stem = []
@@ -136,7 +137,10 @@ class word:
                 except KeyError:
                     pass
 
-    def predict_stems(self):
+    def predict_stems(self, rnc=False):
+        lemma_to_work = self.lemma
+        if rnc:
+            lemma_to_work = self.simple_lemma
         for par_stem in self.group_par_stem:
             if self.pos == u'N' or self.pos == u'Adj' or self.pos == u'A-NUM':
                 stem0 = total_new_dict_1903.osnnoun(self.lemma_after_fall, par_stem)
@@ -144,7 +148,7 @@ class word:
                     self.predicted_par_stem[par_stem] = u'delete_this_word'
                     return
                 stems = total_new_dict_1903.nounstem(par_stem, stem0)
-                stem0_old = total_new_dict_1903.osnnoun(self.lemma, par_stem)
+                stem0_old = total_new_dict_1903.osnnoun(lemma_to_work, par_stem)
                 if stem0_old == stem0:
                     if u'w' not in stems:
                         res_stems = stems.split(u'.|')
@@ -170,7 +174,7 @@ class word:
                     except ValueError:
                         print self.lemma, stem0, par_stem, u'too many values to unpack'
                         stems = []
-                    stem0_old = total_new_dict_1903.osninf(self.lemma, par_stem)
+                    stem0_old = total_new_dict_1903.osninf(lemma_to_work, par_stem)
                     if stem0_old == stem0:  # не знаю, ускоряет или замедляет эта проверка, так как нулевая основа считается дважды
                         if u'w' not in stems:
                             stems = stems[:-1]
@@ -180,7 +184,7 @@ class word:
                             res_stems = []
                         self.predicted_par_stem[par_stem] = res_stems
                         continue
-                    stems_old, paradigm = total_new_dict_1903.verbstem(self.lemma, par_stem, 1, 0)
+                    stems_old, paradigm = total_new_dict_1903.verbstem(lemma_to_work, par_stem, 1, 0)
                     if stems_old[-2:] == u'|.':
                         stems_old = stems_old[:-2]
             # print par_stem, stems, u'and stems old', stems_old
@@ -198,12 +202,15 @@ class word:
                 stems_old = [stems_old[i].split(u'.//') for i in xrange(len(stems_old))]
                 res_stems = [None for i in xrange(len(stems))]
                 for i in xrange(len(stems)):
+                    try:
                                 if stems[i] == stems_old[i]:
                                     res_stems[i] = [stems[i]]
                                 else:
                                     listmerge6 = lambda s: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
                                     res_stems[i] = listmerge6([stems[i], stems_old[i]])
-                                    # res_stems[i] = lambda [stems[i], stems_old[i]]: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
+                    except IndexError:
+                        print u'len of old and new stems is different', self.lemma, self.lemma_after_fall, par_stem
+                        res_stems = stems
             self.predicted_par_stem[par_stem] = res_stems
 
     def group_stems(self):
@@ -322,7 +329,7 @@ class word:
                 for form in stem_forms:
                     print form
 
-    def write_guessed_to_file_short(self):
+    def write_guessed_to_file_short(self, rnc=False):
         uninfl = False
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
         wtw[u'lemma_new'] = self.lemma_after_fall
@@ -332,9 +339,11 @@ class word:
         if self.pos == u'N':
             wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
+        if rnc:
+            wtw[u'examples'] = [{ex.analys: list(set(ex.form))} for ex in self.examples]
         return wtw
 
-    def write_guessed_to_file(self):
+    def write_guessed_to_file(self, rnc=False):
         uninfl = False
         if self.pos == u'N':
             pos_max = 15  # real - 31
@@ -352,6 +361,8 @@ class word:
         if self.pos == u'N':
             wtw[u'gender'] = self.gramm
         wtw[u'examples'] = [{ex.analys: ex.form} for ex in self.examples]
+        if rnc:
+            wtw[u'examples'] = [{ex.analys: list(set(ex.form))} for ex in self.examples]
         wtw[u'par_stem'] = self.group_par_stem
         wtw[u'predicted_stems'] = self.predicted_par_stem
         wtw[u'scores'] = {}
@@ -389,7 +400,7 @@ class example:
         try:
             grammema = analy_data[self.analys]
         except KeyError:
-            print u'key error in guess example', self.analys
+            print u'key error in guess example', self.analys, self.form[0]
             return []
         wordform_par_set = u'firsttime'
         for form_n in self.form_norm:
@@ -427,6 +438,7 @@ class form_norm:
         self.par_stem = []
         self.par_name_list = []
         self.par_name_dict = {}
+
     def guess_wordform(self, grammema):
         for p_i_m in grammema.par_infl_mod:
             for infl_form in p_i_m.infl:

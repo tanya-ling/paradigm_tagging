@@ -1,0 +1,2283 @@
+nothing was predicted for:	въсприимати	V12t
+nothing was predicted for:	послѹшьствовати	V12t
+nothing was predicted for:	числьникъ	N1c
+predicted 3 and real2 stems length is no equal:	ольга	N3k
+nothing was predicted for:	слѹжити	V12t
+nothing was predicted for:	пѹтиловичь	N1c
+nothing was predicted for:	исѣчи	V13k
+nothing was predicted for:	исѣчи	Viti
+nothing was predicted for:	исѣчи	V12k
+predicted 3 and real2 stems length is no equal:	берка	N3k
+nothing was predicted for:	преобразитисѧ	V11e
+nothing was predicted for:	ѹмиритисѧ	V11e
+predicted 2 and real3 stems length is no equal:	льтьскыи	A1k_STAR
+nothing was predicted for:	зъватисѧ	V11e
+nothing was predicted for:	дѹмьница	N3k
+nothing was predicted for:	пѹщати	V12t
+nothing was predicted for:	обрѣстисѧ	V12t
+nothing was predicted for:	помочьникъ	N1c
+nothing was predicted for:	възлѣтати	Viti
+nothing was predicted for:	рещи	V13k
+nothing was predicted for:	съкѹпитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	съклонити	Viti
+nothing was predicted for:	битисѧ	V11e
+predicted 1 and real2 stems length is no equal:	погадати	V14d
+nothing was predicted for:	просвѣщати	V12t
+nothing was predicted for:	почитати	Viti
+nothing was predicted for:	палати	Viti
+nothing was predicted for:	въмѣщатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	подъклонити	Viti
+predicted 2 and real3 stems length is no equal:	кодьниньскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	мѹха	N3k
+predicted 5 and real4 stems length is no equal:	поити	Viti
+nothing was predicted for:	сваритисѧ	V11e
+predicted 2 and real3 stems length is no equal:	акарнаньскыи	A1k_STAR
+nothing was predicted for:	рѹшатисѧ	V12t
+nothing was predicted for:	датисѧ	V11e
+nothing was predicted for:	възьдати	Viti
+nothing was predicted for:	рышевичь	N1c
+nothing was predicted for:	продължити	V12t
+predicted 3 and real2 stems length is no equal:	объстати	V12t
+nothing was predicted for:	събытисѧ	V11e
+nothing was predicted for:	ингворовичь	N1c
+nothing was predicted for:	вражьствовати	Viti
+predicted 2 and real3 stems length is no equal:	татарьскыи	A1k_STAR
+nothing was predicted for:	погрѣбати	Viti
+predicted 2 and real3 stems length is no equal:	каподокиискыи	A1k_STAR
+nothing was predicted for:	лакедеми	N3t_STAR
+nothing was predicted for:	пращати	V12t
+nothing was predicted for:	братисѧ	V11e
+predicted 2 and real3 stems length is no equal:	єюпьтьскыи	A1k_STAR
+nothing was predicted for:	зъвати	V14p
+nothing was predicted for:	испроситисѧ	V11e
+nothing was predicted for:	навѧзати	V12g
+nothing was predicted for:	раздрѹшатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	моравьскыи	A1k_STAR
+nothing was predicted for:	прокъшиничь	N1c
+nothing was predicted for:	тѣлохраньць	N1k
+nothing was predicted for:	тѣлохраньць	N1k_STAR
+predicted 3 and real2 stems length is no equal:	сѣвьско	N2k
+predicted 3 and real2 stems length is no equal:	молоко	N2k
+nothing was predicted for:	ѹкрѣпитисѧ	V11e
+nothing was predicted for:	отиматисѧ	V11e
+nothing was predicted for:	вратитисѧ	V11e
+nothing was predicted for:	приклонитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	рѹка	N3k
+nothing was predicted for:	боротисѧ	V11e
+nothing was predicted for:	въкънѧжитисѧ	V11e
+nothing was predicted for:	освѧщатисѧ	V12t
+nothing was predicted for:	порещи	V13k
+nothing was predicted for:	ѹстрашати	V12t
+predicted 3 and real2 stems length is no equal:	перескочьникъ	N3k
+nothing was predicted for:	желѣти	V12t
+predicted 2 and real3 stems length is no equal:	мерьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	иподикъ	N3k
+nothing was predicted for:	плѹти	V14p
+nothing was predicted for:	прорещи	V13k
+nothing was predicted for:	съложити	V12t
+nothing was predicted for:	наскакати	Viti
+nothing was predicted for:	назьрѣти	V12t
+nothing was predicted for:	немънъ	N3t_STAR
+predicted 5 and real4 stems length is no equal:	вратити	Viti
+nothing was predicted for:	пронести	V11e
+nothing was predicted for:	окати	Viti
+nothing was predicted for:	тънъкъ	A1k_STAR
+nothing was predicted for:	побъдѣти	Viti
+predicted 3 and real2 stems length is no equal:	касогъ	N3k
+nothing was predicted for:	търлиничь	N1c
+nothing was predicted for:	ображатисѧ	V12t
+nothing was predicted for:	прохлажатисѧ	V12t
+nothing was predicted for:	перемълвливати	Viti
+predicted 5 and real4 stems length is no equal:	рѹбити	Viti
+nothing was predicted for:	пережечи	V12t
+nothing was predicted for:	пережечи	V13k
+nothing was predicted for:	възнѧти	Viti
+nothing was predicted for:	ѹгодитисѧ	V11e
+nothing was predicted for:	ѹдьржати	V12t
+nothing was predicted for:	истѧзати	Viti
+nothing was predicted for:	пригвоздити	V11e
+nothing was predicted for:	ѹгашати	V12t
+nothing was predicted for:	камоса	N3k
+predicted 5 and real4 stems length is no equal:	мимоити	Viti
+nothing was predicted for:	ходыничи	N1c
+nothing was predicted for:	кѹмиролюбьць	N1k
+nothing was predicted for:	кѹмиролюбьць	N1k_STAR
+nothing was predicted for:	жаловати	V12t
+nothing was predicted for:	плотьникъ	N1c
+nothing was predicted for:	преставитисѧ	V11e
+nothing was predicted for:	торопьць	N43_STAR
+nothing was predicted for:	разрѹшитисѧ	V12t
+nothing was predicted for:	наречи	V13k
+nothing was predicted for:	цвѣтьць	N1k
+nothing was predicted for:	веселоватисѧ	V11e
+predicted 2 and real3 stems length is no equal:	велыньскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	скипиатьскыи	A1k_STAR
+nothing was predicted for:	знаменатисѧ	V11e
+nothing was predicted for:	познавати	Viti
+nothing was predicted for:	провлѧти	Viti
+predicted 2 and real3 stems length is no equal:	иєреискыи	A1k_STAR
+nothing was predicted for:	шьвьць	N1k
+nothing was predicted for:	шьвьць	N1k_STAR
+predicted 3 and real2 stems length is no equal:	простити	V21t
+nothing was predicted for:	отъвытисѧ	V11e
+predicted 5 and real4 stems length is no equal:	възлазити	Viti
+nothing was predicted for:	расваритисѧ	V11e
+nothing was predicted for:	исконьчати	V11e
+nothing was predicted for:	ѹнести	V11e
+nothing was predicted for:	напрѧщи	V13k
+nothing was predicted for:	перевестисѧ	V11e
+nothing was predicted for:	лыщатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	стѹпити	Viti
+predicted 3 and real2 stems length is no equal:	лодъка	N3k
+nothing was predicted for:	нарѧдитисѧ	V11e
+nothing was predicted for:	исправлеватисѧ	V11e
+predicted 5 and real4 stems length is no equal:	твьрдити	Viti
+nothing was predicted for:	рыскати	V12t
+nothing was predicted for:	крѹтитисѧ	V11e
+nothing was predicted for:	отъписатисѧ	V11e
+nothing was predicted for:	испирывати	Viti
+nothing was predicted for:	възѹнитисѧ	V11e
+nothing was predicted for:	поклонитисѧ	V12t
+nothing was predicted for:	поклонитисѧ	V11e
+nothing was predicted for:	творитисѧ	V11e
+nothing was predicted for:	ѹсърѣстисѧ	V11e
+predicted 3 and real2 stems length is no equal:	межька	N3k
+nothing was predicted for:	тимошькиничь	N1c
+predicted 3 and real2 stems length is no equal:	коврижька	N3k
+predicted 3 and real2 stems length is no equal:	жака	N3k
+nothing was predicted for:	сыпати	Viti
+nothing was predicted for:	ѹтѣшати	V12t
+nothing was predicted for:	раздрѣшатисѧ	V12t
+nothing was predicted for:	вражьдовати	V12t
+nothing was predicted for:	вражьдовати	Viti
+nothing was predicted for:	натещи	V13k
+nothing was predicted for:	ѹтѣшатисѧ	V12t
+nothing was predicted for:	защититисѧ	V11e
+nothing was predicted for:	съмѹтитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	чага	N3k
+predicted 2 and real3 stems length is no equal:	схонитьскыи	A1k_STAR
+nothing was predicted for:	осѣсти	V11e
+predicted 5 and real4 stems length is no equal:	мѹдрити	Viti
+nothing was predicted for:	ѹмѹчити	V12k
+predicted 5 and real4 stems length is no equal:	възверечи	V14g_STAR
+nothing was predicted for:	възверечи	V13k
+nothing was predicted for:	отъврестисѧ	V11e
+nothing was predicted for:	примѣшатисѧ	V11e
+nothing was predicted for:	съсѣдати	Viti
+nothing was predicted for:	кысель	N43_STAR
+nothing was predicted for:	оставитисѧ	V14p
+nothing was predicted for:	въсхытати	Viti
+nothing was predicted for:	ражещисѧ	V12t
+nothing was predicted for:	завести	V11e
+nothing was predicted for:	ѹдьржатисѧ	V12t
+nothing was predicted for:	ѹдьржатисѧ	V11e
+nothing was predicted for:	цѣломѹдрьць	N1k
+predicted 3 and real2 stems length is no equal:	голѹбьникъ	N3k
+predicted 5 and real4 stems length is no equal:	веречисѧ	V14g_STAR
+nothing was predicted for:	веречисѧ	V13k
+predicted 5 and real4 stems length is no equal:	отъити	Viti
+predicted 3 and real2 stems length is no equal:	пакостити	V21t
+nothing was predicted for:	лѹкоморьць	N1k
+nothing was predicted for:	лѹкоморьць	N1k_STAR
+predicted 5 and real4 stems length is no equal:	жалитиси	Viti
+nothing was predicted for:	ищисти	Viti
+nothing was predicted for:	ищисти	V11e
+nothing was predicted for:	съжалитисѧ	V11e
+nothing was predicted for:	сънитисѧ	V11e
+nothing was predicted for:	възвышати	V12t
+predicted 3 and real2 stems length is no equal:	чьрчега	N3k
+nothing was predicted for:	дѣтоѹбииць	N1k
+nothing was predicted for:	съвъкѹпливати	Viti
+nothing was predicted for:	ѹладитисѧ	V11e
+nothing was predicted for:	дожьдатисѧ	V11e
+nothing was predicted for:	обрадоватисѧ	V12t
+nothing was predicted for:	обрадоватисѧ	V11e
+predicted 5 and real4 stems length is no equal:	заворожити	Viti
+nothing was predicted for:	раширитисѧ	V11e
+nothing was predicted for:	завѣщатисѧ	V12t
+nothing was predicted for:	раздрѣшити	V12t
+nothing was predicted for:	фюникъ	N1c
+predicted 2 and real3 stems length is no equal:	шерньскыи	A1k_STAR
+nothing was predicted for:	изобрѣсти	Viti
+predicted 2 and real3 stems length is no equal:	городьньскыи	A1k_STAR
+nothing was predicted for:	искѹшатисѧ	V12t
+nothing was predicted for:	орьличь	N1c
+predicted 5 and real4 stems length is no equal:	лазити	Viti
+predicted 2 and real3 stems length is no equal:	корсѹньскыи	A1k_STAR
+nothing was predicted for:	прославитисѧ	V11e
+nothing was predicted for:	прельщатисѧ	V12t
+nothing was predicted for:	кѹмирослѹжьбьникъ	N1c
+predicted 3 and real2 stems length is no equal:	ѹжикъ	N3k
+predicted 2 and real3 stems length is no equal:	саковьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	сновьскыи	A1k_STAR
+nothing was predicted for:	стихира	N3t_STAR
+nothing was predicted for:	напоитисѧ	V11e
+nothing was predicted for:	престоти	V12t
+nothing was predicted for:	изѧславьць	N1k
+nothing was predicted for:	изѧславьць	N1k_STAR
+predicted 3 and real2 stems length is no equal:	ѹжика	N3k
+nothing was predicted for:	ѹстеречи	V13k
+nothing was predicted for:	ѹстеречи	Viti
+nothing was predicted for:	земледѣльць	N1k
+nothing was predicted for:	земледѣльць	N1k_STAR
+nothing was predicted for:	вѣньчатисѧ	V11e
+nothing was predicted for:	речи	Viti
+predicted 3 and real2 stems length is no equal:	щепъка	N3k
+nothing was predicted for:	засыпати	Viti
+predicted 3 and real2 stems length is no equal:	волъдрихъ	N3k
+nothing was predicted for:	перебороти	Viti
+nothing was predicted for:	богатѣти	Viti
+nothing was predicted for:	блюстисѧ	V11e
+predicted 2 and real3 stems length is no equal:	звѣрьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	кѹлачьска	N3k
+nothing was predicted for:	възвращатисѧ	V12t
+nothing was predicted for:	съдьржатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	росытити	Viti
+nothing was predicted for:	завидичь	N1c
+nothing was predicted for:	питатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	аиєрьскыи	A1k_STAR
+nothing was predicted for:	венедици	N1k
+nothing was predicted for:	обьходити	V12g
+nothing was predicted for:	вельдѹшити	V12t
+nothing was predicted for:	соромлѧти	Viti
+predicted 5 and real4 stems length is no equal:	изити	Viti
+predicted 2 and real3 stems length is no equal:	авранитьскыи	A1k_STAR
+nothing was predicted for:	ѹпихати	Viti
+nothing was predicted for:	кѹшатисѧ	V12t
+nothing was predicted for:	кѹшатисѧ	Viti
+nothing was predicted for:	вълковыискъ	N1k_STAR
+nothing was predicted for:	възлагати	V12g
+nothing was predicted for:	възлагати	Viti
+nothing was predicted for:	ѹтѣшитисѧ	V12t
+predicted 1 and real2 stems length is no equal:	подътѧти	V14t
+predicted 3 and real2 stems length is no equal:	полъка	N3k
+nothing was predicted for:	гнести	V12t
+nothing was predicted for:	молвити	V14p
+nothing was predicted for:	въврещисѧ	V12t
+nothing was predicted for:	просѹнѹти	Viti
+predicted 2 and real3 stems length is no equal:	кыєвьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	въпѹстити	V21t
+nothing was predicted for:	мѧтежетворьць	N1k
+nothing was predicted for:	мѧтежетворьць	N1k_STAR
+predicted 2 and real3 stems length is no equal:	иерѣискыи	A1k_STAR
+nothing was predicted for:	ослабитисѧ	V11e
+nothing was predicted for:	рыкъ	N1c
+predicted 2 and real3 stems length is no equal:	лѹвиискыи	A1k_STAR
+nothing was predicted for:	переставитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	галичанъка	N3k
+nothing was predicted for:	постеречи	V21t
+nothing was predicted for:	ражагатисѧ	V11e
+nothing was predicted for:	разорати	V12x_STAR
+nothing was predicted for:	съклъчевати	Viti
+predicted 2 and real3 stems length is no equal:	аравиискыи	A1k_STAR
+nothing was predicted for:	домѣтати	Viti
+nothing was predicted for:	напоминатисѧ	V11e
+nothing was predicted for:	прелѣсти	Viti
+predicted 2 and real3 stems length is no equal:	бѹжьковьскыи	A1k_STAR
+nothing was predicted for:	отърещи	V13k
+predicted 2 and real3 stems length is no equal:	бридъкыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	вънѹка	N3k
+predicted 2 and real3 stems length is no equal:	полътьскыи	A1k_STAR
+nothing was predicted for:	крамольникъ	N1c
+nothing was predicted for:	вѧзати	Viti
+nothing was predicted for:	ѹбывати	Viti
+nothing was predicted for:	подвигатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	въименити	Viti
+predicted 2 and real3 stems length is no equal:	коньскыи	A1k_STAR
+nothing was predicted for:	пожещисѧ	V12t
+nothing was predicted for:	попълзнѹтисѧ	V12t
+nothing was predicted for:	попълзнѹтисѧ	V11e
+nothing was predicted for:	въсплакатисѧ	V11e
+nothing was predicted for:	ѹстрашитисѧ	V12t
+nothing was predicted for:	мирославичь	N1c
+nothing was predicted for:	почѹдитисѧ	V11e
+nothing was predicted for:	съваживати	V12t
+nothing was predicted for:	съваживати	Viti
+nothing was predicted for:	преселитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	ангельскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	челъка	N3k
+nothing was predicted for:	моисѣевичь	N1c
+predicted 3 and real2 stems length is no equal:	фраки	N3k
+nothing was predicted for:	обьстоти	Viti
+nothing was predicted for:	выпльвати	Viti
+predicted 3 and real2 stems length is no equal:	безорѹжьникъ	N3k
+nothing was predicted for:	истричисѧ	V13k
+predicted 3 and real2 stems length is no equal:	почьстити	V21t
+nothing was predicted for:	шаръ	N3t_STAR
+nothing was predicted for:	приобрѣсти	V11e
+predicted 5 and real4 stems length is no equal:	ростричи	Viti
+nothing was predicted for:	нарѧживати	Viti
+predicted 2 and real3 stems length is no equal:	новотържьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	закамьскыи	A1k_STAR
+nothing was predicted for:	ѹблажати	V12t
+predicted 2 and real3 stems length is no equal:	тънъкыи	A1k_STAR
+nothing was predicted for:	пречьсти	Viti
+nothing was predicted for:	превести	V11e
+predicted 2 and real3 stems length is no equal:	хрьстьньскыи	A1k_STAR
+nothing was predicted for:	подвизати	Viti
+nothing was predicted for:	истонѹти	V14p
+nothing was predicted for:	съвѣщавати	V12t
+predicted 5 and real4 stems length is no equal:	въпѧтити	Viti
+nothing was predicted for:	заратитисѧ	V11e
+nothing was predicted for:	изѹчитисѧ	V11e
+nothing was predicted for:	състарѣтисѧ	V12t
+predicted 2 and real3 stems length is no equal:	хрьстиньскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	стьркъ	N3k
+nothing was predicted for:	раскоповати	Viti
+nothing was predicted for:	отътъргати	V12g
+nothing was predicted for:	захарииничь	N1c
+predicted 2 and real3 stems length is no equal:	мазовьшьскыи	A1k_STAR
+nothing was predicted for:	възблюсти	Viti
+nothing was predicted for:	покланѧтисѧ	V12t
+nothing was predicted for:	разратитисѧ	V11e
+nothing was predicted for:	распинати	Viti
+nothing was predicted for:	токсобичь	N1c
+nothing was predicted for:	токсобичь	N1k
+nothing was predicted for:	съимати	V12t
+nothing was predicted for:	обѣдати	Viti
+predicted 3 and real2 stems length is no equal:	долобьскъ	N3k
+predicted 5 and real4 stems length is no equal:	пролити	Viti
+predicted 6 and real4 stems length is no equal:	пещисѧ	V14eg
+nothing was predicted for:	пещисѧ	V12t
+nothing was predicted for:	пещисѧ	Viti
+nothing was predicted for:	погрести	V14p
+predicted 3 and real2 stems length is no equal:	верига	N3k
+nothing was predicted for:	противитисѧ	V11e
+nothing was predicted for:	обнищати	V12t
+nothing was predicted for:	въстѹпитисѧ	V11e
+nothing was predicted for:	ѹправитисѧ	V12t
+nothing was predicted for:	ѹправитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	паволока	N3k
+predicted 3 and real2 stems length is no equal:	льга	N3k
+nothing was predicted for:	съниматисѧ	V11e
+nothing was predicted for:	попълзыватисѧ	V11e
+predicted 3 and real2 stems length is no equal:	ристати	V12t
+nothing was predicted for:	налѣстисѧ	V11e
+nothing was predicted for:	климѧтичь	N1c
+nothing was predicted for:	ѹстрашатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	розга	N3k
+nothing was predicted for:	възмѧстисѧ	V11e
+nothing was predicted for:	съвѧзатисѧ	V11e
+nothing was predicted for:	воротитисѧ	V11e
+nothing was predicted for:	налагати	V12g
+nothing was predicted for:	налагати	Viti
+predicted 3 and real2 stems length is no equal:	ближьникъ	N3k
+nothing was predicted for:	страховатисѧ	V11e
+nothing was predicted for:	докопатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	срациньскыи	A1k_STAR
+nothing was predicted for:	пренестисѧ	V11e
+nothing was predicted for:	обрытисѧ	V11e
+predicted 3 and real2 stems length is no equal:	бобръка	N3k
+nothing was predicted for:	премощи	V13k
+predicted 5 and real4 stems length is no equal:	премощи	V14g_STAR
+nothing was predicted for:	премощи	V12t
+nothing was predicted for:	премощи	V11e
+nothing was predicted for:	приласкати	Viti
+predicted 5 and real4 stems length is no equal:	притомити	Viti
+nothing was predicted for:	запрети	Viti
+nothing was predicted for:	жьрти	V12t
+nothing was predicted for:	ворочатисѧ	Viti
+predicted 3 and real2 stems length is no equal:	євга	N3k
+nothing was predicted for:	блистатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	извѣститисѧ	V21t
+nothing was predicted for:	извѣститисѧ	V11e
+nothing was predicted for:	ѹпражнити	V12t
+nothing was predicted for:	ѹпражнити	V21t
+nothing was predicted for:	ѹпражнити	V22t
+nothing was predicted for:	сътворитисѧ	V11e
+nothing was predicted for:	обръжавѣти	V12t
+predicted 3 and real2 stems length is no equal:	ближикъ	N3k
+nothing was predicted for:	ведень	N43_STAR
+nothing was predicted for:	понѹживати	Viti
+nothing was predicted for:	ѹстрьмитисѧ	V11e
+nothing was predicted for:	проститисѧ	V11e
+nothing was predicted for:	пожещи	V12t
+predicted 5 and real4 stems length is no equal:	пожещи	V14g_STAR
+nothing was predicted for:	помьркнѹти	V11e
+nothing was predicted for:	почерети	Viti
+predicted 3 and real2 stems length is no equal:	тамга	N3k
+predicted 2 and real3 stems length is no equal:	прадѣдьскыи	A1k_STAR
+nothing was predicted for:	плиса	N3k
+nothing was predicted for:	прочитати	Viti
+nothing was predicted for:	потонѹти	V14p
+nothing was predicted for:	єксапсалъмъ	N3t_STAR
+nothing was predicted for:	подъложити	V12t
+nothing was predicted for:	подъложити	V12g
+predicted 2 and real3 stems length is no equal:	єлеоньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	нагрѧзнѹти	V14g_STAR
+nothing was predicted for:	нагрѧзнѹти	V13k
+nothing was predicted for:	нагрѧзнѹти	V11e
+nothing was predicted for:	раздиратисѧ	V11e
+nothing was predicted for:	владыка	N3k_STAR
+nothing was predicted for:	исклъчитисѧ	V11e
+nothing was predicted for:	неразѹмѣвати	Viti
+nothing was predicted for:	алавастръ	N1t_STAR
+predicted 3 and real2 stems length is no equal:	прельститисѧ	V21t
+predicted 3 and real2 stems length is no equal:	сѹка	N3k
+nothing was predicted for:	бороти	Viti
+nothing was predicted for:	притъчати	Viti
+nothing was predicted for:	обѣчатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	стѹдиискыи	A1k_STAR
+nothing was predicted for:	льщатисѧ	V12t
+nothing was predicted for:	погрети	V14p
+nothing was predicted for:	побѣчи	V13k
+nothing was predicted for:	ѹскоритисѧ	V11e
+nothing was predicted for:	сытиничь	N1c
+predicted 3 and real2 stems length is no equal:	фѹникъ	N3k
+predicted 5 and real4 stems length is no equal:	ѹлещи	V14g_STAR
+nothing was predicted for:	ѹлещи	V13k
+nothing was predicted for:	пребрести	V11e
+nothing was predicted for:	ѹложити	V12t
+nothing was predicted for:	гнѹситисѧ	V11e
+nothing was predicted for:	молодьць	N1k
+nothing was predicted for:	съмѣритисѧ	V12t
+nothing was predicted for:	съмѣритисѧ	V11e
+nothing was predicted for:	промъкнѹтисѧ	V11e
+predicted 3 and real2 stems length is no equal:	мотыка	N3k
+nothing was predicted for:	садитисѧ	V11e
+nothing was predicted for:	въздьрати	V11e
+nothing was predicted for:	расѹжатисѧ	V12t
+nothing was predicted for:	расѣщи	V13k
+nothing was predicted for:	расѣщи	V12k
+nothing was predicted for:	роспастисѧ	V11e
+nothing was predicted for:	обрѣзатисѧ	V11e
+nothing was predicted for:	въздрадоватисѧ	V11e
+nothing was predicted for:	похвалѧти	Viti
+nothing was predicted for:	ѹставитисѧ	V11e
+nothing was predicted for:	вышити	V11e
+nothing was predicted for:	лишатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	посвистати	V12t
+nothing was predicted for:	веселитисѧ	V12t
+nothing was predicted for:	веселитисѧ	V11e
+nothing was predicted for:	иждещи	V13k
+nothing was predicted for:	вълещи	V13k
+nothing was predicted for:	кобѧковичь	N1c
+nothing was predicted for:	прескакати	Viti
+nothing was predicted for:	сѣчи	Viti
+nothing was predicted for:	грѣкъ	N1c
+nothing was predicted for:	волыньць	N1k
+nothing was predicted for:	волыньць	N1k_STAR
+predicted 5 and real4 stems length is no equal:	обльстити	Viti
+predicted 3 and real2 stems length is no equal:	обльстити	V21t
+predicted 5 and real4 stems length is no equal:	тиѹнити	Viti
+predicted 3 and real2 stems length is no equal:	ближика	N3k
+nothing was predicted for:	приложити	V12t
+nothing was predicted for:	ѹбрести	Viti
+predicted 3 and real2 stems length is no equal:	извѣстити	V21t
+predicted 3 and real2 stems length is no equal:	ѹлъка	N3k
+predicted 2 and real3 stems length is no equal:	палестинькыи	A1k_STAR
+nothing was predicted for:	приливати	Viti
+predicted 3 and real2 stems length is no equal:	влага	N3k
+predicted 5 and real4 stems length is no equal:	кадити	Viti
+nothing was predicted for:	прозѧбнѹти	V14p
+nothing was predicted for:	тлещи	V12k
+nothing was predicted for:	ѹстроитисѧ	V11e
+nothing was predicted for:	гнѹшатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	ѹгърьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	хвостатисѧ	V12t
+nothing was predicted for:	потъргати	V12g
+nothing was predicted for:	потъргати	Viti
+nothing was predicted for:	пльсковичи	N1c
+nothing was predicted for:	выстѹпати	Viti
+nothing was predicted for:	глѧдати	Viti
+nothing was predicted for:	съмьркнѹтисѧ	V11e
+nothing was predicted for:	опоздитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	безѹмьникъ	N3k
+predicted 5 and real4 stems length is no equal:	заити	Viti
+nothing was predicted for:	въсхыщатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	кърмитисѧ	Viti
+nothing was predicted for:	биричь	N1c
+predicted 2 and real3 stems length is no equal:	володимирьскыи	A1k_STAR
+nothing was predicted for:	троидении	N43_STAR
+predicted 2 and real3 stems length is no equal:	сѹрьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	мирьскыи	A1k_STAR
+nothing was predicted for:	родьство	N1t_STAR
+predicted 3 and real2 stems length is no equal:	дъщька	N3k
+predicted 5 and real4 stems length is no equal:	свѣтити	Viti
+nothing was predicted for:	пѹтьшьствовати	Viti
+nothing was predicted for:	олекъшиничь	N1c
+nothing was predicted for:	микѹлица	N3k
+nothing was predicted for:	неревиничь	N1c
+nothing was predicted for:	хранитисѧ	V11e
+nothing was predicted for:	съврещи	V13k
+nothing was predicted for:	испъртити	V14p
+nothing was predicted for:	казнитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	выристати	V12t
+nothing was predicted for:	выристати	Viti
+nothing was predicted for:	съвѣщевати	V12t
+predicted 3 and real2 stems length is no equal:	ѹтѣха	N3k
+nothing was predicted for:	отъвѣщевати	Viti
+nothing was predicted for:	изволочи	V13k
+nothing was predicted for:	василевичь	N1c
+nothing was predicted for:	прозирати	Viti
+nothing was predicted for:	прозирати	V12x_STAR
+nothing was predicted for:	слѹти	V14p
+nothing was predicted for:	ѹжаситисѧ	V11e
+nothing was predicted for:	причащатисѧ	V12t
+nothing was predicted for:	блажити	V12t
+nothing was predicted for:	малодѹшьствовати	Viti
+nothing was predicted for:	пости	Viti
+nothing was predicted for:	пѹтивльць	N1k
+nothing was predicted for:	прозъватисѧ	V12t
+nothing was predicted for:	прозъватисѧ	V11e
+nothing was predicted for:	феагенъ	N43_STAR
+nothing was predicted for:	напълнитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	волыньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	възлещи	V14g_STAR
+nothing was predicted for:	възлещи	V13k
+predicted 5 and real4 stems length is no equal:	дробити	Viti
+nothing was predicted for:	пририскати	V12t
+nothing was predicted for:	помышлѧти	V12t
+nothing was predicted for:	врежатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	выити	Viti
+nothing was predicted for:	никандръ	N1t_STAR
+nothing was predicted for:	нарѧжатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	чешьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	ражещи	V14g_STAR
+nothing was predicted for:	съмилитисѧ	V11e
+nothing was predicted for:	мъножитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	выпѹстити	V21t
+predicted 3 and real2 stems length is no equal:	остати	V12t
+nothing was predicted for:	разрѣшитисѧ	V12t
+predicted 2 and real3 stems length is no equal:	жревьскыи	A1k_STAR
+nothing was predicted for:	стародѹбьць	N1k
+nothing was predicted for:	стародѹбьць	N1k_STAR
+predicted 3 and real2 stems length is no equal:	фока	N3k
+predicted 2 and real3 stems length is no equal:	никѣискыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	растрѣлити	Viti
+nothing was predicted for:	глѣбовичь	N1c
+nothing was predicted for:	стонати	V12t
+nothing was predicted for:	подѣлитисѧ	V11e
+nothing was predicted for:	вълхвъ	N1t_STAR
+predicted 2 and real3 stems length is no equal:	прѹсьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	ватага	N3k
+nothing was predicted for:	повинѹтисѧ	V11e
+nothing was predicted for:	грести	Viti
+nothing was predicted for:	прельщати	V12t
+nothing was predicted for:	търгати	V12g
+nothing was predicted for:	търгати	Viti
+nothing was predicted for:	ополоснѹтисѧ	V11e
+nothing was predicted for:	прилъгати	V12g
+nothing was predicted for:	рослажати	V12t
+nothing was predicted for:	съкѹпливати	Viti
+nothing was predicted for:	малодѹшити	V12t
+predicted 2 and real3 stems length is no equal:	литовьскыи	A1k_STAR
+nothing was predicted for:	мьжити	V12t
+nothing was predicted for:	врачевати	Viti
+nothing was predicted for:	добродьньствиє	N5_STAR_ov
+nothing was predicted for:	изъѣдати	Viti
+nothing was predicted for:	омытисѧ	V11e
+nothing was predicted for:	тѹльникъ	N1c
+nothing was predicted for:	тищати	Viti
+nothing was predicted for:	развѣщати	V12t
+nothing was predicted for:	развѣщати	V21t
+nothing was predicted for:	развѣщати	V22t
+nothing was predicted for:	къмѣтьство	N1t_STAR
+nothing was predicted for:	миритисѧ	V11e
+nothing was predicted for:	произвести	V11e
+predicted 5 and real4 stems length is no equal:	отити	Viti
+predicted 5 and real4 stems length is no equal:	наити	Viti
+nothing was predicted for:	опроврещи	V13k
+nothing was predicted for:	пристраиватисѧ	V11e
+predicted 3 and real2 stems length is no equal:	бѹмага	N3k
+nothing was predicted for:	съплести	V11e
+nothing was predicted for:	лѣтовати	Viti
+nothing was predicted for:	печи	Viti
+nothing was predicted for:	огасовичь	N1c
+nothing was predicted for:	испѹщати	V12t
+nothing was predicted for:	печаловатисѧ	V12t
+nothing was predicted for:	печаловатисѧ	V11e
+nothing was predicted for:	събьрати	V12x_STAR
+predicted 2 and real3 stems length is no equal:	въслонимьскыи	A1k_STAR
+nothing was predicted for:	съзъватисѧ	V11e
+nothing was predicted for:	ѹтвьржати	V12t
+predicted 5 and real4 stems length is no equal:	винити	Viti
+nothing was predicted for:	свататисѧ	V11e
+nothing was predicted for:	приискати	V12t
+nothing was predicted for:	попълзнѹти	Viti
+nothing was predicted for:	брати	Viti
+nothing was predicted for:	перетѧти	Viti
+nothing was predicted for:	ѹтрѣзвитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	распѹстити	V21t
+predicted 2 and real3 stems length is no equal:	нисьскыи	A1k_STAR
+nothing was predicted for:	оѹбоживати	V12t
+predicted 3 and real2 stems length is no equal:	рѣка	N3k
+nothing was predicted for:	раздрѹшитисѧ	V12t
+nothing was predicted for:	раздрѹшитисѧ	V11e
+nothing was predicted for:	размышлѧти	V12t
+nothing was predicted for:	съдьржати	V12t
+nothing was predicted for:	хвалитисѧ	V11e
+nothing was predicted for:	сълъгати	V12g
+nothing was predicted for:	ѹстранитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	безмьздьникъ	N3k
+nothing was predicted for:	каменьникъ	N1c
+predicted 2 and real3 stems length is no equal:	тьхвѣрьскыи	A1k_STAR
+nothing was predicted for:	кѹничь	N1c
+predicted 3 and real2 stems length is no equal:	сѹтѣска	N3k
+nothing was predicted for:	въздьржатисѧ	V12t
+nothing was predicted for:	препосатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	асѹриискыи	A1k_STAR
+nothing was predicted for:	порасти	Viti
+nothing was predicted for:	высълатисѧ	V11e
+nothing was predicted for:	предиити	V12t
+predicted 5 and real4 stems length is no equal:	предиити	Viti
+predicted 2 and real3 stems length is no equal:	ѳивѣискыи	A1k_STAR
+nothing was predicted for:	дьрновичь	N1c
+nothing was predicted for:	доискати	Viti
+predicted 2 and real3 stems length is no equal:	иночьскыи	A1k_STAR
+nothing was predicted for:	належати	V12t
+predicted 5 and real4 stems length is no equal:	напросити	Viti
+nothing was predicted for:	обрѣсти	V12t
+nothing was predicted for:	въсхыщати	V12t
+nothing was predicted for:	ѹдавитисѧ	V11e
+nothing was predicted for:	иѹлиада	N3t_STAR
+nothing was predicted for:	тищатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	польскыи	A1k_STAR
+nothing was predicted for:	сългати	V12g
+nothing was predicted for:	отъбѣчи	V13k
+predicted 2 and real3 stems length is no equal:	пентапольскыи	A1k_STAR
+nothing was predicted for:	жьлы	N5_STAR_ov
+predicted 2 and real3 stems length is no equal:	витечевьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	ѹклюдити	Viti
+nothing was predicted for:	въскрьшати	Viti
+predicted 2 and real3 stems length is no equal:	мьнишьскыи	A1k_STAR
+nothing was predicted for:	подвизатисѧ	V11e
+nothing was predicted for:	рознати	Viti
+nothing was predicted for:	роздавати	Viti
+nothing was predicted for:	порадоватисѧ	V11e
+nothing was predicted for:	отъсѣщи	V13k
+nothing was predicted for:	тѣшитель	N43_STAR
+nothing was predicted for:	обратитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	ѹха	N3k
+nothing was predicted for:	нежатиничь	N1c
+nothing was predicted for:	сътъкнѹти	V11e
+nothing was predicted for:	нѧти	Viti
+nothing was predicted for:	послѹшевати	Viti
+predicted 3 and real2 stems length is no equal:	крьститисѧ	V12t
+nothing was predicted for:	крьститисѧ	V11e
+nothing was predicted for:	отътрѧсти	V21t
+nothing was predicted for:	отътрѧсти	V22t
+nothing was predicted for:	творимиричь	N1c
+nothing was predicted for:	выгоньць	N1k
+nothing was predicted for:	выгоньць	N1k_STAR
+nothing was predicted for:	вережати	V12t
+predicted 2 and real3 stems length is no equal:	земьскыи	A1k_STAR
+nothing was predicted for:	ѹлѹчитисѧ	V11e
+nothing was predicted for:	подѣти	Viti
+predicted 3 and real2 stems length is no equal:	мьска	N3k
+nothing was predicted for:	пострѧти	Viti
+nothing was predicted for:	троскотати	Viti
+nothing was predicted for:	обнижатисѧ	V12t
+nothing was predicted for:	притѹжати	V12t
+nothing was predicted for:	притѹжати	Viti
+nothing was predicted for:	жаловатисѧ	V12t
+nothing was predicted for:	жаловатисѧ	V11e
+nothing was predicted for:	отъвращати	V12t
+predicted 3 and real2 stems length is no equal:	сѹстѹга	N3k
+predicted 3 and real2 stems length is no equal:	скоморохъ	N3k
+nothing was predicted for:	раздрѣшитисѧ	V12t
+predicted 2 and real3 stems length is no equal:	дѣтьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	дѹга	N3k
+predicted 3 and real2 stems length is no equal:	истьбъка	N3k
+nothing was predicted for:	накласти	V11e
+predicted 2 and real3 stems length is no equal:	вефльптифиискыи	A1k_STAR
+nothing was predicted for:	възъватисѧ	V11e
+predicted 3 and real2 stems length is no equal:	сфирка	N3k
+predicted 3 and real2 stems length is no equal:	молитвеникъ	N3k
+nothing was predicted for:	молитвеникъ	N1c
+nothing was predicted for:	съвьршати	V12t
+nothing was predicted for:	чѹти	Viti
+nothing was predicted for:	чѹти	V12t
+predicted 3 and real2 stems length is no equal:	орѹжьникъ	N3k
+nothing was predicted for:	свободитисѧ	V11e
+nothing was predicted for:	погрѹжатисѧ	V11e
+nothing was predicted for:	древосадьць	N1k
+predicted 5 and real4 stems length is no equal:	вымолити	Viti
+nothing was predicted for:	мѹжьствовати	V12t
+predicted 3 and real2 stems length is no equal:	ѹпрѹгъ	N3k
+nothing was predicted for:	блѹдъкиничь	N1c
+predicted 3 and real2 stems length is no equal:	кънига	N3k
+predicted 5 and real4 stems length is no equal:	подъжещи	V14g_STAR
+predicted 2 and real3 stems length is no equal:	асподиньскыи	A1k_STAR
+nothing was predicted for:	расокъ	N1c
+nothing was predicted for:	съразитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	лѣчити	Viti
+predicted 3 and real2 stems length is no equal:	тысѧщьникъ	N3k
+predicted 3 and real2 stems length is no equal:	присѧга	N3k
+nothing was predicted for:	толочи	Viti
+nothing was predicted for:	бльщатисѧ	V11e
+nothing was predicted for:	лѣти	Viti
+nothing was predicted for:	ѹсъхнѹти	V11e
+nothing was predicted for:	инепѣрьць	N3k
+nothing was predicted for:	инепѣрьць	N1k
+nothing was predicted for:	тировати	Viti
+nothing was predicted for:	отъмолитисѧ	V11e
+nothing was predicted for:	нѹжьникъ	N1c
+nothing was predicted for:	приобьщитисѧ	V12t
+nothing was predicted for:	накапити	V12t
+nothing was predicted for:	разити	V11e
+nothing was predicted for:	грѧзнѹти	Viti
+nothing was predicted for:	съѣхатисѧ	V11e
+nothing was predicted for:	предъставитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	борьскыи	A1k_STAR
+nothing was predicted for:	потъщатисѧ	V12t
+nothing was predicted for:	грѣти	Viti
+predicted 2 and real3 stems length is no equal:	александрьскыи	A1k_STAR
+nothing was predicted for:	благовѣщати	V12t
+nothing was predicted for:	благовѣщати	V21t
+nothing was predicted for:	благовѣщати	V22t
+nothing was predicted for:	стълбовичь	N1c
+nothing was predicted for:	ѹслышати	V12t
+nothing was predicted for:	съжигати	V12t
+nothing was predicted for:	зачьрсти	V11e
+nothing was predicted for:	шити	V14p
+nothing was predicted for:	шити	V11e
+predicted 2 and real3 stems length is no equal:	съродьничьскыи	A1k_STAR
+nothing was predicted for:	лежати	V12t
+nothing was predicted for:	городьшиничь	N1c
+nothing was predicted for:	погнѣватисѧ	V11e
+nothing was predicted for:	сънашиватисѧ	Viti
+nothing was predicted for:	дѣвати	Viti
+nothing was predicted for:	грѣшати	Viti
+nothing was predicted for:	посѣчи	V13k
+nothing was predicted for:	отъбѣгати	V12t
+nothing was predicted for:	черемиси	N1g
+nothing was predicted for:	преждеразѹмѣти	V12t
+predicted 3 and real2 stems length is no equal:	телѣга	N3k
+nothing was predicted for:	сѣщи	V13k
+predicted 2 and real3 stems length is no equal:	бытиискыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	мьстити	V21t
+predicted 3 and real2 stems length is no equal:	частити	V21t
+predicted 2 and real3 stems length is no equal:	латиньскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	дѣвъка	N3k
+nothing was predicted for:	съхранитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	тетъка	N3k
+predicted 5 and real4 stems length is no equal:	раздвигнѹти	V14g_STAR
+nothing was predicted for:	раздвигнѹти	V11e
+nothing was predicted for:	къзѣмль	N43_STAR
+nothing was predicted for:	бродьникъ	N1c
+nothing was predicted for:	отълѹчитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	срачька	N3k
+nothing was predicted for:	лишитисѧ	V12t
+nothing was predicted for:	пожити	V12t
+nothing was predicted for:	пожити	V14p
+nothing was predicted for:	ротитисѧ	V11e
+nothing was predicted for:	потѧгати	V12g
+nothing was predicted for:	потѧгати	Viti
+nothing was predicted for:	ижечи	V13k
+predicted 5 and real4 stems length is no equal:	ижечи	V14g_STAR
+predicted 3 and real2 stems length is no equal:	росьникъ	N3k
+nothing was predicted for:	обрещи	V13k
+predicted 3 and real2 stems length is no equal:	свитъка	N3k
+predicted 3 and real2 stems length is no equal:	божьнъка	N3k
+predicted 3 and real2 stems length is no equal:	лъжька	N3k
+nothing was predicted for:	пресыщатисѧ	V12t
+nothing was predicted for:	насыповати	Viti
+nothing was predicted for:	вышьковичь	N1c
+predicted 3 and real2 stems length is no equal:	шишька	N3k
+nothing was predicted for:	съплестисѧ	V11e
+nothing was predicted for:	набьрати	V12x_STAR
+predicted 2 and real3 stems length is no equal:	мѹжьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	съпостигнѹти	V14g_STAR
+nothing was predicted for:	съпостигнѹти	V11e
+predicted 3 and real2 stems length is no equal:	осминъка	N3k
+nothing was predicted for:	ѹкарѧти	Viti
+nothing was predicted for:	ѹкарѧти	V12x_STAR
+predicted 3 and real2 stems length is no equal:	фарьвьникъ	N3k
+nothing was predicted for:	рѹшитисѧ	V11e
+nothing was predicted for:	гориславичь	N1c
+nothing was predicted for:	перестѹпати	Viti
+nothing was predicted for:	съкладывати	Viti
+nothing was predicted for:	бенешь	N43_STAR
+predicted 2 and real3 stems length is no equal:	теремьскыи	A1k_STAR
+nothing was predicted for:	искѹпитисѧ	V11e
+nothing was predicted for:	ключитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	ѹбранити	Viti
+nothing was predicted for:	възбѣчи	V13k
+nothing was predicted for:	припълзнѹти	V11e
+nothing was predicted for:	събышькиничь	N1c
+nothing was predicted for:	пьрѣтисѧ	V12t
+nothing was predicted for:	плескати	Viti
+nothing was predicted for:	възлѣгати	V12g
+nothing was predicted for:	възлѣгати	Viti
+nothing was predicted for:	поставитисѧ	V11e
+nothing was predicted for:	възискатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	манастырьскыи	A1k_STAR
+nothing was predicted for:	отьцьзаконьникъ	N1c
+nothing was predicted for:	възвѣщати	V12t
+nothing was predicted for:	порѹчитисѧ	V12t
+nothing was predicted for:	порѹчитисѧ	V11e
+nothing was predicted for:	валитисѧ	V12t
+nothing was predicted for:	вѣщати	V12t
+nothing was predicted for:	поискати	V12t
+nothing was predicted for:	ѹжещи	V12t
+predicted 5 and real4 stems length is no equal:	ѹити	Viti
+predicted 2 and real3 stems length is no equal:	юриєвьскыи	A1k_STAR
+nothing was predicted for:	поринѹти	Viti
+predicted 2 and real3 stems length is no equal:	сороциньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	гасити	Viti
+predicted 3 and real2 stems length is no equal:	очистити	V21t
+predicted 2 and real3 stems length is no equal:	мидьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	кърчага	N3k
+predicted 2 and real3 stems length is no equal:	подъиюдѣискыи	A1k_STAR
+nothing was predicted for:	причистисѧ	V11e
+nothing was predicted for:	ѹничиживатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	ѹчьстити	V21t
+nothing was predicted for:	ражагати	V12t
+nothing was predicted for:	въставлѧти	Viti
+predicted 2 and real3 stems length is no equal:	зычьскыи	A1k_STAR
+nothing was predicted for:	ѹмилосьрдитисѧ	V11e
+nothing was predicted for:	завѣщати	V12t
+nothing was predicted for:	зажещи	V12t
+predicted 3 and real2 stems length is no equal:	съратьникъ	N3k
+nothing was predicted for:	възмѹжати	V12t
+nothing was predicted for:	посѣщи	V13k
+predicted 3 and real2 stems length is no equal:	слѹга	N3k
+predicted 2 and real3 stems length is no equal:	чьрниговьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	съвьрстьникъ	N3k
+nothing was predicted for:	издрещи	V13k
+nothing was predicted for:	покрасти	V12x_STAR
+predicted 1 and real2 stems length is no equal:	покрасти	V15or
+nothing was predicted for:	състатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	санъкы	N3k
+nothing was predicted for:	стеречи	V12t
+nothing was predicted for:	заиматисѧ	V11e
+nothing was predicted for:	обискати	V12t
+nothing was predicted for:	възаконитисѧ	V11e
+nothing was predicted for:	съжечи	V13k
+predicted 5 and real4 stems length is no equal:	съжечи	V14g_STAR
+predicted 5 and real4 stems length is no equal:	дѣлити	Viti
+predicted 2 and real3 stems length is no equal:	берладьскыи	A1k_STAR
+nothing was predicted for:	исповѣдатисѧ	V11e
+nothing was predicted for:	свѧщеньномѹченикъ	N1c
+nothing was predicted for:	свѧщеньномѹченикъ	N1c_STAR
+predicted 2 and real3 stems length is no equal:	понтьскыи	A1k_STAR
+nothing was predicted for:	напати	Viti
+predicted 5 and real4 stems length is no equal:	изволочити	Viti
+nothing was predicted for:	потъкнѹтисѧ	V11e
+nothing was predicted for:	пьстрота	N3t_STAR
+nothing was predicted for:	испытьникъ	N1c
+nothing was predicted for:	въставати	Viti
+nothing was predicted for:	пѹтедѣльць	N1k
+nothing was predicted for:	пѹтедѣльць	N1k_STAR
+predicted 2 and real3 stems length is no equal:	раискыи	A1k_STAR
+nothing was predicted for:	пристраватисѧ	V11e
+nothing was predicted for:	лишати	V12t
+nothing was predicted for:	промышлѧти	V12t
+nothing was predicted for:	перепетово	N2k
+nothing was predicted for:	срамлѧтисѧ	V12t
+nothing was predicted for:	подъпълзатисѧ	V11e
+nothing was predicted for:	покрытисѧ	V11e
+nothing was predicted for:	вережатисѧ	V12t
+nothing was predicted for:	андрѣевичь	N1c
+nothing was predicted for:	бѣгати	V12g
+nothing was predicted for:	ѹгонѹти	V12t
+nothing was predicted for:	подъбѣгати	V13k
+nothing was predicted for:	насылати	Viti
+predicted 3 and real2 stems length is no equal:	кинька	N3k
+nothing was predicted for:	гричь	N1c
+nothing was predicted for:	гричь	N1c_STAR
+nothing was predicted for:	приближатисѧ	V12t
+nothing was predicted for:	ѹмъчати	Viti
+nothing was predicted for:	гълѣбльць	N1k
+nothing was predicted for:	гиничь	N1c
+nothing was predicted for:	ѹмъножитисѧ	V12t
+nothing was predicted for:	ѹмъножитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	горъка	N3k
+predicted 2 and real3 stems length is no equal:	отьчьскыи	A1k_STAR
+predicted 1 and real2 stems length is no equal:	сътѧти	V14t
+nothing was predicted for:	сьчь	N1c
+nothing was predicted for:	сьчь	N1c_STAR
+predicted 2 and real3 stems length is no equal:	боголюбьскыи	A1k_STAR
+nothing was predicted for:	мирошькиничь	N1c
+nothing was predicted for:	розгрети	V14p
+nothing was predicted for:	роскопывати	Viti
+predicted 3 and real2 stems length is no equal:	въспѹстити	V21t
+predicted 3 and real2 stems length is no equal:	женъка	N3k
+predicted 2 and real3 stems length is no equal:	скѹфопольскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	сьребрьникъ	N3k
+nothing was predicted for:	ладитисѧ	V11e
+nothing was predicted for:	попѹщати	V12t
+predicted 3 and real2 stems length is no equal:	клюка	N3k
+nothing was predicted for:	оклеветати	Viti
+nothing was predicted for:	оклеветати	V12k
+predicted 2 and real3 stems length is no equal:	кармильскыи	A1k_STAR
+nothing was predicted for:	ѹгъльници	N1k
+nothing was predicted for:	брещи	V13k
+nothing was predicted for:	невѣгласыи	A1g
+nothing was predicted for:	ставлѧти	Viti
+nothing was predicted for:	отъсылати	Viti
+predicted 5 and real4 stems length is no equal:	крѣпити	Viti
+nothing was predicted for:	предълежати	V12t
+nothing was predicted for:	съкрачати	V12t
+nothing was predicted for:	пристраивати	Viti
+predicted 5 and real4 stems length is no equal:	трѹбити	Viti
+nothing was predicted for:	постригати	V12g
+nothing was predicted for:	постригати	Viti
+nothing was predicted for:	пътичь	N1c
+nothing was predicted for:	коромольникъ	N3t_STAR
+nothing was predicted for:	ѹснитисѧ	V11e
+nothing was predicted for:	властитель	N43_STAR
+nothing was predicted for:	недовълѣти	Viti
+nothing was predicted for:	калижьникъ	N1c
+predicted 2 and real3 stems length is no equal:	филаделѳиискыи	A1k_STAR
+nothing was predicted for:	въсповѣститисѧ	V11e
+nothing was predicted for:	подътещи	V13k
+nothing was predicted for:	помазатисѧ	V11e
+nothing was predicted for:	тѣлохранитель	N43_STAR
+nothing was predicted for:	надѣтисѧ	V12t
+predicted 6 and real4 stems length is no equal:	приврещи	V14eg
+predicted 5 and real4 stems length is no equal:	приврещи	V14g_STAR
+nothing was predicted for:	приврещи	V13k
+nothing was predicted for:	приврещи	Viti
+nothing was predicted for:	разлѹчати	V11e
+nothing was predicted for:	въврещи	V13k
+predicted 2 and real3 stems length is no equal:	семихоньскыи	A1k_STAR
+nothing was predicted for:	полъдьнь	N43_STAR
+nothing was predicted for:	оплитатисѧ	V11e
+nothing was predicted for:	ѹблажити	V12t
+nothing was predicted for:	добрещи	V12t
+nothing was predicted for:	съмышлѧтисѧ	V12t
+nothing was predicted for:	мѹжеватисѧ	V11e
+nothing was predicted for:	погрѣбатисѧ	Viti
+nothing was predicted for:	розглѧдати	Viti
+nothing was predicted for:	мѹжатисѧ	V12t
+nothing was predicted for:	гнѣвъдьржьць	N1k
+nothing was predicted for:	гнѣвъдьржьць	N1k_STAR
+nothing was predicted for:	кѹнъковичь	N1c
+nothing was predicted for:	насладитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	єладьскыи	A1k_STAR
+nothing was predicted for:	росходитисѧ	V11e
+nothing was predicted for:	избости	Viti
+predicted 2 and real3 stems length is no equal:	опавьскыи	A1k_STAR
+nothing was predicted for:	отъкрытисѧ	V11e
+nothing was predicted for:	съкрѹшитисѧ	V12t
+nothing was predicted for:	съкрѹшитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	тѹровьскыи	A1k_STAR
+nothing was predicted for:	паникадило	N2t_STAR
+predicted 2 and real3 stems length is no equal:	дворьчьскыи	A1k_STAR
+nothing was predicted for:	ѹправитель	N43_STAR
+predicted 5 and real4 stems length is no equal:	осладити	Viti
+nothing was predicted for:	ожити	V11e
+nothing was predicted for:	ожити	V14p
+nothing was predicted for:	ожити	V12t
+predicted 2 and real3 stems length is no equal:	аравьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	леонтианьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	лѹбѣискыи	A1k_STAR
+nothing was predicted for:	погашати	V12t
+nothing was predicted for:	досѧгати	V12g
+nothing was predicted for:	отънемощи	V13k
+predicted 3 and real2 stems length is no equal:	противѹстати	V12t
+predicted 1 and real2 stems length is no equal:	противѹстати	V14t
+predicted 3 and real2 stems length is no equal:	молога	N3k
+predicted 3 and real2 stems length is no equal:	котъка	N3k
+nothing was predicted for:	ринѹти	Viti
+nothing was predicted for:	прерѣковати	Viti
+predicted 2 and real3 stems length is no equal:	перемышльскыи	A1k_STAR
+nothing was predicted for:	опечаловатисѧ	V12t
+nothing was predicted for:	бещьствовати	V12t
+nothing was predicted for:	бещьствовати	Viti
+nothing was predicted for:	засѣчи	V13k
+nothing was predicted for:	воиньствовати	Viti
+nothing was predicted for:	трѹбешь	N43_STAR
+nothing was predicted for:	загрести	Viti
+predicted 3 and real2 stems length is no equal:	пострѣгы	N3k
+predicted 3 and real2 stems length is no equal:	превладыка	N3k
+nothing was predicted for:	приѹчити	V12t
+nothing was predicted for:	болоховьць	N1k
+nothing was predicted for:	болоховьць	N1k_STAR
+nothing was predicted for:	перелетѣти	Viti
+nothing was predicted for:	разитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	печеръка	N3k
+predicted 2 and real3 stems length is no equal:	погориньскыи	A1k_STAR
+nothing was predicted for:	клюкати	Viti
+nothing was predicted for:	раскаиватисѧ	V11e
+predicted 2 and real3 stems length is no equal:	сѹдимирьскыи	A1k_STAR
+nothing was predicted for:	неразѹмѣти	Viti
+nothing was predicted for:	отъдыхати	Viti
+predicted 2 and real3 stems length is no equal:	тьфѣрьскыи	A1k_STAR
+nothing was predicted for:	илии	N1c
+predicted 3 and real2 stems length is no equal:	лѹкы	N3k
+predicted 3 and real2 stems length is no equal:	повѣстити	V21t
+predicted 3 and real2 stems length is no equal:	росоха	N3k
+predicted 5 and real4 stems length is no equal:	вывабити	Viti
+predicted 2 and real3 stems length is no equal:	никомидиискыи	A1k_STAR
+nothing was predicted for:	съвъкѹпитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	єрѹсалимьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	философьскыи	A1k_STAR
+nothing was predicted for:	съгрѣшати	V12t
+nothing was predicted for:	възѧти	V14p
+nothing was predicted for:	подивитисѧ	V11e
+nothing was predicted for:	вьртѣти	Viti
+nothing was predicted for:	подвигнѹтисѧ	V11e
+nothing was predicted for:	кѹпатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	єгѹпьтьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	пътъка	N3k
+nothing was predicted for:	сърѣсти	V12t
+predicted 5 and real4 stems length is no equal:	пребити	Viti
+nothing was predicted for:	лазѹтиничь	N1c
+predicted 3 and real2 stems length is no equal:	достати	V12t
+nothing was predicted for:	пререщи	Viti
+nothing was predicted for:	въскыпати	Viti
+nothing was predicted for:	ѹстыдѣти	Viti
+predicted 5 and real4 stems length is no equal:	отъмьстити	Viti
+predicted 3 and real2 stems length is no equal:	отъмьстити	V21t
+nothing was predicted for:	поврещи	V13k
+predicted 5 and real4 stems length is no equal:	поврещи	V14g_STAR
+nothing was predicted for:	поврещи	V21t
+predicted 1 and real2 stems length is no equal:	тисѧ	V11e
+nothing was predicted for:	одерети	Viti
+predicted 5 and real4 stems length is no equal:	ѹжити	Viti
+nothing was predicted for:	перекърмити	V14p
+predicted 2 and real3 stems length is no equal:	дѹбровицьскыи	A1k_STAR
+nothing was predicted for:	въвлещи	V13k
+nothing was predicted for:	богоѹгодиє	N2t_STAR
+nothing was predicted for:	финикъ	N1c
+predicted 3 and real2 stems length is no equal:	финикъ	N3k
+predicted 3 and real2 stems length is no equal:	съльстити	V21t
+predicted 5 and real4 stems length is no equal:	обьвитисѧ	Viti
+predicted 2 and real3 stems length is no equal:	сътьскыи	A1k_STAR
+nothing was predicted for:	изрѧживати	Viti
+nothing was predicted for:	върещи	V13k
+predicted 5 and real4 stems length is no equal:	вабити	Viti
+nothing was predicted for:	шибити	V11e
+nothing was predicted for:	въспѧтитисѧ	V11e
+nothing was predicted for:	трѹдитисѧ	V11e
+nothing was predicted for:	подобитисѧ	V12t
+nothing was predicted for:	въшитисѧ	V11e
+nothing was predicted for:	стрѧти	V14p
+predicted 3 and real2 stems length is no equal:	налога	N3k
+predicted 2 and real3 stems length is no equal:	итавѹрьскыи	A1k_STAR
+nothing was predicted for:	комъкати	Viti
+nothing was predicted for:	ѹмѧкнѹти	V11e
+nothing was predicted for:	понѹжати	V12t
+nothing was predicted for:	изволодѣти	Viti
+predicted 5 and real4 stems length is no equal:	ѹбѣщи	V14g_STAR
+nothing was predicted for:	ѹбѣщи	V13k
+predicted 5 and real4 stems length is no equal:	любомѹдрити	Viti
+predicted 3 and real2 stems length is no equal:	латъка	N3k
+nothing was predicted for:	плищь	N3t_STAR
+nothing was predicted for:	претищати	Viti
+nothing was predicted for:	росваритисѧ	V11e
+nothing was predicted for:	процвистисѧ	V11e
+predicted 3 and real2 stems length is no equal:	вѣникъ	N3k
+nothing was predicted for:	пострѣщи	V12t
+nothing was predicted for:	пострѣщи	V13k
+nothing was predicted for:	пострѣщи	V21t
+predicted 5 and real4 stems length is no equal:	выкѹпити	Viti
+nothing was predicted for:	петриловичь	N1c
+nothing was predicted for:	ширѧти	V12t
+nothing was predicted for:	кънѧжитисѧ	V12t
+nothing was predicted for:	преложитисѧ	V12t
+nothing was predicted for:	преложитисѧ	V11e
+nothing was predicted for:	твиреметь	N43_STAR
+nothing was predicted for:	глаголатисѧ	Viti
+nothing was predicted for:	обрадичь	N1c
+predicted 3 and real2 stems length is no equal:	недостати	V12t
+predicted 2 and real3 stems length is no equal:	єтривьскыи	A1k_STAR
+nothing was predicted for:	въселена	N3t_STAR
+nothing was predicted for:	налечи	V13k
+nothing was predicted for:	призъвати	V14p
+nothing was predicted for:	вѹсъ	N3k
+nothing was predicted for:	вѹсъ	N1g
+nothing was predicted for:	обигражати	V12t
+nothing was predicted for:	спастисѧ	V11e
+nothing was predicted for:	мѧстисѧ	V11e
+predicted 2 and real3 stems length is no equal:	некротъкыи	A1k_STAR
+nothing was predicted for:	испълнѧти	V12t
+nothing was predicted for:	нечѹти	Viti
+predicted 5 and real4 stems length is no equal:	вънити	Viti
+predicted 2 and real3 stems length is no equal:	вытечевьскыи	A1k_STAR
+nothing was predicted for:	избавлѧти	Viti
+nothing was predicted for:	растачати	Viti
+nothing was predicted for:	поѹщивати	V12t
+predicted 2 and real3 stems length is no equal:	неревьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	приити	Viti
+nothing was predicted for:	пълзати	Viti
+nothing was predicted for:	распространитисѧ	V11e
+nothing was predicted for:	потыкатисѧ	V11e
+nothing was predicted for:	беречи	V12t
+nothing was predicted for:	двигнѹтисѧ	V11e
+predicted 3 and real2 stems length is no equal:	изломъкъ	N3k
+nothing was predicted for:	изломъкъ	N3k_STAR
+predicted 2 and real3 stems length is no equal:	мѹсикиискыи	A1k_STAR
+nothing was predicted for:	гердень	N43_STAR
+predicted 2 and real3 stems length is no equal:	воєводьскыи	A1k_STAR
+nothing was predicted for:	перевести	V11e
+nothing was predicted for:	поститисѧ	V11e
+nothing was predicted for:	знаменати	Viti
+predicted 3 and real2 stems length is no equal:	паска	N3k
+nothing was predicted for:	волохове	N3k
+nothing was predicted for:	волохове	N1g
+nothing was predicted for:	огънѹтисѧ	V11e
+predicted 2 and real3 stems length is no equal:	дънѣпрьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	напѹстити	Viti
+predicted 3 and real2 stems length is no equal:	напѹстити	V21t
+nothing was predicted for:	ритисѧ	V11e
+nothing was predicted for:	сѣньникъ	N1c
+predicted 2 and real3 stems length is no equal:	каневьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	выносити	Viti
+nothing was predicted for:	съзирати	Viti
+nothing was predicted for:	съзирати	V12x_STAR
+nothing was predicted for:	събиратисѧ	V11e
+nothing was predicted for:	намьрзтисѧ	V11e
+predicted 2 and real3 stems length is no equal:	ладожьскыи	A1k_STAR
+nothing was predicted for:	приключитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	заѹлоньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	крыти	Viti
+predicted 3 and real2 stems length is no equal:	истокъ	N3k
+nothing was predicted for:	истокъ	N3k_STAR
+nothing was predicted for:	опечалитисѧ	V11e
+nothing was predicted for:	ѹтрьневати	Viti
+nothing was predicted for:	доброшькиничь	N1c
+nothing was predicted for:	поѹчатисѧ	Viti
+nothing was predicted for:	поѹчатисѧ	V11e
+nothing was predicted for:	рѣꙗти	Viti
+predicted 3 and real2 stems length is no equal:	глагольникъ	N3k
+predicted 2 and real3 stems length is no equal:	мѹченичьскыи	A1k_STAR
+nothing was predicted for:	крьщатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	мьститисѧ	V12t
+predicted 3 and real2 stems length is no equal:	мьститисѧ	V21t
+nothing was predicted for:	мьститисѧ	V11e
+nothing was predicted for:	наклеветати	V14ed
+predicted 1 and real2 stems length is no equal:	наклеветати	V14t
+nothing was predicted for:	наклеветати	V11e
+predicted 3 and real2 stems length is no equal:	клѣтъка	N3k
+nothing was predicted for:	веречи	V12t
+nothing was predicted for:	веречи	V12g
+predicted 5 and real4 stems length is no equal:	веречи	V14g_STAR
+nothing was predicted for:	оцѣщати	V12t
+nothing was predicted for:	възигратисѧ	V11e
+predicted 5 and real4 stems length is no equal:	ити	Viti
+predicted 5 and real4 stems length is no equal:	ищистити	Viti
+predicted 3 and real2 stems length is no equal:	ищистити	V21t
+nothing was predicted for:	отърѣшати	V12t
+predicted 5 and real4 stems length is no equal:	хоронити	Viti
+nothing was predicted for:	разрѣшити	V12t
+nothing was predicted for:	мосѣовичь	N1c
+nothing was predicted for:	исправлевати	Viti
+nothing was predicted for:	радоватисѧ	V12t
+nothing was predicted for:	придавати	Viti
+nothing was predicted for:	подъсѣщи	V13k
+nothing was predicted for:	обьсѣсти	V11e
+predicted 2 and real3 stems length is no equal:	хвалисьскыи	A1k_STAR
+nothing was predicted for:	нарицатисѧ	V11e
+nothing was predicted for:	часъ	N1g
+nothing was predicted for:	образописьць	N1k
+nothing was predicted for:	образописьць	N1k_STAR
+nothing was predicted for:	тѧжати	Viti
+nothing was predicted for:	пълнити	V12t
+nothing was predicted for:	привезти	V11e
+nothing was predicted for:	шетициничь	N1c
+nothing was predicted for:	шетициничь	N1k
+predicted 3 and real2 stems length is no equal:	мерьска	N3k
+predicted 2 and real3 stems length is no equal:	пельскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	пазѹха	N3k
+nothing was predicted for:	сълѣсти	V11e
+nothing was predicted for:	очищатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	сътѹжитиси	Viti
+nothing was predicted for:	посмихатель	N43_STAR
+nothing was predicted for:	расѹжати	V12t
+nothing was predicted for:	припѹщати	V12t
+predicted 2 and real3 stems length is no equal:	женьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	сѣверьскыи	A1k_STAR
+nothing was predicted for:	заложитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	пердика	N3k
+nothing was predicted for:	любодѣти	Viti
+nothing was predicted for:	оперитисѧ	V11e
+nothing was predicted for:	раздирати	Viti
+nothing was predicted for:	раздирати	V12x_STAR
+predicted 5 and real4 stems length is no equal:	избытисѧ	Viti
+nothing was predicted for:	избытисѧ	V11e
+predicted 3 and real2 stems length is no equal:	настати	V12t
+predicted 5 and real4 stems length is no equal:	прити	Viti
+nothing was predicted for:	въдворитисѧ	V12t
+nothing was predicted for:	възберечи	V13k
+predicted 2 and real3 stems length is no equal:	краковьскыи	A1k_STAR
+nothing was predicted for:	сѧчи	V13k
+nothing was predicted for:	раздрѹшити	V12t
+nothing was predicted for:	лѹкавьствовати	Viti
+nothing was predicted for:	продължитисѧ	V12t
+nothing was predicted for:	продължитисѧ	V11e
+nothing was predicted for:	приимовати	Viti
+nothing was predicted for:	просльзитисѧ	V11e
+nothing was predicted for:	отъшити	V11e
+nothing was predicted for:	изврещи	V13k
+predicted 5 and real4 stems length is no equal:	изврещи	V14g_STAR
+nothing was predicted for:	посѧкнѹти	V11e
+nothing was predicted for:	престати	V12t
+predicted 2 and real3 stems length is no equal:	българьскыи	A1k_STAR
+nothing was predicted for:	съвьршитисѧ	V12t
+nothing was predicted for:	съвьршитисѧ	V11e
+nothing was predicted for:	ѹмъножати	V12t
+predicted 2 and real3 stems length is no equal:	господьскъ	A1k_STAR
+nothing was predicted for:	отътѧзатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	истъбъка	N3k
+nothing was predicted for:	зажечи	V13k
+nothing was predicted for:	мъногоочитыи	A1k
+predicted 2 and real3 stems length is no equal:	лѹкоморьскыи	A1k_STAR
+nothing was predicted for:	домажиричь	N1c
+nothing was predicted for:	домажиричь	N1c_STAR
+nothing was predicted for:	развлажѣти	V12t
+nothing was predicted for:	съкрѹшити	V12t
+predicted 1 and real2 stems length is no equal:	съвѣтати	V14t
+nothing was predicted for:	коневьникъ	N1c
+predicted 5 and real4 stems length is no equal:	прекривити	Viti
+nothing was predicted for:	ѹкѹпити	V12t
+nothing was predicted for:	разгънѹти	V13k
+nothing was predicted for:	ѹлѣсти	Viti
+nothing was predicted for:	спѣвати	Viti
+nothing was predicted for:	ѹрѧдитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	рига	N3k
+nothing was predicted for:	бѣгнѹти	V11e
+predicted 5 and real4 stems length is no equal:	бѣгнѹти	V14g_STAR
+nothing was predicted for:	перевозитисѧ	V11e
+nothing was predicted for:	измѣнитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	мѹка	N3k
+nothing was predicted for:	кърсѹньць	N1k
+nothing was predicted for:	кърсѹньць	N1k_STAR
+nothing was predicted for:	извѣстоватисѧ	V11e
+predicted 5 and real4 stems length is no equal:	вредити	Viti
+predicted 2 and real3 stems length is no equal:	чюдьскыи	A1k_STAR
+nothing was predicted for:	0	V11e
+nothing was predicted for:	0	V22p
+predicted 3 and real2 stems length is no equal:	крьстити	V21t
+nothing was predicted for:	показатисѧ	V11e
+nothing was predicted for:	ѹжещисѧ	V12t
+predicted 5 and real4 stems length is no equal:	прикрыти	Viti
+nothing was predicted for:	възлежати	V12t
+predicted 5 and real4 stems length is no equal:	вынити	Viti
+nothing was predicted for:	налючь	N1c
+nothing was predicted for:	ѹтрѹдитисѧ	V11e
+nothing was predicted for:	приготовитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	доложити	Viti
+nothing was predicted for:	ѹничижатисѧ	V12t
+nothing was predicted for:	грети	V14p
+nothing was predicted for:	сочити	V12k
+predicted 5 and real4 stems length is no equal:	дарити	Viti
+nothing was predicted for:	ѹгрѧзнѹти	V11e
+nothing was predicted for:	въпастисѧ	V11e
+nothing was predicted for:	прижити	V14p
+nothing was predicted for:	прижити	V12t
+nothing was predicted for:	придатисѧ	Viti
+nothing was predicted for:	росылати	Viti
+predicted 2 and real3 stems length is no equal:	жьжерьскыи	A1k_STAR
+nothing was predicted for:	ѹтвьржатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	посѹдити	Viti
+nothing was predicted for:	опочивати	Viti
+nothing was predicted for:	гнѣватисѧ	V11e
+predicted 5 and real4 stems length is no equal:	възити	Viti
+predicted 3 and real2 stems length is no equal:	дорога	N3k
+nothing was predicted for:	въмѣшати	V12t
+nothing was predicted for:	рѹса	N3k
+nothing was predicted for:	низъложити	V12t
+nothing was predicted for:	выникнѹти	Viti
+nothing was predicted for:	полоньникъ	N1c
+nothing was predicted for:	бѧковичь	N1c
+predicted 2 and real3 stems length is no equal:	приморьскыи	A1k_STAR
+nothing was predicted for:	осѹжати	V12t
+predicted 5 and real4 stems length is no equal:	переити	Viti
+nothing was predicted for:	разрѹшати	V12t
+predicted 2 and real3 stems length is no equal:	дънѣпрѣискыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	мнишьскыи	A1k_STAR
+nothing was predicted for:	розъимати	Viti
+nothing was predicted for:	опѣшати	V12t
+nothing was predicted for:	въметатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	любитисѧ	Viti
+predicted 3 and real2 stems length is no equal:	роспѹстити	V21t
+nothing was predicted for:	добывати	Viti
+nothing was predicted for:	съвѹза	N3k
+predicted 5 and real4 stems length is no equal:	помочи	V14g_STAR
+nothing was predicted for:	съвѣчатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	мѹромьскыи	A1k_STAR
+nothing was predicted for:	водовиковичь	N1c
+nothing was predicted for:	обеселитисѧ	V12t
+nothing was predicted for:	въспинати	Viti
+nothing was predicted for:	испълчитисѧ	V11e
+nothing was predicted for:	испроврещи	V13k
+nothing was predicted for:	дышати	V12t
+nothing was predicted for:	дышати	V12k
+nothing was predicted for:	отълѹчатисѧ	V11e
+nothing was predicted for:	въздвигатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	имантомаха	N3k
+predicted 2 and real3 stems length is no equal:	рѧзаньскыи	A1k_STAR
+nothing was predicted for:	подъдьржати	V12t
+nothing was predicted for:	пристроитисѧ	V11e
+nothing was predicted for:	облѣщи	V12t
+nothing was predicted for:	облѣщи	V12k
+predicted 3 and real2 stems length is no equal:	рѹга	N3k
+predicted 2 and real3 stems length is no equal:	сѹриискыи	A1k_STAR
+nothing was predicted for:	отъмълвити	V12t
+predicted 2 and real3 stems length is no equal:	печерьскыи	A1k_STAR
+nothing was predicted for:	росказати	V12g
+predicted 5 and real4 stems length is no equal:	росказати	V14g_STAR
+predicted 5 and real4 stems length is no equal:	низъити	Viti
+nothing was predicted for:	досажати	V12t
+nothing was predicted for:	досажати	Viti
+nothing was predicted for:	трѹжатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	изнаити	Viti
+nothing was predicted for:	высѣщи	V13k
+predicted 3 and real2 stems length is no equal:	кънижька	N3k
+nothing was predicted for:	проньзти	V11e
+predicted 2 and real3 stems length is no equal:	нѣмьчьскыи	A1k_STAR
+nothing was predicted for:	спѣшити	V12t
+nothing was predicted for:	спѣшити	V12k
+nothing was predicted for:	рѹшати	Viti
+predicted 2 and real3 stems length is no equal:	витьбьскыи	A1k_STAR
+nothing was predicted for:	поврести	V21t
+nothing was predicted for:	осѣчи	V13k
+predicted 5 and real4 stems length is no equal:	острищи	Viti
+predicted 3 and real2 stems length is no equal:	кърчега	N3k
+nothing was predicted for:	мѹхатисѧ	V11e
+nothing was predicted for:	възбранѧти	V12t
+nothing was predicted for:	касози	N3k
+nothing was predicted for:	касози	N1g
+predicted 2 and real3 stems length is no equal:	дрьютьскыи	A1k_STAR
+nothing was predicted for:	благодарьствити	V14p
+nothing was predicted for:	раширѧтисѧ	V12t
+nothing was predicted for:	бѣчи	Viti
+nothing was predicted for:	лишити	V12t
+predicted 3 and real2 stems length is no equal:	ѹжьникъ	N3k
+predicted 3 and real2 stems length is no equal:	верника	N3k
+nothing was predicted for:	ѹгажати	V12t
+nothing was predicted for:	присылатисѧ	V11e
+nothing was predicted for:	хъмель	N43_STAR
+nothing was predicted for:	пастисѧ	V11e
+predicted 3 and real2 stems length is no equal:	веврѹкъ	N3k
+nothing was predicted for:	отъвращатисѧ	V12t
+nothing was predicted for:	пѹтистроиць	N1k
+nothing was predicted for:	познатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	проити	Viti
+nothing was predicted for:	твьрдиславичь	N1c
+nothing was predicted for:	въдатисѧ	V11e
+nothing was predicted for:	истълковати	Viti
+predicted 3 and real2 stems length is no equal:	искѹсьникъ	N3k
+nothing was predicted for:	сѹмьнѣтисѧ	V12t
+nothing was predicted for:	исаковичь	N1c
+nothing was predicted for:	розмышлѧти	Viti
+nothing was predicted for:	повѣдатисѧ	V11e
+nothing was predicted for:	потъщати	V12t
+nothing was predicted for:	потъщати	V21t
+nothing was predicted for:	потъщати	V22t
+nothing was predicted for:	простерети	Viti
+nothing was predicted for:	таитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	възрастити	V21t
+predicted 2 and real3 stems length is no equal:	македоньскыи	A1k_STAR
+nothing was predicted for:	сиси	N1g
+nothing was predicted for:	измѧсти	Viti
+nothing was predicted for:	измѧсти	V11e
+nothing was predicted for:	постричисѧ	V11e
+nothing was predicted for:	ѹправлѧти	Viti
+nothing was predicted for:	бъдѣти	Viti
+nothing was predicted for:	оскѹдѣвати	Viti
+nothing was predicted for:	ригати	V12g
+nothing was predicted for:	ригати	Viti
+predicted 2 and real3 stems length is no equal:	парфьскыи	A1k_STAR
+nothing was predicted for:	равьнати	Viti
+predicted 2 and real3 stems length is no equal:	житиискыи	A1k_STAR
+nothing was predicted for:	ѹтвьрдитисѧ	V11e
+nothing was predicted for:	дѹшегѹбьць	N1k
+nothing was predicted for:	дѹшегѹбьць	N1k_STAR
+nothing was predicted for:	испечи	Viti
+nothing was predicted for:	перестоти	Viti
+nothing was predicted for:	обѣшати	V12t
+nothing was predicted for:	обѣшати	V11e
+predicted 3 and real2 stems length is no equal:	подъножька	N3k
+nothing was predicted for:	трьпѧстъкъ	N1c
+nothing was predicted for:	въгонити	V12t
+nothing was predicted for:	въгонити	V21t
+nothing was predicted for:	въгонити	V22t
+predicted 5 and real4 stems length is no equal:	проломити	Viti
+nothing was predicted for:	ѹкротитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	добрынъка	N3k
+predicted 5 and real4 stems length is no equal:	отъкѹпитисѧ	Viti
+nothing was predicted for:	раширѧти	V12t
+nothing was predicted for:	приближитисѧ	V11e
+nothing was predicted for:	съвѣдѣтель	N43_STAR
+predicted 3 and real2 stems length is no equal:	пристати	V12t
+predicted 5 and real4 stems length is no equal:	обьѣздити	Viti
+nothing was predicted for:	тоземьць	N1k
+nothing was predicted for:	тоземьць	N1k_STAR
+nothing was predicted for:	искѹшати	V12t
+nothing was predicted for:	сальница	N3k
+nothing was predicted for:	игоричь	N3t_STAR
+predicted 3 and real2 stems length is no equal:	ладога	N3k
+nothing was predicted for:	проситисѧ	V11e
+predicted 1 and real2 stems length is no equal:	видати	V14d
+nothing was predicted for:	пльвати	Viti
+nothing was predicted for:	смитисѧ	Viti
+nothing was predicted for:	съкѹпати	Viti
+predicted 5 and real4 stems length is no equal:	ѹтопити	Viti
+nothing was predicted for:	ѹтаитисѧ	V11e
+nothing was predicted for:	освѧтитисѧ	V11e
+nothing was predicted for:	чарнѧтиньць	N1k
+nothing was predicted for:	чарнѧтиньць	N1k_STAR
+nothing was predicted for:	потрѧстисѧ	V11e
+nothing was predicted for:	въздѣти	V12g
+predicted 5 and real4 stems length is no equal:	въздѣти	V14g_STAR
+predicted 2 and real3 stems length is no equal:	доньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	въжещи	V14g_STAR
+nothing was predicted for:	благословитисѧ	V12t
+nothing was predicted for:	ѹчинитисѧ	V11e
+nothing was predicted for:	съжещи	V12t
+predicted 2 and real3 stems length is no equal:	словѣньскыи	A1k_STAR
+nothing was predicted for:	възвратитисѧ	V11e
+nothing was predicted for:	измѣнѧти	Viti
+predicted 5 and real4 stems length is no equal:	ѹбѣгнѹти	V14g_STAR
+nothing was predicted for:	ѹбѣгнѹти	V11e
+nothing was predicted for:	лѣгати	V12g
+nothing was predicted for:	лѣгати	Viti
+nothing was predicted for:	полости	Viti
+predicted 3 and real2 stems length is no equal:	рака	N3k
+nothing was predicted for:	звѣздочьтьць	N1k
+nothing was predicted for:	звѣздочьтьць	N1k_STAR
+nothing was predicted for:	полещи	V13k
+nothing was predicted for:	выплѹти	Viti
+nothing was predicted for:	съвлачити	V12t
+nothing was predicted for:	корлѧзи	N1g
+nothing was predicted for:	мѣдьница	N3k
+nothing was predicted for:	замышлѧти	Viti
+nothing was predicted for:	рѹшьковичь	N3t_STAR
+nothing was predicted for:	запрашати	V12x_STAR
+nothing was predicted for:	шьпътати	Viti
+nothing was predicted for:	потрѹдитисѧ	V11e
+nothing was predicted for:	въстѹпатисѧ	V11e
+nothing was predicted for:	погрѹжати	V12t
+predicted 2 and real3 stems length is no equal:	вавилоньскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	смольньскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	лѧдьскыи	A1k_STAR
+nothing was predicted for:	блажитисѧ	V12t
+nothing was predicted for:	обѹимати	Viti
+nothing was predicted for:	потъпътатисѧ	V11e
+nothing was predicted for:	съжагати	V12t
+nothing was predicted for:	ослѹшатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	отъпѹстити	V21t
+nothing was predicted for:	прибрести	V11e
+nothing was predicted for:	събьратисѧ	V11e
+nothing was predicted for:	побрести	V11e
+nothing was predicted for:	сърѣтати	Viti
+predicted 3 and real2 stems length is no equal:	вълга	N3k
+nothing was predicted for:	ражатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	понетьскыи	A1k_STAR
+nothing was predicted for:	клеврѣтъ	N3t_STAR
+nothing was predicted for:	звьнѣти	Viti
+predicted 3 and real2 stems length is no equal:	ѹпѹстити	V21t
+predicted 2 and real3 stems length is no equal:	фисиологиискыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	тѹска	N3k
+nothing was predicted for:	съпастисѧ	V12t
+nothing was predicted for:	съпастисѧ	V11e
+predicted 5 and real4 stems length is no equal:	возити	Viti
+nothing was predicted for:	ѹлыснѹтисѧ	V11e
+nothing was predicted for:	податисѧ	V11e
+nothing was predicted for:	кесарьствовати	Viti
+nothing was predicted for:	двигатисѧ	V12t
+nothing was predicted for:	прилежати	V12t
+predicted 5 and real4 stems length is no equal:	крѣсити	Viti
+nothing was predicted for:	расѣсти	V11e
+nothing was predicted for:	дѹшильцевичь	N1c
+predicted 5 and real4 stems length is no equal:	избранити	Viti
+nothing was predicted for:	стѹдень	N43_STAR
+nothing was predicted for:	перебродитисѧ	V11e
+nothing was predicted for:	състичи	V13k
+predicted 2 and real3 stems length is no equal:	александриискыи	A1k_STAR
+nothing was predicted for:	дъмитровичь	N1c
+nothing was predicted for:	ѹтьрти	V11e
+nothing was predicted for:	нарѧжати	Viti
+nothing was predicted for:	ѹгашатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	подольскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	посѧгнѹти	V14g_STAR
+nothing was predicted for:	посѧгнѹти	V11e
+nothing was predicted for:	постричи	V13k
+predicted 2 and real3 stems length is no equal:	мирославьскыи	A1k_STAR
+nothing was predicted for:	възборонитисѧ	V11e
+nothing was predicted for:	поѹхати	Viti
+predicted 3 and real2 stems length is no equal:	лѹка	N3k
+nothing was predicted for:	обличитель	N43_STAR
+nothing was predicted for:	притещи	V13k
+nothing was predicted for:	вельдьць	N1k
+nothing was predicted for:	вельдьць	N1k_STAR
+predicted 5 and real4 stems length is no equal:	обѣсити	Viti
+nothing was predicted for:	ѹстановитисѧ	V11e
+nothing was predicted for:	мъногорѣчистыи	A1k
+predicted 2 and real3 stems length is no equal:	ростовьскыи	A1k_STAR
+nothing was predicted for:	ширѧтисѧ	V12t
+predicted 5 and real4 stems length is no equal:	наѣздити	Viti
+predicted 5 and real4 stems length is no equal:	правитисѧ	Viti
+nothing was predicted for:	покланѧти	Viti
+nothing was predicted for:	животьноє	N2k
+nothing was predicted for:	свѣневичь	N1c
+predicted 3 and real2 stems length is no equal:	дѹка	N3k
+predicted 2 and real3 stems length is no equal:	нальщаньскыи	A1k_STAR
+nothing was predicted for:	исправливатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	брѧньскыи	A1k_STAR
+nothing was predicted for:	налѣгати	V12g
+nothing was predicted for:	налѣгати	Viti
+predicted 2 and real3 stems length is no equal:	съпасьскыи	A1k_STAR
+nothing was predicted for:	вънѹшити	V12t
+predicted 5 and real4 stems length is no equal:	избѣчи	V14g_STAR
+nothing was predicted for:	избѣчи	V13k
+nothing was predicted for:	прихажати	V12t
+nothing was predicted for:	дозьрѣти	Viti
+predicted 1 and real2 stems length is no equal:	додати	V14d
+nothing was predicted for:	повиснѹти	Viti
+predicted 3 and real2 stems length is no equal:	страгъга	N3k
+predicted 6 and real4 stems length is no equal:	врещи	V14eg
+nothing was predicted for:	врещи	V12t
+predicted 5 and real4 stems length is no equal:	врещи	V14g_STAR
+nothing was predicted for:	врещи	V13k
+nothing was predicted for:	врещи	Viti
+nothing was predicted for:	волосовичь	N1c
+predicted 3 and real2 stems length is no equal:	постригы	N3k
+nothing was predicted for:	ѹсърѣтатисѧ	V11e
+predicted 3 and real2 stems length is no equal:	ꙗгнѧтъко	N2k
+predicted 3 and real2 stems length is no equal:	хорѹжька	N3k
+nothing was predicted for:	щирица	N3k
+predicted 2 and real3 stems length is no equal:	бѣльчьскъ	A1k_STAR
+predicted 3 and real2 stems length is no equal:	иго	N2k
+predicted 2 and real3 stems length is no equal:	тѹрьскыи	A1k_STAR
+nothing was predicted for:	посѣщати	V12t
+nothing was predicted for:	посѣщати	V11e
+predicted 5 and real4 stems length is no equal:	блазнитисѧ	Viti
+predicted 5 and real4 stems length is no equal:	запрѧщи	V14g_STAR
+nothing was predicted for:	запрѧщи	V13k
+predicted 3 and real2 stems length is no equal:	виновьникъ	N3k
+nothing was predicted for:	съвалитисѧ	V11e
+nothing was predicted for:	потъснѹтисѧ	V11e
+predicted 3 and real2 stems length is no equal:	тьмьникъ	N3k
+nothing was predicted for:	ижещисѧ	V12t
+nothing was predicted for:	ижещисѧ	V12g
+predicted 5 and real4 stems length is no equal:	ижещисѧ	V14g_STAR
+nothing was predicted for:	пошити	V14p
+nothing was predicted for:	повлещи	V13k
+nothing was predicted for:	съподобитисѧ	V12t
+nothing was predicted for:	съподобитисѧ	V11e
+nothing was predicted for:	подъзьрѣти	Viti
+nothing was predicted for:	срѣсти	V11e
+nothing was predicted for:	выврещи	V13k
+predicted 3 and real2 stems length is no equal:	перестати	V12t
+nothing was predicted for:	раждигати	V12g
+nothing was predicted for:	раждигати	Viti
+nothing was predicted for:	рѧдитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	бѣлозерьскыи	A1k_STAR
+nothing was predicted for:	злиньць	N1k
+nothing was predicted for:	гюрѧтиничь	N1c
+nothing was predicted for:	поповичь	N1c
+nothing was predicted for:	прекрьститисѧ	V11e
+predicted 2 and real3 stems length is no equal:	киликиискыи	A1k_STAR
+nothing was predicted for:	полати	Viti
+nothing was predicted for:	подражати	V12t
+nothing was predicted for:	славии	N1j_STAR
+nothing was predicted for:	милостьникъ	N1c
+nothing was predicted for:	сърещи	V13k
+predicted 2 and real3 stems length is no equal:	свѣискыи	A1k_STAR
+nothing was predicted for:	къниголюбьць	N1k
+predicted 2 and real3 stems length is no equal:	ламьскыи	A1k_STAR
+nothing was predicted for:	потолочи	V12t
+nothing was predicted for:	потолочи	V12k
+nothing was predicted for:	очерести	Viti
+nothing was predicted for:	очерести	V11e
+nothing was predicted for:	подъниматисѧ	V11e
+nothing was predicted for:	варѧзи	N1g
+nothing was predicted for:	нарѹбати	Viti
+nothing was predicted for:	сълѹчитисѧ	V11e
+nothing was predicted for:	съсѣщи	V13k
+nothing was predicted for:	искати	V12t
+nothing was predicted for:	испълчиватисѧ	V11e
+predicted 3 and real2 stems length is no equal:	насъмьртьникъ	N3k
+predicted 2 and real3 stems length is no equal:	нечеловѣчьскыи	A1k_STAR
+nothing was predicted for:	обыкнѹтисѧ	V11e
+nothing was predicted for:	припрашивати	Viti
+nothing was predicted for:	приготовити	V14p
+nothing was predicted for:	сърѣстисѧ	V11e
+nothing was predicted for:	варѧти	V12t
+nothing was predicted for:	крикатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	доити	Viti
+nothing was predicted for:	зарѣзатисѧ	V11e
+nothing was predicted for:	побѣживати	Viti
+predicted 5 and real4 stems length is no equal:	възгнѣтити	Viti
+nothing was predicted for:	сыродьць	N1k
+nothing was predicted for:	сыродьць	N1k_STAR
+nothing was predicted for:	дѹсандръ	N1t_STAR
+predicted 3 and real2 stems length is no equal:	фарега	N3k
+nothing was predicted for:	съзьдатисѧ	Viti
+nothing was predicted for:	чѹдитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	вьсѧчьскыи	A1k_STAR
+nothing was predicted for:	съверечи	V13k
+predicted 5 and real4 stems length is no equal:	измолити	Viti
+predicted 2 and real3 stems length is no equal:	льгъкыи	A1k_STAR
+nothing was predicted for:	съмѹщати	V12t
+nothing was predicted for:	възискати	V12t
+nothing was predicted for:	законьникъ	N1c
+nothing was predicted for:	врежати	V12t
+nothing was predicted for:	истерти	Viti
+nothing was predicted for:	розъитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	бѣлъка	N3k
+nothing was predicted for:	жалати	V12t
+nothing was predicted for:	раздрасти	V11e
+predicted 5 and real4 stems length is no equal:	бѹдити	Viti
+nothing was predicted for:	загородьць	N1k
+nothing was predicted for:	бѹбьнъ	N3t_STAR
+predicted 3 and real2 stems length is no equal:	очиститисѧ	V12t
+nothing was predicted for:	мьрдати	Viti
+nothing was predicted for:	бѹꙗкъ	N1c
+nothing was predicted for:	раскръшитисѧ	V12t
+nothing was predicted for:	съсѹдоносьць	N1k
+nothing was predicted for:	съсѹдоносьць	N1k_STAR
+nothing was predicted for:	стрѣщи	V13k
+nothing was predicted for:	стрѣщи	Viti
+nothing was predicted for:	сътѹжити	V12t
+predicted 3 and real2 stems length is no equal:	лѣсьникъ	N3k
+nothing was predicted for:	мьщати	V12t
+nothing was predicted for:	мьщати	Viti
+predicted 5 and real4 stems length is no equal:	премѹдрити	Viti
+nothing was predicted for:	отещи	V13k
+nothing was predicted for:	породитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	подъхватити	Viti
+predicted 1 and real2 stems length is no equal:	погладити	V14d
+nothing was predicted for:	гонезнѹти	Viti
+nothing was predicted for:	коньчатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	отравити	Viti
+nothing was predicted for:	мытисѧ	V11e
+predicted 2 and real3 stems length is no equal:	поганьскыи	A1k_STAR
+nothing was predicted for:	прилещи	V13k
+nothing was predicted for:	ковьръ	N3t_STAR
+nothing was predicted for:	присълатисѧ	V11e
+nothing was predicted for:	обетъшати	V12t
+predicted 3 and real2 stems length is no equal:	початъкъ	N3k
+nothing was predicted for:	початъкъ	N1c
+nothing was predicted for:	початъкъ	N1c_STAR
+nothing was predicted for:	початъкъ	N3k_STAR
+predicted 3 and real2 stems length is no equal:	строка	N3k
+nothing was predicted for:	стрѣлолюбьць	N1k
+nothing was predicted for:	стрѣлѧти	Viti
+predicted 5 and real4 stems length is no equal:	звонити	Viti
+predicted 2 and real3 stems length is no equal:	торопьчьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	лечи	V14g_STAR
+nothing was predicted for:	лечи	V13k
+nothing was predicted for:	лечи	Viti
+predicted 2 and real3 stems length is no equal:	сѹдиискыи	A1k_STAR
+nothing was predicted for:	замышливати	Viti
+nothing was predicted for:	съмѧстисѧ	V11e
+predicted 5 and real4 stems length is no equal:	выти	Viti
+predicted 3 and real2 stems length is no equal:	обьстати	V12t
+nothing was predicted for:	възѹщати	V12t
+nothing was predicted for:	молитисѧ	V11e
+nothing was predicted for:	въкѹшати	V12t
+nothing was predicted for:	тети	V14p
+nothing was predicted for:	посълатисѧ	V11e
+nothing was predicted for:	жити	V12t
+nothing was predicted for:	възвеселитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	ѹладити	Viti
+nothing was predicted for:	разнести	V11e
+nothing was predicted for:	звьнигородьць	N1k
+predicted 2 and real3 stems length is no equal:	невѣжьскыи	A1k_STAR
+nothing was predicted for:	ѹчитисѧ	V12t
+nothing was predicted for:	ѹчитисѧ	V11e
+nothing was predicted for:	ѹтещи	V13k
+nothing was predicted for:	съвращатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	домыслитисѧ	Viti
+nothing was predicted for:	призирати	V12t
+predicted 2 and real3 stems length is no equal:	переславьскыи	A1k_STAR
+nothing was predicted for:	отъбитисѧ	V11e
+nothing was predicted for:	прилѣпитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	софиискыи	A1k_STAR
+nothing was predicted for:	свьтѣти	Viti
+nothing was predicted for:	съвьршитель	N43_STAR
+nothing was predicted for:	ошитисѧ	V12t
+nothing was predicted for:	исѣщи	V13k
+nothing was predicted for:	помыслитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	оброкъ	N3k
+nothing was predicted for:	въгрѣшити	V12t
+nothing was predicted for:	облечи	Viti
+nothing was predicted for:	орати	Viti
+nothing was predicted for:	орати	V12x_STAR
+nothing was predicted for:	ти	V14p
+nothing was predicted for:	кълча	N43_STAR
+nothing was predicted for:	гынѹти	V12t
+nothing was predicted for:	причитати	Viti
+nothing was predicted for:	мотъчьникъ	N1c
+nothing was predicted for:	боловесъ	N3k
+nothing was predicted for:	боловесъ	N1g
+predicted 3 and real2 stems length is no equal:	калъка	N3k
+nothing was predicted for:	съпиратисѧ	V11e
+nothing was predicted for:	олекса	N3k
+nothing was predicted for:	вълагати	V12t
+nothing was predicted for:	дрѹжитисѧ	V12t
+nothing was predicted for:	трѧстисѧ	V11e
+nothing was predicted for:	сътещи	V13k
+predicted 2 and real3 stems length is no equal:	варъварьскыи	A1k_STAR
+nothing was predicted for:	ѹкраситисѧ	V11e
+nothing was predicted for:	мельница	N3k
+nothing was predicted for:	ѹжасыватисѧ	V12t
+nothing was predicted for:	съмѹщатисѧ	V12t
+nothing was predicted for:	приплѹти	Viti
+nothing was predicted for:	съпати	V12t
+nothing was predicted for:	съпати	Viti
+nothing was predicted for:	поостривати	Viti
+predicted 3 and real2 stems length is no equal:	пасха	N3k
+predicted 3 and real2 stems length is no equal:	въмѣстити	V12t
+predicted 3 and real2 stems length is no equal:	въмѣстити	V21t
+nothing was predicted for:	сѹшитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	сидоньскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	сѹхо	N2k
+nothing was predicted for:	разрѹшатисѧ	V12t
+nothing was predicted for:	порѹгатисѧ	V11e
+predicted 5 and real4 stems length is no equal:	залещи	V14g_STAR
+nothing was predicted for:	залещи	V13k
+nothing was predicted for:	застѹпитель	N43_STAR
+nothing was predicted for:	движатисѧ	V12t
+nothing was predicted for:	въверечи	V13k
+nothing was predicted for:	благовѣствовати	Viti
+nothing was predicted for:	можити	V12t
+nothing was predicted for:	ѹкрашатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	преити	Viti
+predicted 2 and real3 stems length is no equal:	варѧжьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	сорочька	N3k
+nothing was predicted for:	искѹситисѧ	V11e
+predicted 2 and real3 stems length is no equal:	корѣльскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	обиити	Viti
+nothing was predicted for:	обиити	V11e
+nothing was predicted for:	досѧщи	Viti
+nothing was predicted for:	вълптъ	N1t_STAR
+nothing was predicted for:	лѣтати	Viti
+nothing was predicted for:	выпѹщати	V12t
+nothing was predicted for:	выпѹщати	V21t
+nothing was predicted for:	выпѹщати	V22t
+nothing was predicted for:	намънѣжичь	N1c
+nothing was predicted for:	възгрѣбати	Viti
+nothing was predicted for:	розлѹчитисѧ	V11e
+nothing was predicted for:	баснотворьць	N1k
+nothing was predicted for:	баснотворьць	N1k_STAR
+nothing was predicted for:	гюргевьць	N1k
+nothing was predicted for:	гюргевьць	N1k_STAR
+nothing was predicted for:	люблиньць	N1k
+nothing was predicted for:	готовитисѧ	V11e
+nothing was predicted for:	подърьмьникъ	N1c
+predicted 3 and real2 stems length is no equal:	причаститисѧ	V12t
+nothing was predicted for:	причаститисѧ	V11e
+nothing was predicted for:	досаждати	Viti
+nothing was predicted for:	досаждати	V11e
+predicted 2 and real3 stems length is no equal:	истаспиискыи	A1k_STAR
+nothing was predicted for:	бродитисѧ	V11e
+nothing was predicted for:	отъвратитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	кѹрьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	отъразити	Viti
+nothing was predicted for:	ѹмъножити	V12t
+nothing was predicted for:	послѣдовати	Viti
+nothing was predicted for:	ѹгрысти	V11e
+nothing was predicted for:	ѹмилитисѧ	V12t
+nothing was predicted for:	стрещи	V12t
+nothing was predicted for:	стрещи	Viti
+nothing was predicted for:	подъбѣгнѹти	V11e
+predicted 5 and real4 stems length is no equal:	подъбѣгнѹти	V14g_STAR
+nothing was predicted for:	сажень	N3t_STAR
+nothing was predicted for:	плакатисѧ	V11e
+nothing was predicted for:	ѹкрашати	V12t
+nothing was predicted for:	погребати	Viti
+predicted 3 and real2 stems length is no equal:	нога	N3k
+nothing was predicted for:	измирати	Viti
+nothing was predicted for:	измирати	V12x_STAR
+nothing was predicted for:	насыщатисѧ	V12t
+nothing was predicted for:	насыщатисѧ	V21t
+nothing was predicted for:	насыщатисѧ	V22t
+predicted 2 and real3 stems length is no equal:	сѹболичьскыи	A1k_STAR
+nothing was predicted for:	побадыватисѧ	V11e
+nothing was predicted for:	моличь	N1c
+predicted 3 and real2 stems length is no equal:	гольско	N2k
+predicted 16 and real1 stems length is no equal:	вечерьнѧ	A2j
+nothing was predicted for:	вечерьнѧ	A1j_STAR
+nothing was predicted for:	вечерьнѧ	A1j
+nothing was predicted for:	ѹмъдъчати	V12k
+nothing was predicted for:	водитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	испѹстити	V21t
+predicted 2 and real3 stems length is no equal:	алѹмпиискыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	кривьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	низити	Viti
+predicted 1 and real2 stems length is no equal:	съкѹтати	V14t
+predicted 3 and real2 stems length is no equal:	скокъ	N3k
+nothing was predicted for:	възбыстритисѧ	V11e
+nothing was predicted for:	превращати	V12t
+predicted 2 and real3 stems length is no equal:	апостольскыи	A1k_STAR
+nothing was predicted for:	полѹдрии	N43_STAR
+nothing was predicted for:	изобрѣтель	N43_STAR
+nothing was predicted for:	отърицатисѧ	V11e
+nothing was predicted for:	сѹдитисѧ	V11e
+nothing was predicted for:	лѹкиничь	N1c
+nothing was predicted for:	лѹкиничь	N1k
+nothing was predicted for:	мостьць	N3k
+nothing was predicted for:	мостьць	N1k_STAR
+nothing was predicted for:	мостьць	N1k
+nothing was predicted for:	мостьць	N3k_STAR
+nothing was predicted for:	цвьсти	V14ed
+nothing was predicted for:	цвьсти	Viti
+nothing was predicted for:	жечи	Viti
+nothing was predicted for:	обращатисѧ	V12t
+nothing was predicted for:	съравьнати	Viti
+nothing was predicted for:	ѹжаснѹтисѧ	V12t
+predicted 2 and real3 stems length is no equal:	трихиньскыи	A1k_STAR
+nothing was predicted for:	почрети	Viti
+nothing was predicted for:	почрети	V14p
+predicted 3 and real2 stems length is no equal:	шахъ	N3k
+nothing was predicted for:	състѹпати	V12t
+nothing was predicted for:	приницати	Viti
+nothing was predicted for:	приницати	V11e
+nothing was predicted for:	мьркнѹти	V11e
+nothing was predicted for:	съкрытисѧ	V11e
+nothing was predicted for:	надѣвати	Viti
+nothing was predicted for:	дѹстръ	N1t_STAR
+nothing was predicted for:	ѹпасти	V12t
+predicted 2 and real3 stems length is no equal:	плътьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	воиничьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	мачеха	N3k
+nothing was predicted for:	дивитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	перегонити	Viti
+predicted 3 and real2 stems length is no equal:	человѣкоѹгодьникъ	N3k
+predicted 5 and real4 stems length is no equal:	построити	Viti
+nothing was predicted for:	сѣчисѧ	Viti
+nothing was predicted for:	ожещисѧ	V12t
+nothing was predicted for:	въсплескати	V12t
+nothing was predicted for:	осѹдитель	N43_STAR
+nothing was predicted for:	носовичь	N1c
+nothing was predicted for:	носовичь	N1k
+nothing was predicted for:	мерети	Viti
+nothing was predicted for:	розмощи	V13k
+predicted 3 and real2 stems length is no equal:	подрѹга	N3k
+predicted 3 and real2 stems length is no equal:	подрѹгъ	N3k
+nothing was predicted for:	прилагатисѧ	V11e
+nothing was predicted for:	храмати	Viti
+nothing was predicted for:	побѣжатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	лѹчьскыи	A1k_STAR
+nothing was predicted for:	ѹстрашити	V12t
+predicted 1 and real2 stems length is no equal:	подъвести	V22p
+nothing was predicted for:	подъвести	V11e
+predicted 1 and real2 stems length is no equal:	отъобѣдати	V14d
+nothing was predicted for:	желати	V12t
+nothing was predicted for:	колѣбатисѧ	Viti
+nothing was predicted for:	стѹпати	V12t
+nothing was predicted for:	зажигати	V12g
+nothing was predicted for:	зажигати	V12t
+nothing was predicted for:	зажигати	Viti
+predicted 3 and real2 stems length is no equal:	немига	N3k
+predicted 5 and real4 stems length is no equal:	рѣшити	Viti
+predicted 3 and real2 stems length is no equal:	покрьстити	V21t
+predicted 3 and real2 stems length is no equal:	лѹга	N3k
+predicted 2 and real3 stems length is no equal:	ѹжьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	фрачьскыи	A1k_STAR
+nothing was predicted for:	жрети	V12t
+nothing was predicted for:	отъмытисѧ	V11e
+nothing was predicted for:	ѹмалитисѧ	V11e
+nothing was predicted for:	приникнѹти	Viti
+nothing was predicted for:	ражати	V12t
+nothing was predicted for:	гвоздь	N43_STAR
+predicted 2 and real3 stems length is no equal:	мордовьскыи	A1k_STAR
+nothing was predicted for:	съпрѧщи	V12t
+nothing was predicted for:	тѹдоръковичь	N1c
+predicted 2 and real3 stems length is no equal:	пльсковьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	кесарьскыи	A1k_STAR
+nothing was predicted for:	раздьратисѧ	V12x_STAR
+nothing was predicted for:	прикрашати	V12t
+predicted 2 and real3 stems length is no equal:	сѹждальскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	дивити	Viti
+predicted 3 and real2 stems length is no equal:	блъко	N2k
+nothing was predicted for:	въсаживати	V12t
+nothing was predicted for:	искладати	Viti
+nothing was predicted for:	перебьрати	V12x_STAR
+nothing was predicted for:	съвъкѹплѧтисѧ	Viti
+nothing was predicted for:	ѹничьжити	V12t
+nothing was predicted for:	ѹтѣшиватисѧ	V11e
+nothing was predicted for:	розѹти	Viti
+nothing was predicted for:	избавитисѧ	V11e
+nothing was predicted for:	паломьникъ	N1c
+nothing was predicted for:	припьсати	Viti
+nothing was predicted for:	въсхытьникъ	N1c
+nothing was predicted for:	присѣщи	V13k
+nothing was predicted for:	поворотитисѧ	V11e
+nothing was predicted for:	възрадоватисѧ	V11e
+nothing was predicted for:	грьци	N1k
+predicted 3 and real2 stems length is no equal:	опока	N3k
+nothing was predicted for:	погънати	V12t
+predicted 3 and real2 stems length is no equal:	кѹлачька	N3k
+predicted 3 and real2 stems length is no equal:	пропѹстити	V21t
+nothing was predicted for:	рожаница	N3k
+nothing was predicted for:	повестисѧ	V11e
+nothing was predicted for:	съблазнитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	вышегородьскыи	A1k_STAR
+nothing was predicted for:	степаничь	N1c
+predicted 2 and real3 stems length is no equal:	оковьскыи	A1k_STAR
+nothing was predicted for:	проочищати	V12t
+predicted 2 and real3 stems length is no equal:	дворьскыи	A1k_STAR
+nothing was predicted for:	подвижатисѧ	V11e
+predicted 2 and real3 stems length is no equal:	подвоискыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	сѹпрѹга	N3k
+nothing was predicted for:	въорѹжитисѧ	V11e
+nothing was predicted for:	премѣтати	Viti
+nothing was predicted for:	ѹбѹдитисѧ	V11e
+nothing was predicted for:	застѹпати	V12t
+nothing was predicted for:	дъвовѣрьць	N1k
+nothing was predicted for:	дъвовѣрьць	N1k_STAR
+predicted 2 and real3 stems length is no equal:	зарѹбьскыи	A1k_STAR
+nothing was predicted for:	разбитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	шедашька	N3k
+nothing was predicted for:	разбѣчисѧ	V13k
+nothing was predicted for:	осклабитисѧ	V11e
+nothing was predicted for:	осѣщи	V13k
+nothing was predicted for:	отъвѣщавати	V12t
+nothing was predicted for:	отъвѣщавати	Viti
+nothing was predicted for:	волочи	V13k
+nothing was predicted for:	влѹнъковичь	N1c
+nothing was predicted for:	немочи	Viti
+predicted 3 and real2 stems length is no equal:	дѹбьнъка	N3k
+predicted 3 and real2 stems length is no equal:	благо	N2k
+nothing was predicted for:	дьржатисѧ	V12t
+nothing was predicted for:	ратитисѧ	V11e
+nothing was predicted for:	покладывати	V12t
+nothing was predicted for:	покладывати	Viti
+nothing was predicted for:	осити	Viti
+nothing was predicted for:	череса	N3k
+nothing was predicted for:	ражигатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	рѣчька	N3k
+predicted 5 and real4 stems length is no equal:	обогатити	Viti
+nothing was predicted for:	ѹтишитисѧ	V11e
+nothing was predicted for:	прелюбодѣиствовати	Viti
+nothing was predicted for:	бѹти	V12t
+nothing was predicted for:	свѣтитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	тъска	N3k
+nothing was predicted for:	ѹбивати	Viti
+nothing was predicted for:	свье	N43_STAR
+predicted 5 and real4 stems length is no equal:	натрызнити	Viti
+predicted 2 and real3 stems length is no equal:	дѣвичьскыи	A1k_STAR
+nothing was predicted for:	къснѧтиничь	N1c
+nothing was predicted for:	облещи	V13k
+nothing was predicted for:	излековатисѧ	V11e
+nothing was predicted for:	храбровати	Viti
+nothing was predicted for:	испълнитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	кавокасьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	ласка	N3k
+nothing was predicted for:	възостритисѧ	V11e
+nothing was predicted for:	молибоговичь	N3t_STAR
+nothing was predicted for:	слѹшати	V12t
+predicted 3 and real2 stems length is no equal:	възвѣстити	V21t
+nothing was predicted for:	выбльвати	V12t
+nothing was predicted for:	възглашати	V12t
+nothing was predicted for:	смокы	N3t_STAR
+nothing was predicted for:	произити	V11e
+nothing was predicted for:	надѣти	V12g
+predicted 5 and real4 stems length is no equal:	надѣти	V14g_STAR
+nothing was predicted for:	надѣти	Viti
+predicted 5 and real4 stems length is no equal:	въсхластити	Viti
+predicted 3 and real2 stems length is no equal:	въсхластити	V21t
+nothing was predicted for:	пространитисѧ	V11e
+nothing was predicted for:	постичи	V13k
+predicted 2 and real3 stems length is no equal:	синаискыи	A1k_STAR
+nothing was predicted for:	станимировичь	N1c
+nothing was predicted for:	проскѹрмисати	Viti
+nothing was predicted for:	притечи	Viti
+predicted 2 and real3 stems length is no equal:	гнофитьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	поросьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	чьрньчьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	кропити	Viti
+nothing was predicted for:	дыхати	V12t
+nothing was predicted for:	хъза	N3k
+nothing was predicted for:	раздрѣшитель	N43_STAR
+nothing was predicted for:	перекрьститисѧ	V11e
+predicted 2 and real3 stems length is no equal:	иєрѹсалимьскыи	A1k_STAR
+nothing was predicted for:	сътѹжати	Viti
+nothing was predicted for:	витисѧ	V11e
+predicted 2 and real3 stems length is no equal:	чѹдьскыи	A1k_STAR
+nothing was predicted for:	родитисѧ	V11e
+nothing was predicted for:	поражатисѧ	V12t
+predicted 5 and real4 stems length is no equal:	съврѣщи	V14g_STAR
+nothing was predicted for:	съврѣщи	V13k
+predicted 3 and real2 stems length is no equal:	тѹга	N3k
+nothing was predicted for:	сладъкъ	A1k_STAR
+nothing was predicted for:	тъснѹтисѧ	V12t
+nothing was predicted for:	скрьгътати	V12k
+nothing was predicted for:	съмѣшатисѧ	V12t
+predicted 2 and real3 stems length is no equal:	литъвьскыи	A1k_STAR
+nothing was predicted for:	изнемочи	V13k
+nothing was predicted for:	пинежькиничь	N1c
+nothing was predicted for:	извьнѣти	Viti
+predicted 5 and real4 stems length is no equal:	нечьстити	Viti
+predicted 3 and real2 stems length is no equal:	нечьстити	V21t
+predicted 5 and real4 stems length is no equal:	измыти	Viti
+nothing was predicted for:	приискывати	Viti
+nothing was predicted for:	закалати	Viti
+nothing was predicted for:	зычьникъ	N1c
+nothing was predicted for:	виссъ	N3k
+nothing was predicted for:	виссъ	N1g
+nothing was predicted for:	строитисѧ	V11e
+nothing was predicted for:	въбѣчи	V13k
+predicted 2 and real3 stems length is no equal:	ѹрканьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	вевроискыи	A1k_STAR
+nothing was predicted for:	пожагати	V12g
+nothing was predicted for:	пожагати	Viti
+predicted 5 and real4 stems length is no equal:	возитисѧ	Viti
+nothing was predicted for:	наѹчитисѧ	V12t
+nothing was predicted for:	бѹбънъ	N3t_STAR
+predicted 2 and real3 stems length is no equal:	єфиопьскыи	A1k_STAR
+nothing was predicted for:	покоритисѧ	V11e
+nothing was predicted for:	прегънати	Viti
+nothing was predicted for:	преклонитисѧ	V11e
+nothing was predicted for:	отълѣсти	Viti
+nothing was predicted for:	посажати	V12t
+nothing was predicted for:	росплакатисѧ	V11e
+nothing was predicted for:	излишитисѧ	V11e
+nothing was predicted for:	подъсѣчи	Viti
+nothing was predicted for:	ижещи	V13k
+nothing was predicted for:	възвлещи	V13k
+nothing was predicted for:	иєреиство	N2k
+nothing was predicted for:	въгрести	V14p
+nothing was predicted for:	преѹмъножитисѧ	V11e
+nothing was predicted for:	лъгати	V12t
+nothing was predicted for:	выбрести	V11e
+predicted 2 and real3 stems length is no equal:	низовьскыи	A1k_STAR
+nothing was predicted for:	издыхати	V12t
+nothing was predicted for:	издыхати	V21t
+nothing was predicted for:	издыхати	V22t
+nothing was predicted for:	падати	Viti
+nothing was predicted for:	возѹза	N3k
+nothing was predicted for:	възвѣститисѧ	V11e
+nothing was predicted for:	замыслѧти	Viti
+nothing was predicted for:	исправитисѧ	V12t
+nothing was predicted for:	несъдиничь	N1c
+predicted 3 and real2 stems length is no equal:	мозгъ	N3k
+nothing was predicted for:	славитисѧ	V11e
+nothing was predicted for:	испълневати	Viti
+predicted 2 and real3 stems length is no equal:	партиискыи	A1k_STAR
+nothing was predicted for:	помолитисѧ	V11e
+nothing was predicted for:	выправитисѧ	V11e
+nothing was predicted for:	кричати	Viti
+nothing was predicted for:	женитисѧ	V12t
+nothing was predicted for:	женитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	неомога	N3k
+nothing was predicted for:	скалы	N3t_STAR
+predicted 3 and real2 stems length is no equal:	манатъка	N3k
+nothing was predicted for:	клепати	Viti
+nothing was predicted for:	прибѣщи	V13k
+nothing was predicted for:	сътрѧстисѧ	V11e
+nothing was predicted for:	пристигнѹти	V12t
+nothing was predicted for:	занести	V11e
+nothing was predicted for:	скомандръ	N1t_STAR
+nothing was predicted for:	насыщати	V12t
+nothing was predicted for:	испивати	V12t
+nothing was predicted for:	очищати	V12t
+nothing was predicted for:	очищати	Viti
+nothing was predicted for:	облобызати	Viti
+predicted 2 and real3 stems length is no equal:	индиискыи	A1k_STAR
+nothing was predicted for:	възворотитисѧ	V11e
+nothing was predicted for:	въсклонитисѧ	V11e
+nothing was predicted for:	съкрѹшати	V12t
+nothing was predicted for:	раздрѹшитель	N43_STAR
+nothing was predicted for:	възволочи	V13k
+nothing was predicted for:	възволочи	V11e
+predicted 1 and real2 stems length is no equal:	отъвратити	V14t
+nothing was predicted for:	въити	V11e
+predicted 5 and real4 stems length is no equal:	въити	Viti
+nothing was predicted for:	ѹпространитисѧ	V11e
+predicted 2 and real3 stems length is no equal:	воротиславьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	порѧдити	Viti
+predicted 3 and real2 stems length is no equal:	бъчька	N3k
+nothing was predicted for:	ринѹтисѧ	V11e
+predicted 3 and real2 stems length is no equal:	гършьчькъ	N3k
+predicted 2 and real3 stems length is no equal:	трахонитьскыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	снъха	N3k
+predicted 2 and real3 stems length is no equal:	меотьскыи	A1k_STAR
+nothing was predicted for:	острѣщи	Viti
+nothing was predicted for:	микѹлъчичь	N1c
+nothing was predicted for:	ѹтишати	V12t
+nothing was predicted for:	ижигати	V12t
+nothing was predicted for:	дерестръ	N1t_STAR
+nothing was predicted for:	тъщатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	чьстити	V21t
+predicted 3 and real2 stems length is no equal:	манътъка	N3k
+nothing was predicted for:	ѹтечи	Viti
+nothing was predicted for:	ласкати	V12t
+nothing was predicted for:	безбожьникъ	N1c
+predicted 2 and real3 stems length is no equal:	гюргевьскыи	A1k_STAR
+nothing was predicted for:	пожинати	V12t
+predicted 5 and real4 stems length is no equal:	вывозити	Viti
+nothing was predicted for:	починати	Viti
+nothing was predicted for:	лѹчьникъ	N1c
+predicted 2 and real3 stems length is no equal:	чьрвьньскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	приладити	Viti
+nothing was predicted for:	обѣщатисѧ	V11e
+nothing was predicted for:	насельникъ	N1c
+nothing was predicted for:	затворитисѧ	V11e
+nothing was predicted for:	милѧтиничь	N1c
+nothing was predicted for:	защищати	V12t
+nothing was predicted for:	приобьщатисѧ	V12t
+nothing was predicted for:	рѣшати	Viti
+nothing was predicted for:	подражатисѧ	V12t
+nothing was predicted for:	съчисти	V11e
+nothing was predicted for:	въстѧгати	V12g
+nothing was predicted for:	въстѧгати	Viti
+predicted 5 and real4 stems length is no equal:	животворити	Viti
+nothing was predicted for:	налещи	V13k
+predicted 5 and real4 stems length is no equal:	вѣсити	Viti
+nothing was predicted for:	съключитисѧ	V11e
+nothing was predicted for:	запрѣщати	V12t
+nothing was predicted for:	прозыватисѧ	Viti
+nothing was predicted for:	примѣшати	V12t
+nothing was predicted for:	росѹса	N3k
+nothing was predicted for:	ѹкрытисѧ	V11e
+nothing was predicted for:	отъврещи	V13k
+nothing was predicted for:	раждагатисѧ	V12t
+nothing was predicted for:	присидѣти	Viti
+nothing was predicted for:	михалъковичь	N1c
+predicted 3 and real2 stems length is no equal:	цьркъвъка	N3k
+nothing was predicted for:	огражати	V12t
+nothing was predicted for:	передатисѧ	Viti
+nothing was predicted for:	давыдовичь	N1c
+predicted 5 and real4 stems length is no equal:	състѹпитисѧ	Viti
+nothing was predicted for:	състѹпитисѧ	V11e
+predicted 5 and real4 stems length is no equal:	мѹчитисѧ	Viti
+nothing was predicted for:	ѹпитисѧ	V12t
+nothing was predicted for:	анаксандръ	N1t_STAR
+predicted 5 and real4 stems length is no equal:	мочити	Viti
+predicted 3 and real2 stems length is no equal:	телебѹга	N3k
+predicted 3 and real2 stems length is no equal:	попѹстити	V21t
+nothing was predicted for:	блечетати	Viti
+nothing was predicted for:	стати	V12t
+nothing was predicted for:	вытьргнѹти	Viti
+nothing was predicted for:	пожати	V12t
+predicted 5 and real4 stems length is no equal:	гладити	Viti
+nothing was predicted for:	грьмѣти	Viti
+nothing was predicted for:	раздѣлитисѧ	V11e
+predicted 3 and real2 stems length is no equal:	опѹстити	V21t
+predicted 2 and real3 stems length is no equal:	илюдьскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	сѹдомирьскыи	A1k_STAR
+nothing was predicted for:	тѹдоровичь	N1c
+nothing was predicted for:	годитисѧ	V11e
+nothing was predicted for:	съмѣшати	V12t
+nothing was predicted for:	ѹтолитисѧ	V11e
+nothing was predicted for:	дрѣиковичь	N1c
+nothing was predicted for:	расѣчи	V13k
+nothing was predicted for:	съмѣситисѧ	V11e
+predicted 5 and real4 stems length is no equal:	обити	Viti
+nothing was predicted for:	съмѧсти	V11e
+predicted 5 and real4 stems length is no equal:	примѣсити	Viti
+predicted 5 and real4 stems length is no equal:	прегрѣшити	Viti
+nothing was predicted for:	выверечи	Viti
+predicted 5 and real4 stems length is no equal:	перепѹстити	Viti
+predicted 3 and real2 stems length is no equal:	перепѹстити	V21t
+predicted 2 and real3 stems length is no equal:	деревьскыи	A1k_STAR
+predicted 5 and real4 stems length is no equal:	ѹтворити	Viti
+predicted 5 and real4 stems length is no equal:	стрѣлити	Viti
+nothing was predicted for:	тѹжити	V12t
+nothing was predicted for:	страшити	V12t
+predicted 2 and real3 stems length is no equal:	шюмьскыи	A1k_STAR
+nothing was predicted for:	лѣнитисѧ	V11e
+nothing was predicted for:	съноситисѧ	V11e
+nothing was predicted for:	съмиритисѧ	V11e
+nothing was predicted for:	волостель	N43_STAR
+nothing was predicted for:	вымъчати	Viti
+nothing was predicted for:	възмѹщати	V12t
+predicted 2 and real3 stems length is no equal:	корироискыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	тысѧчьскыи	A1k_STAR
+nothing was predicted for:	притъкнѹти	Viti
+nothing was predicted for:	предатисѧ	V11e
+nothing was predicted for:	крѣпитисѧ	V11e
+nothing was predicted for:	прогънатисѧ	V12t
+nothing was predicted for:	премѣнитисѧ	V11e
+nothing was predicted for:	ѹщедрити	V12t
+predicted 3 and real2 stems length is no equal:	нъка	N3k
+predicted 2 and real3 stems length is no equal:	аєрьскыи	A1k_STAR
+nothing was predicted for:	поспѣшьствовати	V12t
+nothing was predicted for:	похвалитисѧ	V11e
+nothing was predicted for:	стръгати	V12g
+nothing was predicted for:	стръгати	Viti
+nothing was predicted for:	ѹтапати	Viti
+predicted 2 and real3 stems length is no equal:	мюромьскыи	A1k_STAR
+nothing was predicted for:	съвьршатисѧ	V12t
+nothing was predicted for:	фрѧзи	N1g
+nothing was predicted for:	испрашати	V12t
+nothing was predicted for:	пожечи	V13k
+nothing was predicted for:	наслажати	V12t
+predicted 2 and real3 stems length is no equal:	геоньскыи	A1k_STAR
+nothing was predicted for:	скрипати	Viti
+nothing was predicted for:	испьрати	Viti
+nothing was predicted for:	испьрати	V12x_STAR
+predicted 3 and real2 stems length is no equal:	шнека	N3k
+predicted 3 and real2 stems length is no equal:	дькъ	N3k
+nothing was predicted for:	съвъкѹплѧти	Viti
+nothing was predicted for:	оживити	V12t
+nothing was predicted for:	врети	V12t
+nothing was predicted for:	врети	V14p
+nothing was predicted for:	помогати	V12g
+nothing was predicted for:	помогати	Viti
+nothing was predicted for:	печенѣзи	N1g
+nothing was predicted for:	растѹпитисѧ	V11e
+nothing was predicted for:	сътетисѧ	V14p
+predicted 3 and real2 stems length is no equal:	краикъ	N3k
+nothing was predicted for:	предъстати	Viti
+predicted 3 and real2 stems length is no equal:	предъстати	V21t
+nothing was predicted for:	ѹщькнѹти	V12t
+predicted 2 and real3 stems length is no equal:	иопьскыи	A1k_STAR
+nothing was predicted for:	ониполовичи	N1c
+nothing was predicted for:	обнажитисѧ	V12t
+nothing was predicted for:	наслажатисѧ	V12t
+predicted 3 and real2 stems length is no equal:	млеко	N2k
+predicted 2 and real3 stems length is no equal:	вожьскыи	A1k_STAR
+nothing was predicted for:	исказати	Viti
+nothing was predicted for:	мимонести	V21t
+nothing was predicted for:	мимонести	V22t
+predicted 5 and real4 stems length is no equal:	нелюбити	Viti
+nothing was predicted for:	съсѹти	Viti
+nothing was predicted for:	съсѹти	V14p
+predicted 5 and real4 stems length is no equal:	сънити	Viti
+nothing was predicted for:	въздвигнѹтисѧ	V11e
+nothing was predicted for:	изволитисѧ	V11e
+nothing was predicted for:	домажировичь	N1c
+nothing was predicted for:	прогнѣватисѧ	V11e
+nothing was predicted for:	грѣшити	V12t
+nothing was predicted for:	ѹродьствовати	Viti
+nothing was predicted for:	прилипати	Viti
+nothing was predicted for:	жещи	V12t
+nothing was predicted for:	възвышатисѧ	V12t
+nothing was predicted for:	възвышатисѧ	V11e
+nothing was predicted for:	лити	Viti
+predicted 2 and real3 stems length is no equal:	антиохиискыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	василька	N3k
+predicted 2 and real3 stems length is no equal:	крѣпъкыи	A1k_STAR
+predicted 3 and real2 stems length is no equal:	ока	N3k
+predicted 3 and real2 stems length is no equal:	око	N2k
+nothing was predicted for:	възвращати	V12t
+nothing was predicted for:	изнемагати	V12g
+nothing was predicted for:	изнемагати	Viti
+nothing was predicted for:	прѣщати	V12t
+nothing was predicted for:	прибѣчи	V13k
+predicted 3 and real2 stems length is no equal:	пѹстити	V21t
+nothing was predicted for:	роспѹщати	Viti
+predicted 5 and real4 stems length is no equal:	премълвити	Viti
+nothing was predicted for:	заклинати	Viti
+nothing was predicted for:	воєватисѧ	Viti
+nothing was predicted for:	остьнъ	N3t_STAR
+predicted 2 and real3 stems length is no equal:	полотьскыи	A1k_STAR
+nothing was predicted for:	предъварѧти	V12t
+predicted 5 and real4 stems length is no equal:	ѹвѣрити	Viti
+predicted 3 and real2 stems length is no equal:	стрѹга	N3k
+nothing was predicted for:	просльзати	V11e
+nothing was predicted for:	ѹбѹжатисѧ	V12t
+nothing was predicted for:	одалати	Viti
+nothing was predicted for:	осльнѹти	V14p
+predicted 5 and real4 stems length is no equal:	привозити	Viti
+predicted 5 and real4 stems length is no equal:	ѹкърмити	Viti
+nothing was predicted for:	възнестисѧ	V12t
+nothing was predicted for:	възнестисѧ	V11e
+nothing was predicted for:	источити	V12k
+nothing was predicted for:	подьрати	V12x_STAR
+nothing was predicted for:	оженитисѧ	V11e
+nothing was predicted for:	истещи	V13k
+predicted 2 and real3 stems length is no equal:	свѧтительскыи	A1k_STAR
+predicted 2 and real3 stems length is no equal:	степаньскыи	A1k_STAR
+nothing was predicted for:	изискати	V12t
+predicted 3 and real2 stems length is no equal:	порѹка	N3k
+predicted 3 and real2 stems length is no equal:	просокъ	N3k
+nothing was predicted for:	келендерь	N43_STAR
+predicted 3 and real2 stems length is no equal:	блъха	N3k
+nothing was predicted for:	родичь	N1c
+nothing was predicted for:	родичь	N1k
+predicted 5 and real4 stems length is no equal:	выходити	Viti
+nothing was predicted for:	ѹмъножатисѧ	V12t
+nothing was predicted for:	ѹмывати	Viti
+pr
