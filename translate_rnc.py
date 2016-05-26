@@ -35,7 +35,7 @@ def open_rnc():
             new_word = noun_class.word()
         else:
             new_word = dict[simple_lemma]
-        new_word.lemma = lemma
+        new_word.lemma = letterchange(lemma)
         pos = translate_pos(pos)
         new_word.pos = pos
         # print simple_lemma, u'simple lemma', new_word.pos
@@ -435,8 +435,8 @@ dict, pm_n, pm_a, pm_v = open_rnc()
 print pm_v, pm_n, pm_a, u'pos max for rnc'
 ld = len(dict)
 print ld, u'lexemes loaded'
-w = codecs.open(u'rnc_gram_1.json', u'w', u'utf-8')
-wb = codecs.open(u'rnc_miss_1.json', u'w', u'utf-8')
+w = codecs.open(u'rnc_gram_2.json', u'w', u'utf-8')
+wb = codecs.open(u'rnc_miss_2.json', u'w', u'utf-8')
 index = 0
 parsed = 0
 unparsed = 0

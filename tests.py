@@ -36,7 +36,7 @@ def p_tagging(tf):
             ss.write(r_i['lemma'] + u'\t' + max_arr[0] + u'\t' + str(max) + u'\r\n')
     # json.dump(chosen_ones, ss, ensure_ascii=False, indent=2)
 
-p_tagging(nf)
+# p_tagging(nf)
 
 def hawlick():
     chosen_ones = []
@@ -81,3 +81,11 @@ def sevcor():
         ss.write(r_i + u'\r\n')
 
 # sevcor()
+
+j = codecs.open(u'rnc_gram_0.json', u'r', u'utf-8')
+jf = json.load(j)
+
+def drei_tagging:
+    while i < 100:
+        r_i = random.choice(tf)
+        if u'tor_lemma'

@@ -334,6 +334,12 @@ class word:
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
         wtw[u'lemma_new'] = self.lemma_after_fall
         wtw[u'unanalysed_examples'] = self.unan_examples
+        if rnc:
+            wtw[u'unanalysed_examples'] = {}
+            for annot in self.unan_examples:
+                listmerge6 = lambda s: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
+                res = listmerge6(self.unan_examples[annot])
+                wtw[u'unanalysed_examples'][annot] = list(set(res))
         if uninfl:
             return wtw
         if self.pos == u'N':
@@ -356,6 +362,12 @@ class word:
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'lemma': self.lemma}
         wtw[u'lemma_new'] = self.lemma_after_fall
         wtw[u'unanalysed_examples'] = self.unan_examples
+        if rnc:
+            wtw[u'unanalysed_examples'] = {}
+            for annot in self.unan_examples:
+                listmerge6 = lambda s: reduce(lambda d, el: d.extend(el) or d, s, [])  # MAGIC
+                res = listmerge6(self.unan_examples[annot])
+                wtw[u'unanalysed_examples'][annot] = list(set(res))
         if uninfl:
             return wtw
         if self.pos == u'N':
