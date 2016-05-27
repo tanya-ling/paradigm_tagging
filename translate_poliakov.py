@@ -6,6 +6,7 @@ import json
 from noun_class import letterchange
 from levestein import levenshtein
 import time
+from hawlik_low import oslo_trans
 
 
 class uni_parser_word():
@@ -113,8 +114,15 @@ def add_torot_to_up(name_torot, up_dict):
     added = {}  # словарь слов из up (лемма : [distance, index]), которые были присоединены к торот
     for word in tf:
         i += 1
-        # if i <= 6060:
-        #     continue
+        if i == 16430:
+            break
+            continue
+        if u'lemma_new' not in word:
+            if u'lemma' not in word:
+                print u'nothing to work with', word
+                continue
+            word['lemma_new'] = oslo_trans(word['lemma'])
+            print u'почему леммы-то не было?', word['lemma']
         if word[u'lemma_new'] in up_dict:
             word, added = add_group_of_words(word, up_dict, added, word[u'lemma_new'], i, tf)
         else:
