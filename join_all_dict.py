@@ -83,8 +83,9 @@ def add_rest(tf, added, nd):  # dict, add, arr of obj
         # print key_lemma
         if key_lemma not in added:
             word = {}
-            word[u'tor_lemma'] = key_lemma
-            word[u'tor_lemma_new'] = tf[key_lemma][0]['lemma_new']
+            word[u'lemma'] = key_lemma
+            word[u'lemma_new'] = tf[key_lemma][0]['lemma_new']
+            word[u'pos'] = tf[key_lemma][0]['pos']
             word[u'torot_id'] = tf[key_lemma][0]['torot_id']
             if tf[key_lemma][0][u'pos'] == u'N':
                 word[u'tor_gender'] = tf[key_lemma][0]['gender']
@@ -106,8 +107,8 @@ def add_rest(tf, added, nd):  # dict, add, arr of obj
                         # print u'but there were no tor pr stems!', word['lemma'], dict_entity['lemma']
                         pass  # это штуки, у которых не тпределился тип
                     except AttributeError:
-                        print u'we have attr problems, got list instead of dict', word['tor_lemma']
-            word[u'index'] = max_index + 1
+                        print u'we have attr problems, got list instead of dict', word['lemma']
+            word[u'id'] = max_index + 1
             max_index += 1
             nd.append(word)
     return nd
@@ -278,5 +279,5 @@ nd = add_rest(td, added, nd)
 
 t3 = time.clock()
 print t3-t2, u'for making magic'
-llllll = codecs.open(u'joined_2.json', u'w', u'utf-8')
+llllll = codecs.open(u'joined_3.json', u'w', u'utf-8')
 json.dump(nd, llllll, ensure_ascii=False, indent=2)

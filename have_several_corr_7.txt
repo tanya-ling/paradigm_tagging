@@ -1,0 +1,1925 @@
+CANNOT chose from супоръ	 to 	супои, сугръ	 distance == 2
+CANNOT chose from измѣтати	 to 	извѣщати, измерети, заметати, изрѣзати, вметати, сметати, измѣнити, изѣхати, отмѣтати, выметати, измѣняти, метати, омѣтати, пометати	 distance == 2
+CANNOT chose from премилостивый	 to 	немилостивый, всемилостивый	 distance == 2
+CANNOT chose from гробный	 to 	громный, грозный	 distance == 1
+CANNOT chose from планъ	 to 	платъ, уланъ	 distance == 1
+CANNOT chose from проглядати	 to 	оглядати, розглядати, поглядѣти	 distance == 2
+CANNOT chose from думница	 to 	драница, десница, темница, денница	 distance == 2
+CANNOT chose from обещствовати	 to 	оземствовати, бѣдствовати	 distance == 2
+CANNOT chose from взлѣтати	 to 	взлежати, взлетѣти	 distance == 1
+CANNOT chose from нанизати	 to 	навязати, наказати, начинати, назидати, напитати, написати, нарицати, назирати	 distance == 2
+CANNOT chose from сумный	 to 	сурный, судный, умный	 distance == 1
+CANNOT chose from вырѣзывати	 to 	вызывати, вывѣдывати, вырѣзати	 distance == 2
+CANNOT chose from вила	 to 	сила, жила, вина, висла, вира	 distance == 1
+CANNOT chose from склонити	 to 	всклонити, уклонити	 distance == 1
+CANNOT chose from слогъ	 to 	слонъ, стогъ	 distance == 1
+CANNOT chose from пѣшь	 to 	пѣший, нашь	 distance == 2
+CANNOT chose from камяный	 to 	каменный, окаяный	 distance == 2
+CANNOT chose from поборникъ	 to 	побѣдникъ, полонникъ, покоиникъ, помощникъ, повозникъ	 distance == 2
+CANNOT chose from перележати	 to 	прилежати, переложити	 distance == 2
+CANNOT chose from кротъ	 to 	критъ, кратъ	 distance == 1
+CANNOT chose from погадати	 to 	погашати, догадати	 distance == 1
+CANNOT chose from поворотити	 to 	опроворотити, воротити, попортити	 distance == 2
+CANNOT chose from герцикъ	 to 	мѣрникъ, терликъ	 distance == 2
+CANNOT chose from язина	 to 	ясинъ, вина, таина, двина, спина, длина, мина, орина, глина, ужина, язвно, ирина, ятинъ, язва, воина, зима	 distance == 2
+CANNOT chose from прадѣдний	 to 	праведный, прѣдний	 distance == 2
+CANNOT chose from излѣчение	 to 	извѣщение, испечение, измѣнение	 distance == 2
+CANNOT chose from силъ	 to 	сила, солъ	 distance == 1
+CANNOT chose from встѣкати	 to 	истекати, встенати	 distance == 1
+CANNOT chose from лгание	 to 	сцание, спание, срание, алкание, ругание, тщание	 distance == 2
+CANNOT chose from басты	 to 	часть, башта	 distance == 2
+CANNOT chose from придѣлити	 to 	прилѣпити, подѣлити, примѣрити, прѣселити, присѣтити, привалити	 distance == 2
+CANNOT chose from соса	 to 	сосна, соска, коса, роса	 distance == 1
+CANNOT chose from надждити	 to 	одждити, нажити, нарядити, нацидити, надѣлити, наводити, навадити, находити, насадити	 distance == 2
+CANNOT chose from обстати	 to 	остати, отстати, обитати	 distance == 1
+CANNOT chose from быковъ	 to 	бутовъ, юшковъ	 distance == 2
+CANNOT chose from сбытися	 to 	сбыти, скрытися	 distance == 2
+CANNOT chose from каяла	 to 	калъ, кашка, каша, кабала, капля, скала, камка	 distance == 2
+CANNOT chose from ѣдати	 to 	дати, ждати, здати, удати, вѣдати, вдати, ѣхати	 distance == 1
+CANNOT chose from колие	 to 	колце, копие	 distance == 1
+CANNOT chose from еюпетский	 to 	егупетский, египетский	 distance == 2
+CANNOT chose from родимый	 to 	родный, видимый, уродивый, юродивый	 distance == 2
+CANNOT chose from аркадъ	 to 	градъ, аркадия, аранъ, алвадъ	 distance == 2
+CANNOT chose from нянко	 to 	ляшко, вятко, янка, синко	 distance == 2
+CANNOT chose from акимъ	 to 	гримъ, скима, радимъ, адамъ, наимъ, китъ, киръ, симъ, заимъ, анфимъ, максимъ, асиръ, римъ	 distance == 2
+CANNOT chose from обчий	 to 	отчий, общий	 distance == 1
+CANNOT chose from праща	 to 	правда, трава, раба, рана, пуща, плаха, паша, папа, прыщь, брада, рака, пища, прахъ, арака, врата, брага, управа	 distance == 2
+CANNOT chose from отягчити	 to 	отлучити, отсочити	 distance == 2
+CANNOT chose from авва	 to 	дѣва, аепа, евга, лавка, тава, анна, овца, нива, язва, сава	 distance == 2
+CANNOT chose from тынець	 to 	вѣнець, агнець, унець, талець, конець, птенець, гонець	 distance == 2
+CANNOT chose from варъ	 to 	варя, воръ	 distance == 1
+CANNOT chose from роставляти	 to 	поставляти, оставляти	 distance == 1
+CANNOT chose from гамалъ	 to 	дамасъ, гомолъ, шамахъ, малъ, началъ, ваалъ	 distance == 2
+CANNOT chose from снести	 to 	сѣсти, нести, свести, внести	 distance == 1
+CANNOT chose from поповский	 to 	поволский, оковский, полотский	 distance == 2
+CANNOT chose from воронаи	 to 	воронъ, ворота, борона, воронграи	 distance == 2
+CANNOT chose from поение	 to 	пѣние, пощение	 distance == 1
+CANNOT chose from плачный	 to 	облачный, полатный, плачевный	 distance == 2
+CANNOT chose from порещи	 to 	пожещи, потещи, поречи	 distance == 1
+CANNOT chose from повѣшати	 to 	поветшати, помѣшати, повѣвати, повѣдати	 distance == 1
+CANNOT chose from корванъ	 to 	боранъ, хорватъ	 distance == 2
+CANNOT chose from куча	 to 	луча, купа, куна	 distance == 1
+CANNOT chose from доволъ	 to 	волъ, дворъ	 distance == 2
+CANNOT chose from жадание	 to 	шатание, назание, рыдание, сѣдание, отдание, вздание, желание, зидание, падение	 distance == 2
+CANNOT chose from онания	 to 	ония, олвания	 distance == 2
+CANNOT chose from ашикъ	 to 	крикъ, аршинъ, ликъ, асиръ, шихъ	 distance == 2
+CANNOT chose from невходный	 to 	негодный, неплодный, неугодный	 distance == 2
+CANNOT chose from наскакати	 to 	наказати, выскакати, расказати, наставати, отскакати, накапати, скакати, наслажати	 distance == 2
+CANNOT chose from багоръ	 to 	боръ, батогъ, базаръ, зазоръ, нахоръ	 distance == 2
+CANNOT chose from дрють	 to 	дрожь, треть, рать	 distance == 2
+CANNOT chose from пакоръ	 to 	пашковъ, поконъ, покормъ, саковъ, лакотъ, позоръ, зазоръ, нахоръ, законъ, укоръ	 distance == 2
+CANNOT chose from данный	 to 	банный, ранный	 distance == 1
+CANNOT chose from силилъ	 to 	кирилъ, филипъ, сиринъ	 distance == 2
+CANNOT chose from осийнъ	 to 	сионъ, осий	 distance == 2
+CANNOT chose from вязити	 to 	вязати, возити, взити	 distance == 1
+CANNOT chose from исторгати	 to 	поторгати, исторгнути, торгати	 distance == 2
+CANNOT chose from посагнути	 to 	побѣгнути, постигнути, посякнути, потягнути	 distance == 2
+CANNOT chose from лѣнивъ	 to 	лѣнивый, леоновъ	 distance == 2
+CANNOT chose from иеронъ	 to 	неронъ, меронъ	 distance == 1
+CANNOT chose from сменъ	 to 	стѣнъ, смѣхъ	 distance == 1
+CANNOT chose from ристание	 to 	растение, писание, пристанище, встание, блистание, роптание	 distance == 2
+CANNOT chose from поминание	 to 	пошибание, почитание, поливание, познание, почивание	 distance == 2
+CANNOT chose from протягнути	 to 	протянути, потягнути	 distance == 1
+CANNOT chose from община	 to 	обида, обринъ, одрина, орина, отчина, гобина, осмина	 distance == 2
+CANNOT chose from повлачати	 to 	покладати, поплакати, полагати, облачати	 distance == 2
+CANNOT chose from извѣдѣти	 to 	извѣщати, измерети, изводити, невѣдѣти, вѣдѣти, повѣдѣти, свѣдѣти, извѣсити, увѣдѣти, изодѣти, извести	 distance == 2
+CANNOT chose from заблудити	 to 	отблудити, сблудити, блудити	 distance == 2
+CANNOT chose from написание	 to 	писание, списание, начинание	 distance == 2
+CANNOT chose from посивъ	 to 	иосифъ, посулъ, поставъ, посохъ, постъ, посолъ, посѣтъ, осипъ, попинъ, хоривъ	 distance == 2
+CANNOT chose from обуявити	 to 	обновити, обуяти, обрядити, обавити	 distance == 2
+CANNOT chose from потопляти	 to 	потопити, потоптати, пособляти	 distance == 2
+CANNOT chose from торопець	 to 	топорець, туровець, торговець, городець	 distance == 2
+CANNOT chose from размѣтати	 to 	заметати, размѣрити, изметати, размѣсити, разумѣвати, разѣвати	 distance == 2
+CANNOT chose from утѣшивати	 to 	утѣшати, утѣшити	 distance == 2
+CANNOT chose from акридъ	 to 	крикъ, критъ	 distance == 2
+CANNOT chose from одрѣнь	 to 	рѣнь, хрѣнь	 distance == 2
+CANNOT chose from расхитити	 to 	всхитити, рассытити, растити	 distance == 2
+CANNOT chose from семынь	 to 	сѣнь, семь, ремень, селунь	 distance == 2
+CANNOT chose from жатвный	 to 	житный, ратный, равный	 distance == 2
+CANNOT chose from чемерь	 to 	илмерь, ремень, нѣмець, чунерь, бедерь	 distance == 2
+CANNOT chose from братний	 to 	братский, ратный, бранный, брачный, краткий, бараний, бражный	 distance == 2
+CANNOT chose from антоновъ	 to 	етоновъ, амоновъ, антиоховъ	 distance == 2
+CANNOT chose from ростергати	 to 	ростеряти, постегати, растерзати	 distance == 2
+CANNOT chose from силивестръ	 to 	силвестръ, селивестръ	 distance == 1
+CANNOT chose from молодь	 to 	голодъ, молоко, солодъ	 distance == 2
+CANNOT chose from зимный	 to 	земный, зимний	 distance == 1
+CANNOT chose from узъ	 to 	езъ, уза	 distance == 1
+CANNOT chose from простець	 to 	постель, просвѣть	 distance == 2
+CANNOT chose from иереиский	 to 	теремский, индѣиский, деревский, июдѣиский	 distance == 2
+CANNOT chose from стяговый	 to 	сиговый, сяковый, столовый	 distance == 2
+CANNOT chose from гнусный	 to 	густый, нужный, днесный, грудный	 distance == 2
+CANNOT chose from дѣть	 to 	дѣтя, дѣти	 distance == 1
+CANNOT chose from усмотрѣти	 to 	смотрѣти, осмотрѣти	 distance == 1
+CANNOT chose from вбучь	 to 	врачь, обручь, внуча	 distance == 2
+CANNOT chose from агаваофъ	 to 	саваофъ, гаваонъ	 distance == 2
+CANNOT chose from взлазити	 to 	влазити, излазити, вылазити	 distance == 1
+CANNOT chose from приготовляти	 to 	приготовити, приготовати	 distance == 2
+CANNOT chose from кропинный	 to 	кручинный, рѣпинный, кожинный, копийный	 distance == 2
+CANNOT chose from хладъ	 to 	ладъ, гладъ	 distance == 1
+CANNOT chose from комкание	 to 	скокание, копание	 distance == 2
+CANNOT chose from полонение	 to 	положение, поклонение	 distance == 1
+CANNOT chose from адорский	 to 	морский, идолский, угорский, заморский	 distance == 2
+CANNOT chose from обрѣтение	 to 	обращение, обрѣзание, стрѣтение, обѣдение, брежение	 distance == 2
+CANNOT chose from безмѣстие	 to 	берестие, бесмертие, бесчестие	 distance == 2
+CANNOT chose from сирь	 to 	сыръ, асиръ	 distance == 2
+CANNOT chose from нѣжата	 to 	нѣмота, ногата	 distance == 2
+CANNOT chose from ревѣние	 to 	ревние, рвение	 distance == 1
+CANNOT chose from взвонити	 to 	взводити, звонити	 distance == 1
+CANNOT chose from заздати	 to 	раздаяти, заѣхати, жаждати, назидати, вздати, здати, заѣзжати, мазати, застати, заимати, заушати, раздрати, жадати, гадати, назвати, создати, заклати, казати, зазрѣти, падати, зачати	 distance == 2
+CANNOT chose from полстинь	 to 	полсть, полтина	 distance == 2
+CANNOT chose from снузникъ	 to 	нужникъ, спутникъ, узникъ	 distance == 2
+CANNOT chose from взблевати	 to 	взлежати, взбѣжати, взливати, блевати	 distance == 2
+CANNOT chose from бѣжание	 to 	обѣщание, обѣдание	 distance == 2
+CANNOT chose from купросъ	 to 	клиросъ, курокъ	 distance == 2
+CANNOT chose from усудити	 to 	судити, осудити	 distance == 1
+CANNOT chose from жака	 to 	бака, жаба, рака, жажа	 distance == 1
+CANNOT chose from былие	 to 	тылие, бытие	 distance == 1
+CANNOT chose from совь	 to 	сновь, соль, мовь	 distance == 1
+CANNOT chose from мячий	 to 	який, вѣчий, отчий, мний, мяккий, мягкий, вящий, сякий, лучий	 distance == 2
+CANNOT chose from натещи	 to 	потещи, расѣщи, зажещи, тещи, налечи, надѣти, наречи, истещи	 distance == 2
+CANNOT chose from ифестовъ	 to 	фастовъ, афетовъ	 distance == 2
+CANNOT chose from торчевъ	 to 	боричевъ, торчинъ	 distance == 2
+CANNOT chose from пописати	 to 	описати, попирати	 distance == 1
+CANNOT chose from нухла	 to 	муха, нужда, хула, уха, нура, нужа, сула	 distance == 2
+CANNOT chose from нижий	 to 	нищий, нижний	 distance == 1
+CANNOT chose from плоимъ	 to 	плодъ, плотъ	 distance == 2
+CANNOT chose from думание	 to 	дышание, дѣлание, ругание, дыхание	 distance == 2
+CANNOT chose from капный	 to 	окаяный, кальный, оканный	 distance == 2
+CANNOT chose from кюръ	 to 	киръ, куръ	 distance == 1
+CANNOT chose from обитѣль	 to 	житель, водитель, учитель, гонитель, родитель	 distance == 2
+CANNOT chose from рознести	 to 	розвести, розѣсти	 distance == 1
+CANNOT chose from испания	 to 	спание, исаия	 distance == 2
+CANNOT chose from ищисти	 to 	изити, счисти, исчисти, чисти, ущити	 distance == 2
+CANNOT chose from отводити	 to 	отворити, отходити	 distance == 1
+CANNOT chose from налѣсти	 to 	наѣсти, налѣзти	 distance == 1
+CANNOT chose from милостный	 to 	милостивый, милостивный, жалостный	 distance == 2
+CANNOT chose from вздорожити	 to 	взворотити, ворожити	 distance == 2
+CANNOT chose from взмясти	 to 	смясти, вымести, взвести, взяти, измяти, вымяти, мясти, взрасти, взняти, взнести	 distance == 2
+CANNOT chose from влатъ	 to 	платъ, власъ	 distance == 1
+CANNOT chose from бабити	 to 	забити, вабити	 distance == 1
+CANNOT chose from суди	 to 	судъ, судия	 distance == 1
+CANNOT chose from вышший	 to 	выший, вышний	 distance == 1
+CANNOT chose from избиение	 to 	биение, избрание, изумѣние, убиение	 distance == 2
+CANNOT chose from заворожити	 to 	загородити, ворожити	 distance == 2
+CANNOT chose from леонидъ	 to 	леонъ, лѣтникъ, ледникъ	 distance == 2
+CANNOT chose from устигнути	 to 	достигнути, постигнути	 distance == 2
+CANNOT chose from педаний	 to 	сѣдание, прѣдание	 distance == 2
+CANNOT chose from ванаи	 to 	сани, вина, рана, дунаи, ратаи, сараи	 distance == 2
+CANNOT chose from шернский	 to 	женский, пермский, персский	 distance == 2
+CANNOT chose from копиний	 to 	куриний, копание	 distance == 2
+CANNOT chose from мюро	 to 	миръ, море, моръ	 distance == 2
+CANNOT chose from ота	 to 	рота, фота, ока	 distance == 1
+CANNOT chose from сновский	 to 	оковский, сотский	 distance == 2
+CANNOT chose from попуснѣти	 to 	попустити, опустѣти, опустнѣти	 distance == 2
+CANNOT chose from дѣмонь	 to 	дѣдень, сѣмень	 distance == 2
+CANNOT chose from феодулъ	 to 	феодоръ, феофилъ	 distance == 2
+CANNOT chose from спира	 to 	спица, спина	 distance == 1
+CANNOT chose from цѣлина	 to 	цѣна, длина, хмелина, келица, глина, елена, перина, сѣдина, цѣлба, фетина	 distance == 2
+CANNOT chose from щепка	 to 	щека, щелка	 distance == 1
+CANNOT chose from гадание	 to 	шатание, назание, рыдание, сѣдание, отдание, вздание, зидание, падение	 distance == 2
+CANNOT chose from вячко	 to 	вѣчко, вятко	 distance == 1
+CANNOT chose from занудити	 to 	засадити, закупити, понудити, завадити, задушити, засушити, заходити, нудити, расудити, заводити	 distance == 2
+CANNOT chose from изрыти	 to 	изыти, измыти, избыти	 distance == 1
+CANNOT chose from прашание	 to 	плакание, прошение, плавание, прѣдание	 distance == 2
+CANNOT chose from чаръ	 to 	даръ, ларъ, харъ, часъ	 distance == 1
+CANNOT chose from плотяный	 to 	плотный, платяный	 distance == 1
+CANNOT chose from фиримъ	 to 	гримъ, кирилъ, фарисъ, филипъ, сиринъ, римъ	 distance == 2
+CANNOT chose from прелѣтати	 to 	прилетѣти, прѣбѣгати, предстати, прѣдлежати, причетати, прѣпитати, трепетати, прилежати, прѣлщати, прѣсѣкати, прелстити, прѣлстити, прѣстати	 distance == 2
+CANNOT chose from индития	 to 	индикий, индия	 distance == 2
+CANNOT chose from вылѣсти	 to 	высѣсти, вылѣзти	 distance == 1
+CANNOT chose from луповъ	 to 	гудовъ, чудовъ, бутовъ, лотовъ	 distance == 2
+CANNOT chose from вкласти	 to 	укласти, скласти, класти, вкрасти	 distance == 1
+CANNOT chose from выстояти	 to 	сстояти, достояти, стояти, отстояти, настояти, встаяти, обстояти, устояти, постояти	 distance == 2
+CANNOT chose from сулѣи	 to 	супои, луеи, кулмѣи, свеи, сула	 distance == 2
+CANNOT chose from губитель	 to 	мучитель, обитель, учитель, гонитель	 distance == 2
+CANNOT chose from жизнный	 to 	жирный, житный, винный, ризный	 distance == 2
+CANNOT chose from ардалъ	 to 	адамъ, аранъ	 distance == 2
+CANNOT chose from ипикъ	 to 	крикъ, исакъ, пиръ, ликъ, инокъ, пискъ	 distance == 2
+CANNOT chose from лоива	 to 	лихва, нива, литва, слива	 distance == 2
+CANNOT chose from лѣковати	 to 	исковати, оковати, вѣровати, лиховати, сковати, цѣловати, ковати, сѣтовати, блекотати	 distance == 2
+CANNOT chose from дамиянъ	 to 	дамианъ, демиянъ	 distance == 1
+CANNOT chose from гонѣти	 to 	гоняти, гонити, горѣти	 distance == 1
+CANNOT chose from обличие	 to 	величие, обличение	 distance == 2
+CANNOT chose from курганъ	 to 	варганъ, купанъ, куманъ, каганъ	 distance == 2
+CANNOT chose from крусъ	 to 	трусъ, кусъ, кругъ	 distance == 1
+CANNOT chose from чугаи	 to 	дунаи, дуга, ручаи, луга, туга	 distance == 2
+CANNOT chose from станила	 to 	ставило, старина	 distance == 2
+CANNOT chose from гнести	 to 	нести, внести	 distance == 1
+CANNOT chose from ормина	 to 	орина, осмина	 distance == 1
+CANNOT chose from кучарь	 to 	келарь, кесарь, кубара, ключарь, сухарь	 distance == 2
+CANNOT chose from агрикъ	 to 	крикъ, гримъ, рюрикъ, грекъ, угринъ	 distance == 2
+CANNOT chose from лувий	 to 	иулий, гурий, флавий, луеи, ливия, лубие	 distance == 2
+CANNOT chose from павлинъ	 to 	навгинъ, навинъ	 distance == 2
+CANNOT chose from просунути	 to 	просушити, протянути, промкнути, прослути	 distance == 2
+CANNOT chose from лысець	 to 	лыбѣдь, лѣчець, писець, лтець, ловець, ларець, плясець, овсець, ссець	 distance == 2
+CANNOT chose from всѣяние	 to 	дѣяние, встание, влияние, сияние, насѣяние, одѣяние	 distance == 2
+CANNOT chose from иерѣиский	 to 	теремский, индѣиский, деревский, июдѣиский	 distance == 2
+CANNOT chose from запрѣтися	 to 	запрѣтити, запрѣти	 distance == 2
+CANNOT chose from слажий	 to 	слукий, благий, ближий, слабый, сладкий, вражий, свѣжий	 distance == 2
+CANNOT chose from минѣи	 to 	миди, михея, мина, моисеи, инди	 distance == 2
+CANNOT chose from лозный	 to 	розный, ложный	 distance == 1
+CANNOT chose from изѣсти	 to 	изнести, извести	 distance == 1
+CANNOT chose from фоя	 to 	тля, имя, вои, робя, шия, коря, зоря, фока, выя, воня, лодя, воля, фота, хозя, лия, бои, нои, пря	 distance == 2
+CANNOT chose from замыслъ	 to 	помыслъ, смыслъ	 distance == 2
+CANNOT chose from моявия	 to 	молния, мосия	 distance == 2
+CANNOT chose from врещися	 to 	врещи, врѣщи	 distance == 2
+CANNOT chose from сидоръ	 to 	сборъ, судокъ, идолъ, содомъ, федоръ, симонъ, иворъ, сионъ, риторъ, видокъ	 distance == 2
+CANNOT chose from бридкий	 to 	близкий, рѣдкий, жидкий	 distance == 2
+CANNOT chose from взникати	 to 	взирати, взалкати, взжигати, внимати, взливати, изнимати, взимати, взискати, вынимати	 distance == 2
+CANNOT chose from искѣпати	 to 	искупати, ископати	 distance == 1
+CANNOT chose from десити	 to 	мѣсити, бѣсити, дѣлити, вѣсити	 distance == 1
+CANNOT chose from жалошь	 to 	жаль, жало	 distance == 2
+CANNOT chose from бездушие	 to 	бездѣлие, бездждие, безумие	 distance == 2
+CANNOT chose from убывати	 to 	бывати, убивати	 distance == 1
+CANNOT chose from истяти	 to 	стояти, устояти	 distance == 2
+CANNOT chose from отмолити	 to 	умолити, помолити, молити	 distance == 2
+CANNOT chose from кора	 to 	корь, коря	 distance == 1
+CANNOT chose from улюбѣти	 to 	любити, слюбити	 distance == 2
+CANNOT chose from сатуръ	 to 	каптуръ, стыръ, шатеръ, студъ, мутуръ, асуръ, стукъ, туръ, сахаръ, саулъ, стулъ, стиръ, саукъ	 distance == 2
+CANNOT chose from манѣи	 to 	сани, манна, мати, матфѣи, мантия, маи	 distance == 2
+CANNOT chose from корязь	 to 	коря, князь, грязь	 distance == 2
+CANNOT chose from песений	 to 	пеления, печение	 distance == 2
+CANNOT chose from лстивъ	 to 	лстивый, лотовъ	 distance == 2
+CANNOT chose from челка	 to 	щелка, бчелка	 distance == 1
+CANNOT chose from удосити	 to 	носити, ужасити, уморити, упросити, угонити, добити, уточити, удивити, просити, уронити, бросити, умолити, укорити, утомити, укусити, уловити, утопити, доити, удолжити, утолити, ударити, угодити, угасити, удавити	 distance == 2
+CANNOT chose from фраки	 to 	фракия, фракъ	 distance == 1
+CANNOT chose from выплевати	 to 	вспѣвати, плевати, оплевати	 distance == 2
+CANNOT chose from успѣние	 to 	утаение, пѣние, спание, усние, отпѣние, учение, убиение	 distance == 2
+CANNOT chose from врачевный	 to 	вревный, плачевный	 distance == 2
+CANNOT chose from желтый	 to 	бѣлый, женатый, целый	 distance == 2
+CANNOT chose from возѣхати	 to 	выѣхати, вѣхати, изѣхати	 distance == 2
+CANNOT chose from почестити	 to 	помостити, постити, почтити, честити	 distance == 2
+CANNOT chose from всхотѣние	 to 	исхожение, похотѣние, хотѣние	 distance == 2
+CANNOT chose from шаръ	 to 	даръ, ларъ, харъ	 distance == 1
+CANNOT chose from диодоръ	 to 	феодоръ, диоскоръ, дозоръ	 distance == 2
+CANNOT chose from пурини	 to 	пучина, перина, шуринъ, куриний	 distance == 2
+CANNOT chose from усѣкати	 to 	посѣкати, отсѣкати	 distance == 2
+CANNOT chose from уяти	 to 	уити, яти	 distance == 1
+CANNOT chose from морозити	 to 	розити, грозити, морити	 distance == 2
+CANNOT chose from пронзнути	 to 	протянути, промкнути, пронзти	 distance == 2
+CANNOT chose from сикеръ	 to 	скербъ, синкелъ, сѣверъ	 distance == 2
+CANNOT chose from ясыня	 to 	ясинъ, дыня, ксеня, ягня, асиня, сынъ	 distance == 2
+CANNOT chose from ублажати	 to 	убѣжати, обнажати, облачати, обладати, облежати, укладати	 distance == 2
+CANNOT chose from смѣшникъ	 to 	грѣшникъ, мѣрникъ, мечникъ, свѣтникъ	 distance == 2
+CANNOT chose from убѣжание	 to 	урѣкание, обѣщание, обѣдание, удержание	 distance == 2
+CANNOT chose from превести	 to 	провести, перевести	 distance == 1
+CANNOT chose from хрестянский	 to 	 хрестиянский, крестиянский	 distance == 2
+CANNOT chose from плеще	 to 	плече, плѣщь	 distance == 1
+CANNOT chose from титовъ	 to 	симовъ, сифовъ, дировъ, бутовъ, лотовъ	 distance == 2
+CANNOT chose from лажение	 to 	сажение, кажение	 distance == 1
+CANNOT chose from подаровати	 to 	даровати, подавати	 distance == 2
+CANNOT chose from поникати	 to 	почитати, покивати, пожинати, посѣкати, почивати, побирати, поискати, побивати, поминати, понужати, понашати, пожигати, порицати, потакати, поливати, подимати, починати, попирати, погибати, покидати, поимати	 distance == 2
+CANNOT chose from сикарий	 to 	сирий, макарий	 distance == 2
+CANNOT chose from арамъ	 to 	срамъ, адамъ, аврамъ, храмъ, аранъ	 distance == 1
+CANNOT chose from лагодный	 to 	негодный, лавочный, ягодный, угодный, годный	 distance == 2
+CANNOT chose from посулити	 to 	похулити, посушити, посудити	 distance == 1
+CANNOT chose from всути	 to 	сути, ссути	 distance == 1
+CANNOT chose from досягнути	 to 	достигнути, посякнути, потягнути	 distance == 2
+CANNOT chose from хрестиянский	 to 	 хрестиянский, крестиянский	 distance == 1
+CANNOT chose from раслушати	 to 	распущати, выслушати, расужати, послушати, прѣслушати, разлучати, слушати, ослушати	 distance == 2
+CANNOT chose from невольный	 to 	довольный, вольный	 distance == 2
+CANNOT chose from потратити	 to 	обратити, отрадити, поплатити, пограбити, поразити, поправити, потащити, посрамити, похватити, потрудити, побранити, потаити, помрачити, отвратити, потрѣбити, портити	 distance == 2
+CANNOT chose from преселение	 to 	премѣнение, прѣсыщение	 distance == 2
+CANNOT chose from привѣвати	 to 	привѣчати, прививати	 distance == 1
+CANNOT chose from отторгати	 to 	поторгати, торгати	 distance == 2
+CANNOT chose from товаровъ	 to 	уваровъ, товаръ	 distance == 2
+CANNOT chose from ядрѣи	 to 	ереи, иереи, андреи, рѣи, ядро, еврѣи	 distance == 2
+CANNOT chose from ироевъ	 to 	иродовъ, игоревъ, дировъ	 distance == 2
+CANNOT chose from обыкати	 to 	рыкати, бывати, обтекати	 distance == 2
+CANNOT chose from свѣдѣние	 to 	сѣдѣние, свѣтѣние	 distance == 1
+CANNOT chose from взблюсти	 to 	ублюсти, сблюсти, блюсти, взбрести, поблюсти	 distance == 2
+CANNOT chose from жадѣти	 to 	щадѣти, радѣти, жадати, надѣти	 distance == 1
+CANNOT chose from вздаяние	 to 	вздаание, вздание	 distance == 1
+CANNOT chose from ѣдъ	 to 	ледъ, ядъ, медъ, удъ, адъ, дѣдъ	 distance == 1
+CANNOT chose from прескокъ	 to 	прѣстолъ, пѣсокъ, опрѣснокъ, плесковъ	 distance == 2
+CANNOT chose from симати	 to 	снимати, имати	 distance == 1
+CANNOT chose from каркинъ	 to 	саринъ, маринъ, каинъ, аршинъ, варинъ	 distance == 2
+CANNOT chose from крупица	 to 	купина, рудица, трубица, кручина, кропива, крабица	 distance == 2
+CANNOT chose from кончакъ	 to 	конникъ, колпакъ	 distance == 2
+CANNOT chose from спасный	 to 	неспасный, спальный	 distance == 2
+CANNOT chose from увѣчати	 to 	увѣдати, увѣщати, свѣчати	 distance == 1
+CANNOT chose from наквапити	 to 	наварити, накапати, навадити, накопити	 distance == 2
+CANNOT chose from сприяти	 to 	всприяти, прияти	 distance == 1
+CANNOT chose from отщетити	 to 	отрѣшити, отмѣрити, отмѣтати, отвѣсити, освѣтити, стрѣтити	 distance == 2
+CANNOT chose from ухани	 to 	сани, уха, уланъ, ханъ	 distance == 2
+CANNOT chose from мытва	 to 	пытка, молва, сыта, мста, мыто, мышца, метла, ѣства, литва	 distance == 2
+CANNOT chose from изотимати	 to 	изимати, изнимати	 distance == 2
+CANNOT chose from вѣщий	 to 	вѣчий, вящий	 distance == 1
+CANNOT chose from каця	 to 	варя, заря, калъ, кары, коря, каша, капля, ладя, куци, камы, кария, кадь, баня, куря	 distance == 2
+CANNOT chose from клинъ	 to 	каинъ, блинъ	 distance == 1
+CANNOT chose from взвязати	 to 	возтязати, розвязати	 distance == 2
+CANNOT chose from обрытися	 to 	обрыти, скрытися	 distance == 2
+CANNOT chose from боброка	 to 	борода, доброта, оброкъ, борона	 distance == 2
+CANNOT chose from притомити	 to 	прѣломити, притащити, приложити, проточити, природити, приходити, пригодити, притворити, приносити, приводити, привозити	 distance == 2
+CANNOT chose from встискати	 to 	сискати, вытаскати, взискати, снискати	 distance == 2
+CANNOT chose from пожегъ	 to 	пологъ, порогъ	 distance == 2
+CANNOT chose from либивый	 to 	лѣнивый, лстивый, лживый, злобивый	 distance == 2
+CANNOT chose from понрети	 to 	почрѣти, пожрѣти, позрѣти, помрѣти	 distance == 1
+CANNOT chose from взвращение	 to 	взвѣщение, взгражение, взбранение	 distance == 2
+CANNOT chose from предтѣкати	 to 	прѣдлежати, прѣтыкати, прѣсѣкати, подтекати	 distance == 2
+CANNOT chose from укончати	 to 	окончати, кончати	 distance == 1
+CANNOT chose from зеленина	 to 	зеленикъ, меженина	 distance == 2
+CANNOT chose from обешствие	 to 	ошствие, отошствие	 distance == 2
+CANNOT chose from прокша	 to 	прокъ, проказа, прокуда, полша	 distance == 2
+CANNOT chose from бакота	 to 	бака, башта	 distance == 2
+CANNOT chose from свинець	 to 	вѣнець, единець	 distance == 2
+CANNOT chose from почерети	 to 	почрѣти, померети	 distance == 1
+CANNOT chose from народный	 to 	надобный, набоиный, породный, негодный, родный, городный, даровный	 distance == 2
+CANNOT chose from пламѣный	 to 	платяный, блаженый, плачевный	 distance == 2
+CANNOT chose from порохня	 to 	погоня, порядня, городня, порохъ, порося	 distance == 2
+CANNOT chose from кудство	 to 	сущство, мужство, вѣдство, чувство	 distance == 2
+CANNOT chose from взблюдение	 to 	сблюдение, блюдение	 distance == 2
+CANNOT chose from якимъ	 to 	ясинъ, гримъ, скима, яремъ, наимъ, китъ, киръ, симъ, заимъ, яковъ, ятинъ, римъ, якунъ	 distance == 2
+CANNOT chose from ионафъ	 to 	иосифъ, иоанъ, игнатъ	 distance == 2
+CANNOT chose from научивати	 to 	начинати, научати, научити	 distance == 2
+CANNOT chose from отходный	 to 	оточный, отрадный	 distance == 2
+CANNOT chose from безличный	 to 	безлѣпичный, различный	 distance == 2
+CANNOT chose from прочисти	 to 	причисти, прочести	 distance == 1
+CANNOT chose from теребити	 to 	перебити, трѣбити	 distance == 1
+CANNOT chose from истовый	 to 	неистовый, истый	 distance == 2
+CANNOT chose from прелститися	 to 	прелстити, прѣлстити	 distance == 2
+CANNOT chose from распращати	 to 	распущати, расплакати	 distance == 2
+CANNOT chose from кедасъ	 to 	квасъ, класъ	 distance == 2
+CANNOT chose from сука	 to 	сутка, рука, суша, сума, мука, лука, щука, сула, сумка	 distance == 1
+CANNOT chose from полѣти	 to 	болѣти, ползти, полоти, полѣзти	 distance == 1
+CANNOT chose from бобъ	 to 	боръ, бобръ, богъ, кобъ, бокъ, лобъ	 distance == 1
+CANNOT chose from притчати	 to 	пригнати, придати, примѣчати, приѣхати, прижати, призвати, пристати, прибрати, прилгати, прислати, приймати, кричати, привѣчати, питати	 distance == 2
+CANNOT chose from пожирати	 to 	пожинати, побирати, пожигати, попирати	 distance == 1
+CANNOT chose from излетѣти	 to 	низлетѣти, взлетѣти	 distance == 1
+CANNOT chose from пострѣляти	 to 	истрѣляти, стрѣляти	 distance == 2
+CANNOT chose from стрѣльный	 to 	стольный, тельный	 distance == 2
+CANNOT chose from слѣпляти	 to 	слѣпити, оцѣпляти	 distance == 2
+CANNOT chose from кудновъ	 to 	гудовъ, каиновъ, чудовъ, тудковъ	 distance == 2
+CANNOT chose from скимный	 to 	срамный, сливный, скудный, смирный, ситный, свиный	 distance == 2
+CANNOT chose from ласковець	 to 	засаковець, растовець	 distance == 2
+CANNOT chose from нева	 to 	нево, нива	 distance == 1
+CANNOT chose from готовати	 to 	готовити, уготовати	 distance == 1
+CANNOT chose from забѣгнути	 to 	разбѣгнути, вбегнути, побѣгнути, вбѣгнути, избѣгнути, выбѣгнути, бѣгнути, отбѣгнути, загнути, завернути	 distance == 2
+CANNOT chose from аммонъ	 to 	дѣмонъ, антонъ, лимонъ, аронъ, амосъ, симонъ	 distance == 2
+CANNOT chose from погрети	 to 	погрести, погорѣти	 distance == 1
+CANNOT chose from побѣчи	 to 	поречи, попечи	 distance == 1
+CANNOT chose from сущий	 to 	сухий, пущий	 distance == 1
+CANNOT chose from велгласный	 to 	безгласный, несгласный	 distance == 2
+CANNOT chose from ратаиский	 to 	раиский, татарский	 distance == 2
+CANNOT chose from взвестися	 to 	взвести, взвѣстити	 distance == 2
+CANNOT chose from приметъ	 to 	примѣта, привѣтъ	 distance == 1
+CANNOT chose from зеусъ	 to 	усъ, кусъ, зубъ	 distance == 2
+CANNOT chose from изречение	 to 	извѣщение, речение, испечение, измѣнение	 distance == 2
+CANNOT chose from охудѣвати	 to 	одѣвати, обуревати, оскудѣвати	 distance == 2
+CANNOT chose from погань	 to 	огнь, погоня, подать	 distance == 2
+CANNOT chose from углубити	 to 	губити, улучити	 distance == 2
+CANNOT chose from ахаия	 to 	исаия, асия, агафя, аравия, захария	 distance == 2
+CANNOT chose from наполнивати	 to 	дополнивати, наполнити	 distance == 2
+CANNOT chose from кожный	 to 	ложный, косный	 distance == 1
+CANNOT chose from порѣзывати	 to 	призывати, прозывати, прѣбывати	 distance == 2
+CANNOT chose from ползѣти	 to 	ползати, ползти	 distance == 1
+CANNOT chose from воищина	 to 	вотчина, волмина, вонкина, воина	 distance == 2
+CANNOT chose from отимание	 to 	отдание, внимание	 distance == 2
+CANNOT chose from куеве	 to 	киев, киевъ	 distance == 2
+CANNOT chose from кипѣние	 to 	пѣние, успение, биение, крщение, видѣние, курение, лишение, корение, отпѣние, кажение, камение, имѣние, копание	 distance == 2
+CANNOT chose from есхулъ	 to 	саулъ, стулъ	 distance == 2
+CANNOT chose from полчище	 to 	портище, поприще	 distance == 2
+CANNOT chose from порубити	 to 	погубити, поручити	 distance == 1
+CANNOT chose from афракия	 to 	фракия, африкия	 distance == 1
+CANNOT chose from галичь	 to 	алиль, алочь, палачь, капичь, галица, кличь	 distance == 2
+CANNOT chose from воздрати	 to 	взирати, взорати, вздати, выдрати	 distance == 2
+CANNOT chose from вышити	 to 	выпити, выбити	 distance == 1
+CANNOT chose from зломыслъ	 to 	помыслъ, промыслъ	 distance == 2
+CANNOT chose from цебръ	 to 	дебрь, цѣрь, бобръ, ребро	 distance == 2
+CANNOT chose from амира	 to 	миръ, мина, гадира, асиръ, амиля, вира, мѣра	 distance == 2
+CANNOT chose from претирати	 to 	прѣпирати, прѣзирати	 distance == 1
+CANNOT chose from фома	 to 	фока, фота	 distance == 1
+CANNOT chose from купный	 to 	ручный, рудный, скудный, сурный, судный, зубный, нужный, уный, косный, чудный, тучный, умный	 distance == 2
+CANNOT chose from влещи	 to 	врещи, лещи, взлещи, влечи, вжещи	 distance == 1
+CANNOT chose from еуфимия	 to 	еуфимий, евфимия	 distance == 1
+CANNOT chose from алонъ	 to 	слонъ, аронъ	 distance == 1
+CANNOT chose from тѣсность	 to 	ревность, тѣснота, лѣность, бѣдность	 distance == 2
+CANNOT chose from куща	 to 	пуща, гуща, купа, куна	 distance == 1
+CANNOT chose from лѣтний	 to 	лишний, лестный, ветхий, лѣпкий, летский, клѣтный, легкий	 distance == 2
+CANNOT chose from отолстѣти	 to 	отомстити, оболстити	 distance == 2
+CANNOT chose from тиунити	 to 	чинити, трудити, тѣснити, винити, тынити, тужити	 distance == 2
+CANNOT chose from галъ	 to 	калъ, малъ, гадъ, валъ	 distance == 1
+CANNOT chose from пригорѣние	 to 	прихожение, примирение, приношение	 distance == 2
+CANNOT chose from укусати	 to 	укусити, кусати	 distance == 1
+CANNOT chose from ратша	 to 	раба, татба, путша, каша, рана, рота, фата, паша, ратаи, рака, рша, латка, лапша, чаша, врата, рать	 distance == 2
+CANNOT chose from розгнѣвити	 to 	разгнѣвати, прогнѣвити	 distance == 2
+CANNOT chose from влага	 to 	волга, волога	 distance == 2
+CANNOT chose from прозябнути	 to 	протянути, озябнути	 distance == 2
+CANNOT chose from тлещи	 to 	тещи, лещи	 distance == 1
+CANNOT chose from усушити	 to 	исушити, сушити	 distance == 1
+CANNOT chose from мѣнити	 to 	мѣсити, лѣнити, мѣрити, манити, мнити, вмѣнити	 distance == 1
+CANNOT chose from протесати	 to 	пробѣжати, провести, прорѣзати, пронести, прочести, проѣхати	 distance == 2
+CANNOT chose from излѣчити	 to 	измочити, измѣнити, изучити, излазити, излити, извѣсити, излѣзти	 distance == 2
+CANNOT chose from отлетѣти	 to 	летѣти, полетѣти	 distance == 2
+CANNOT chose from высость	 to 	высота, волость	 distance == 2
+CANNOT chose from сивый	 to 	живый, сирый	 distance == 1
+CANNOT chose from выступати	 to 	вступати, выступити	 distance == 1
+CANNOT chose from тийсъ	 to 	тиунъ, трусъ, лисъ	 distance == 2
+CANNOT chose from дира	 to 	дора, диръ	 distance == 1
+CANNOT chose from руфъ	 to 	руже, руно, русь	 distance == 2
+CANNOT chose from ярди	 to 	орда, миди, ядъ, ядь, ереи, раи, рѣи, краи, инди, ясли	 distance == 2
+CANNOT chose from изблудити	 to 	взбудити, отблудити, избродити, сблудити, блудити	 distance == 2
+CANNOT chose from мостокъ	 to 	встокъ, истокъ, мостъ	 distance == 2
+CANNOT chose from амазанский	 to 	агаранский, арабанский, казанский	 distance == 2
+CANNOT chose from скверникъ	 to 	суперникъ, свѣтникъ	 distance == 2
+CANNOT chose from заграда	 to 	засада, ограда	 distance == 2
+CANNOT chose from дрѣмание	 to 	рѣзание, урѣкание, дѣлание, прѣдание	 distance == 2
+CANNOT chose from попяти	 to 	потяти, поняти, подяти, пояти	 distance == 1
+CANNOT chose from свивати	 to 	сбивати, сливати, свитати	 distance == 1
+CANNOT chose from ѣмнець	 to 	вѣнець, агнець, унець, нѣмець, конець, единець, гонець, чернець	 distance == 2
+CANNOT chose from родство	 to 	юродство, уродство	 distance == 1
+CANNOT chose from дощка	 to 	дощечка, дска	 distance == 2
+CANNOT chose from иулиадъ	 to 	иулиянъ, улианъ	 distance == 2
+CANNOT chose from омракъ	 to 	фракъ, зракъ, бракъ, мразъ, макъ	 distance == 2
+CANNOT chose from флоръ	 to 	федоръ, фуръ	 distance == 2
+CANNOT chose from елки	 to 	туки, егри, ереи, дѣтки, шелкъ, бѣлка, буки, церки, щелка	 distance == 2
+CANNOT chose from стадный	 to 	стыдный, студный	 distance == 1
+CANNOT chose from кнея	 to 	коря, ксеня	 distance == 2
+CANNOT chose from небылый	 to 	дебелый, несытый	 distance == 2
+CANNOT chose from выристати	 to 	ристати, взрастати, пристати, вычистити	 distance == 2
+CANNOT chose from упои	 to 	супои, убои	 distance == 1
+CANNOT chose from лаконъ	 to 	лакотъ, ладонъ, законъ	 distance == 1
+CANNOT chose from изволочи	 to 	изволити, выволочи, разволочи, изволочити, заволочи, сволочи	 distance == 2
+CANNOT chose from зинонъ	 to 	канонъ, лимонъ, пинокъ, зиновя, звонъ, симонъ, инокъ, сионъ, никонъ, законъ	 distance == 2
+CANNOT chose from гаида	 to 	обида, таина, гриба, гридь, глина, гадира, галица, галка, груда, жажда, гадъ	 distance == 2
+CANNOT chose from довести	 to 	донести, повести	 distance == 1
+CANNOT chose from улита	 to 	улица, плита	 distance == 1
+CANNOT chose from ероовъ	 to 	иродовъ, етоновъ, еноховъ, берновъ, кротовъ	 distance == 2
+CANNOT chose from волынский	 to 	волошский, воинский	 distance == 2
+CANNOT chose from дробити	 to 	пробити, добити, робити	 distance == 1
+CANNOT chose from бѣлець	 to 	палець, селедь, вѣнець, лѣчець, пѣшець, пѣвець, нѣмець, талець, зелень, бедерь, сѣчець	 distance == 2
+CANNOT chose from лѣчба	 to 	сѣча, лѣна, мечта, луча, верба, цѣлба, рѣчка	 distance == 2
+CANNOT chose from иудѣи	 to 	фудри, луеи, иереи, инди	 distance == 2
+CANNOT chose from уаръ	 to 	даръ, ларъ, харъ, ударъ	 distance == 1
+CANNOT chose from выйти	 to 	выйдти, выти	 distance == 1
+CANNOT chose from скривити	 to 	скрушити, скроити, скрутити, скрывати, сдравити	 distance == 2
+CANNOT chose from риксъ	 to 	крикъ, лисъ, ликъ, римъ	 distance == 2
+CANNOT chose from сосница	 to 	солоница, десница	 distance == 2
+CANNOT chose from ражещи	 to 	ражечи, зажещи, раждещи	 distance == 1
+CANNOT chose from иудѣя	 to 	судия, ездѣя, индия	 distance == 2
+CANNOT chose from снѣтный	 to 	свѣтный, снѣдный	 distance == 1
+CANNOT chose from быковый	 to 	соковый, каковый, таковый, сяковый	 distance == 2
+CANNOT chose from злумие	 to 	лубие, злобие	 distance == 2
+CANNOT chose from обѣчати	 to 	обѣдати, облѣчати, обѣщати	 distance == 1
+CANNOT chose from ломъ	 to 	домъ, ловъ, лобъ, лотъ	 distance == 1
+CANNOT chose from исади	 to 	сани, исавъ, исаия, исакъ, исакий, садъ, инди	 distance == 2
+CANNOT chose from тина	 to 	тиуна, таина	 distance == 1
+CANNOT chose from песный	 to 	пещный, десный	 distance == 1
+CANNOT chose from исцѣлѣти	 to 	исцѣляти, исцѣлити	 distance == 1
+CANNOT chose from чтець	 to 	лтець, штець, отець	 distance == 1
+CANNOT chose from учанъ	 to 	уланъ, тчанъ	 distance == 1
+CANNOT chose from пленный	 to 	плотный, полезный	 distance == 2
+CANNOT chose from пламенный	 to 	знаменный, каменный, плачевный	 distance == 2
+CANNOT chose from ватага	 to 	катарга, сатана	 distance == 2
+CANNOT chose from чухома	 to 	мурома, сухота	 distance == 2
+CANNOT chose from звяцати	 to 	звати, вязати, увязати, связати, свящати	 distance == 2
+CANNOT chose from липа	 to 	сила, аепа, жила, вина, лжица, лисъ, длина, луда, мина, запа, улица, либь, шляпа, папа, глина, лука, лѣна, лихва, риза, плита, луча, хижа, лжа, нива, лице, ликъ, рѣпа, лия, лапша, щпа, пища, луга, купа, рига, литва, слива, литра, зима, вира, лоза, луна	 distance == 2
+CANNOT chose from схолия	 to 	софия, ролия	 distance == 2
+CANNOT chose from грива	 to 	гриба, гривна	 distance == 1
+CANNOT chose from пожерти	 to 	пожити, пожрѣти, померети, пожати	 distance == 2
+CANNOT chose from излагати	 to 	низлагати, взлагати	 distance == 1
+CANNOT chose from скалуша	 to 	скала, малуша	 distance == 2
+CANNOT chose from обнизити	 to 	обинити, обнищати, обновити, обличити, облизати, обнажити, обвинити	 distance == 2
+CANNOT chose from шеловъ	 to 	шелепъ, шевъ, ловъ, кловъ, шелкъ, уловъ	 distance == 2
+CANNOT chose from рослажати	 to 	досажати, роскачати, прохлажати, наслажати, посажати	 distance == 2
+CANNOT chose from мжити	 to 	ожити, мнити, жити	 distance == 1
+CANNOT chose from сбѣгнути	 to 	вбѣгнути, бѣгнути	 distance == 1
+CANNOT chose from отвѣдати	 to 	отвѣчати, отвѣщати	 distance == 1
+CANNOT chose from увядати	 to 	увѣдати, увязати	 distance == 1
+CANNOT chose from лудъ	 to 	ледъ, луда, ладъ	 distance == 1
+CANNOT chose from июдѣи	 to 	иереи, июда, инди	 distance == 2
+CANNOT chose from ислѣдити	 to 	слѣпити, усладити, исходити, наслѣдити, исцѣлити, ослѣпити	 distance == 2
+CANNOT chose from сглашение	 to 	сгражение, сгрѣшение, страшение	 distance == 2
+CANNOT chose from обучати	 to 	учати, поучати	 distance == 2
+CANNOT chose from лучинъ	 to 	чинъ, пучина, усчинъ, лубенъ, лучанинъ, лукянъ, лучъ, шуринъ, логинъ, людинъ, чудинъ, русинъ	 distance == 2
+CANNOT chose from опроврещи	 to 	поврѣщи, испроврѣщи, приврѣщи	 distance == 2
+CANNOT chose from рушанинъ	 to 	лучанинъ, рижанинъ	 distance == 2
+CANNOT chose from бучание	 to 	мучение, бужане, ругание, учение	 distance == 2
+CANNOT chose from усрѣтение	 to 	стрѣтение, свѣтѣние	 distance == 2
+CANNOT chose from бумага	 to 	смага, брага	 distance == 2
+CANNOT chose from торжекъ	 to 	торжникъ, горшекъ, мозжекъ	 distance == 2
+CANNOT chose from дание	 to 	дань, данъ	 distance == 2
+CANNOT chose from богша	 to 	богъ, борба, нога, полша, бочка	 distance == 2
+CANNOT chose from лахана	 to 	латина, сатана, лаванъ, ладанъ	 distance == 2
+CANNOT chose from кликание	 to 	сливание, кричание, плакание, алкание	 distance == 2
+CANNOT chose from прирѣзъ	 to 	приказъ, приѣздъ, привѣтъ, прирокъ, привозъ	 distance == 2
+CANNOT chose from древяный	 to 	дровяный, деревяный	 distance == 1
+CANNOT chose from измѣрити	 to 	измѣнити, взмѣрити	 distance == 1
+CANNOT chose from бещиние	 to 	бесчиние, вещание, обѣщание	 distance == 2
+CANNOT chose from сматряти	 to 	смотрѣти, смиряти, смѣряти, умаряти	 distance == 2
+CANNOT chose from полтовескъ	 to 	полотескъ, полтескъ	 distance == 2
+CANNOT chose from теплица	 to 	келица, темница	 distance == 2
+CANNOT chose from глѣбовый	 to 	глѣбовъ, лѣсовый	 distance == 2
+CANNOT chose from обисѣсти	 to 	осѣсти, обрѣсти, обидѣти	 distance == 2
+CANNOT chose from поползнути	 to 	поползти, пополнити	 distance == 2
+CANNOT chose from чумъ	 to 	умъ, шумъ	 distance == 1
+CANNOT chose from гудити	 to 	судити, будити, губити, чудити, нудити	 distance == 1
+CANNOT chose from поразумѣти	 to 	разумѣти, уразумѣти	 distance == 2
+CANNOT chose from владѣние	 to 	видѣние, блюдение, падение, варение	 distance == 2
+CANNOT chose from лестковый	 to 	ласковый, лѣсовый	 distance == 2
+CANNOT chose from влѣсти	 to 	всѣсти, влѣзти	 distance == 1
+CANNOT chose from забвение	 to 	заговѣние, затмение, заушение, застѣние	 distance == 2
+CANNOT chose from бровный	 to 	ровный, кровный	 distance == 1
+CANNOT chose from разрѣшати	 to 	раздрѣшити, разрушити, разѣвати	 distance == 2
+CANNOT chose from кобудъ	 to 	обѣдъ, кобъ, клобукъ	 distance == 2
+CANNOT chose from клостати	 to 	постати, остати, достати, хвостати, глотати, блистати	 distance == 2
+CANNOT chose from уша	 to 	уза, душа, суша, уха, рша	 distance == 1
+CANNOT chose from унизити	 to 	ушибити, изити, умирити, удивити, учинити, унимати, умилити	 distance == 2
+CANNOT chose from арсиноя	 to 	аксиня, асиня	 distance == 2
+CANNOT chose from мемнонъ	 to 	дѣмонъ, семеонъ, меронъ	 distance == 2
+CANNOT chose from питба	 to 	питие, татба, пытка, путша, притча, потка, плита, пища, изба, литва, пята, литра, нитка	 distance == 2
+CANNOT chose from нерадити	 to 	отрадити, оградити, радити	 distance == 2
+CANNOT chose from трѣскание	 to 	урѣкание, плескание	 distance == 2
+CANNOT chose from вимофъ	 to 	лимонъ, римовъ, симонъ, видокъ	 distance == 2
+CANNOT chose from маронъ	 to 	маринъ, меронъ	 distance == 1
+CANNOT chose from огорнути	 to 	огорчати, обогнути	 distance == 2
+CANNOT chose from понизити	 to 	починити, подивити, поразити, понудити, повинити, помирити, поносити, похитити	 distance == 2
+CANNOT chose from напросити	 to 	попросити, упросити, отпросити, направити, впросити, наносити, просити, наплонити, спросити, напоити, наровити, испросити	 distance == 2
+CANNOT chose from побѣгивати	 to 	побивати, побѣгати	 distance == 2
+CANNOT chose from всияние	 to 	влияние, сияние	 distance == 1
+CANNOT chose from мрети	 to 	мѣти, грети	 distance == 1
+CANNOT chose from рикание	 to 	писание, рѣзание, урѣкание, кричание, рыдание, алкание, ругание, зидание	 distance == 2
+CANNOT chose from уклюдити	 to 	уклонити, ключити, усладити, уладити, сключити, укладати	 distance == 2
+CANNOT chose from сидонъ	 to 	симонъ, сионъ	 distance == 1
+CANNOT chose from роздавати	 to 	роздавити, раздавати	 distance == 1
+CANNOT chose from герионъ	 to 	ларионъ, неронъ, гедеонъ, германъ, меронъ	 distance == 2
+CANNOT chose from ивла	 to 	сила, жила, евга, зола, хула, игра, икра, овца, висла, июда, нива, сула, бѣла, изба, хвала	 distance == 2
+CANNOT chose from зажжение	 to 	сажение, затмение, разжжение, заушение, застѣние, кажение, ожжение	 distance == 2
+CANNOT chose from вечерие	 to 	вечеръ, вечеря	 distance == 2
+CANNOT chose from ослѣпляти	 to 	оцѣпляти, ослѣпити, ослабляти	 distance == 2
+CANNOT chose from няти	 to 	наяти, уняти	 distance == 1
+CANNOT chose from дорида	 to 	орда, обида, дория, борода, досада, орина, дора, дорога, солида, порода	 distance == 2
+CANNOT chose from оттрясти	 to 	потрясти, трясти	 distance == 2
+CANNOT chose from томление	 to 	отомщение, моление	 distance == 2
+CANNOT chose from кожий	 to 	кий, кчий	 distance == 2
+CANNOT chose from догнати	 to 	вогнати, согнати, погнати	 distance == 1
+CANNOT chose from канинъ	 to 	канонъ, канунъ	 distance == 1
+CANNOT chose from исказити	 to 	искатати, сказати, искусити, испалити, сразити, искупити, излазити, искочити, казити, иставити, искати, исчазати	 distance == 2
+CANNOT chose from дѣтиный	 to 	жениный, доиный, аепиный, десный, утиный	 distance == 2
+CANNOT chose from вѣтвие	 to 	шствие, вѣте, пѣтие	 distance == 2
+CANNOT chose from женень	 to 	дѣдень, сѣмень	 distance == 2
+CANNOT chose from притужати	 to 	приступати, прибѣжати, прижати, прилежати, приѣзжати, прикупати, пружати, пригожати	 distance == 2
+CANNOT chose from иуилъ	 to 	идолъ, кирилъ, курилъ	 distance == 2
+CANNOT chose from корѣинъ	 to 	торчинъ, корень	 distance == 2
+CANNOT chose from вырискати	 to 	вытаскати, взискати	 distance == 2
+CANNOT chose from усмотрити	 to 	уморити, расмотрити, смотрѣти, осмотрѣти, ускорити	 distance == 2
+CANNOT chose from антифонъ	 to 	антонъ, антиохъ	 distance == 2
+CANNOT chose from присягнути	 to 	прибѣгнути, пристигнути	 distance == 2
+CANNOT chose from менфи	 to 	сѣни, меоти	 distance == 2
+CANNOT chose from колзкий	 to 	колский, коликий	 distance == 1
+CANNOT chose from дафанъ	 to 	дамианъ, дамасъ, казанъ, саванъ, данъ, кафтанъ, асанъ, каганъ, кафаръ, кабанъ, аранъ, баранъ, заганъ, лаванъ, ладанъ, таганъ	 distance == 2
+CANNOT chose from пренести	 to 	пронести, перенести	 distance == 1
+CANNOT chose from трубечь	 to 	трубежь, трубешь	 distance == 1
+CANNOT chose from сочба	 to 	сосна, роба, судба, борба, сѣча, соска, молба, сочко, почка, бочка	 distance == 2
+CANNOT chose from мясникъ	 to 	мостникъ, мѣрникъ, мечникъ, мытникъ, местникъ	 distance == 2
+CANNOT chose from наворотити	 to 	взворотити, наколотити, наволочити, воротити	 distance == 2
+CANNOT chose from расудъ	 to 	ссудъ, судъ, асмудъ, асуръ, асупъ, насадъ, разумъ	 distance == 2
+CANNOT chose from вымолити	 to 	выложити, выносити, выползти, вывалити, умолити, помолити, молити, выходити	 distance == 2
+CANNOT chose from облачити	 to 	обличити, облачати	 distance == 1
+CANNOT chose from наталия	 to 	камалия, италия	 distance == 2
+CANNOT chose from алта	 to 	аепа, сыта, рота, фата, лто, анна, мста, нарта, палка, плита, лжа, фота, башта, галка, пята, тафта, уста, олга	 distance == 2
+CANNOT chose from локна	 to 	лѣна, луна	 distance == 2
+CANNOT chose from нута	 to 	нура, нужа	 distance == 1
+CANNOT chose from поджещи	 to 	пожещи, подтещи	 distance == 1
+CANNOT chose from поводь	 to 	оводъ, походъ, повозъ	 distance == 2
+CANNOT chose from драчи	 to 	врачь, раи, дача, краи, дчи	 distance == 2
+CANNOT chose from дхновение	 to 	мгновение, мановение	 distance == 2
+CANNOT chose from поводъ	 to 	оводъ, походъ, повозъ	 distance == 1
+CANNOT chose from полѣсти	 to 	посѣсти, плести, полѣзти, повѣсти	 distance == 1
+CANNOT chose from вслати	 to 	выслати, всылати	 distance == 1
+CANNOT chose from побости	 to 	порости, пробости	 distance == 1
+CANNOT chose from лѣчити	 to 	лѣнити, лучити	 distance == 1
+CANNOT chose from лозина	 to 	година, латина, орина, конина, козлина, логинъ, воина, гобина, лысина, лоза	 distance == 2
+CANNOT chose from кузнь	 to 	казнь, кознь	 distance == 1
+CANNOT chose from адидъ	 to 	радимъ, адамъ, жидъ, диръ, асиръ, видъ, адъ, дѣдъ	 distance == 2
+CANNOT chose from блато	 to 	благо, злато	 distance == 1
+CANNOT chose from исаий	 to 	исаия, исакий	 distance == 1
+CANNOT chose from лѣяти	 to 	дѣяти, лаяти, лѣзти, сѣяти, лияти	 distance == 1
+CANNOT chose from уклюнути	 to 	укланяти, уклонити, плюнути	 distance == 2
+CANNOT chose from тировати	 to 	торговати, даровати, зимовати, дивовати, вѣровати, чаровати, миновати, лиховати, воровати, миловати	 distance == 2
+CANNOT chose from охлотъ	 to 	полотъ, плотъ, лотъ	 distance == 2
+CANNOT chose from батый	 to 	тый, батко	 distance == 2
+CANNOT chose from улавчий	 to 	славлий, флавий	 distance == 2
+CANNOT chose from накапити	 to 	накапати, накопити	 distance == 1
+CANNOT chose from грязнути	 to 	грязнити, угрязнути	 distance == 1
+CANNOT chose from перский	 to 	пермский, персский	 distance == 1
+CANNOT chose from кокъ	 to 	ковъ, кобъ, бокъ, колъ, сокъ	 distance == 1
+CANNOT chose from прикровъ	 to 	покровъ, прирокъ	 distance == 2
+CANNOT chose from зачерсти	 to 	завести, заперети, замерзти	 distance == 2
+CANNOT chose from шити	 to 	сити, сшити, уити, пити, лити, жити, бити, вити	 distance == 1
+CANNOT chose from ткнути	 to 	тонути, тянути	 distance == 1
+CANNOT chose from сврабъ	 to 	струбъ, рабъ, смрадъ, срамъ, аврамъ, страхъ, сваръ, врагъ, вранъ	 distance == 2
+CANNOT chose from скрячи	 to 	впрячи, скрыти, стричи	 distance == 2
+CANNOT chose from морокъ	 to 	порокъ, морозъ	 distance == 1
+CANNOT chose from изливати	 to 	взливати, избивати	 distance == 1
+CANNOT chose from посѣчи	 to 	посѣщи, росѣчи, просѣчи, осѣчи	 distance == 1
+CANNOT chose from ринъ	 to 	чинъ, римъ	 distance == 1
+CANNOT chose from посинение	 to 	посѣчение, посѣщение	 distance == 2
+CANNOT chose from желчь	 to 	жердь, зель, рель, печь, жерць, рѣчь, желудь, щель, елычь, жаль, мѣль, мечь	 distance == 2
+CANNOT chose from сдѣяние	 to 	дѣяние, одѣяние	 distance == 1
+CANNOT chose from высити	 to 	выпити, выбити, вѣсити	 distance == 1
+CANNOT chose from частити	 to 	участити, честити	 distance == 1
+CANNOT chose from язычный	 to 	лычный, ячный, обычный	 distance == 2
+CANNOT chose from тетка	 to 	котка, потка, утка	 distance == 2
+CANNOT chose from игрець	 to 	корець, агнець, огурець, изгрѣбь, истець, ларець	 distance == 2
+CANNOT chose from погинути	 to 	починути, погибнути, покинути	 distance == 1
+CANNOT chose from потягати	 to 	поторгати, тягати	 distance == 2
+CANNOT chose from превѣчный	 to 	привѣтный, праведный, бревенный, пѣсечный	 distance == 2
+CANNOT chose from осмникъ	 to 	постникъ, отѣникъ, мостникъ	 distance == 2
+CANNOT chose from росникъ	 to 	постникъ, мостникъ, конникъ, сотникъ, ружникъ, сродникъ, ратникъ	 distance == 2
+CANNOT chose from кудимъ	 to 	пудикъ, кудма, радимъ, рувимъ, кумиръ, чудинъ, курилъ	 distance == 2
+CANNOT chose from похотный	 to 	плотный, портный, постный	 distance == 2
+CANNOT chose from выдавити	 to 	выдаяти, выпарити, подавити, задавити, вдавати, вытащити, вывалити, высадити, вставити, давити, вылазити, вдарити, выдати, удавити	 distance == 2
+CANNOT chose from вспяти	 to 	всияти, вспѣти	 distance == 1
+CANNOT chose from трисвятый	 to 	триклятый, прѣсвятый	 distance == 2
+CANNOT chose from обидникъ	 to 	побѣдникъ, обещникъ	 distance == 2
+CANNOT chose from карити	 to 	курити, корити	 distance == 1
+CANNOT chose from братанъ	 to 	братина, братъ, братръ, баранъ, фрутанъ, батманъ	 distance == 2
+CANNOT chose from деснець	 to 	вѣнець, десница, чернець	 distance == 2
+CANNOT chose from трѣскати	 to 	таскати, трепати, стрѣкати, трѣснути, прѣсѣкати, рыскати, прѣстати	 distance == 2
+CANNOT chose from нилъ	 to 	било, нить, гниль	 distance == 2
+CANNOT chose from тѣльный	 to 	тѣлесный, тѣсный	 distance == 2
+CANNOT chose from сряща	 to 	срѣда, свѣща	 distance == 2
+CANNOT chose from ниций	 to 	сиций, нищий	 distance == 1
+CANNOT chose from трети	 to 	отрѣти, тети, грети	 distance == 1
+CANNOT chose from бенешь	 to 	вѣнець, бендерь, бедерь	 distance == 2
+CANNOT chose from обавляти	 to 	оправляти, ставляти, оставляти, избавляти, опаляти, обавити	 distance == 2
+CANNOT chose from истлѣвати	 to 	исцѣлѣвати, истекати, склевати	 distance == 2
+CANNOT chose from убранити	 to 	обранити, бранити	 distance == 1
+CANNOT chose from отрочий	 to 	отчий, прочий	 distance == 2
+CANNOT chose from мудрокъ	 to 	судокъ, урокъ, муромъ, гудокъ, курокъ, медокъ	 distance == 2
+CANNOT chose from устя	 to 	усть, уста, усте	 distance == 1
+CANNOT chose from подняти	 to 	подаяти, подтяти, подѣяти, поняти, подяти	 distance == 1
+CANNOT chose from лысый	 to 	лычный, лисий, сырый, лѣпый, лютый, босый, лѣвый, сытый, любый	 distance == 2
+CANNOT chose from влещи	 to 	врещи, лещи, взлещи, влечи, вжещи	 distance == 1
+CANNOT chose from тснути	 to 	тонути, тянути, уснути	 distance == 1
+CANNOT chose from арфасъ	 to 	атласъ, аранъ	 distance == 2
+CANNOT chose from дерзый	 to 	сѣрый, черный, мерзлый, вѣрный, десный	 distance == 2
+CANNOT chose from скорость	 to 	старость, скудость, користь	 distance == 2
+CANNOT chose from взлѣгати	 to 	взлогати, взлагати	 distance == 1
+CANNOT chose from порушити	 to 	посушити, поручити	 distance == 1
+CANNOT chose from несда	 to 	нужда, нерча, бѣда, нерпа, весна, десна, бесѣда, неука	 distance == 2
+CANNOT chose from мухание	 to 	метание, мучение, ругание, дыхание	 distance == 2
+CANNOT chose from прехождение	 to 	преложение, прихожение	 distance == 2
+CANNOT chose from предание	 to 	рѣзание, урѣкание, рыдание, сѣдание, обѣдание	 distance == 2
+CANNOT chose from уламляти	 to 	умаляти, срамляти, удаляти	 distance == 2
+CANNOT chose from лѣсный	 to 	бѣсный, тѣсный	 distance == 1
+CANNOT chose from лупъ	 to 	лукъ, лучъ, пупъ, лугъ, лубъ	 distance == 1
+CANNOT chose from фаа	 to 	фата, фара	 distance == 1
+CANNOT chose from ужещи	 to 	ижещи, ожещи	 distance == 1
+CANNOT chose from поринути	 to 	починути, покинути	 distance == 1
+CANNOT chose from мокрота	 to 	ворота, доброта	 distance == 2
+CANNOT chose from мракъ	 to 	фракъ, зракъ, бракъ, мразъ, макъ	 distance == 1
+CANNOT chose from ласковъ	 to 	фастовъ, ласковый	 distance == 2
+CANNOT chose from вмѣтати	 to 	омѣтати, вмѣщати	 distance == 1
+CANNOT chose from кубокъ	 to 	кусокъ, курокъ	 distance == 1
+CANNOT chose from олкса	 to 	олена, полка, голка, ока, олга	 distance == 2
+CANNOT chose from вышко	 to 	вѣчко, ляшко, вѣко, вятко, лыко	 distance == 2
+CANNOT chose from обложити	 to 	обломити, отложити	 distance == 1
+CANNOT chose from небожный	 to 	небесный, нероженый	 distance == 2
+CANNOT chose from курикъ	 to 	крикъ, курокъ	 distance == 1
+CANNOT chose from гнѣдый	 to 	гордый, нѣмый, гнилый, снѣдный	 distance == 2
+CANNOT chose from благоволение	 to 	благовѣщение, благоговѣние	 distance == 2
+CANNOT chose from учестити	 to 	участити, честити	 distance == 1
+CANNOT chose from предирещи	 to 	прѣдтещи, прѣдречи	 distance == 2
+CANNOT chose from прелщение	 to 	прощение, преложение	 distance == 2
+CANNOT chose from ражагати	 to 	налагати, разжигати, зажигати, ражати	 distance == 2
+CANNOT chose from актаи	 to 	ратаи, краи	 distance == 2
+CANNOT chose from погребение	 to 	потрѣбление, поврѣжение	 distance == 2
+CANNOT chose from худший	 to 	унший, худый	 distance == 2
+CANNOT chose from завѣщати	 to 	извѣщати, завести, заметати, заѣхати, засѣкати, затрещати, вѣщати, задѣлати, зарѣзати, свѣщати, взвѣщати, увѣщати, запрѣщати, отвѣщати	 distance == 2
+CANNOT chose from изгонъ	 to 	иргенъ, изгои	 distance == 2
+CANNOT chose from расылати	 to 	рассылати, расыпати	 distance == 1
+CANNOT chose from отишие	 to 	обилие, олшие	 distance == 2
+CANNOT chose from плава	 to 	плаха, глава, слава	 distance == 1
+CANNOT chose from лѣпъ	 to 	лѣпѣи, лѣпый	 distance == 2
+CANNOT chose from ржевский	 to 	женский, киевский	 distance == 2
+CANNOT chose from сверстникъ	 to 	вѣстникъ, свѣтникъ	 distance == 2
+CANNOT chose from анановъ	 to 	ивановъ, амоновъ, адамовъ	 distance == 2
+CANNOT chose from санокъ	 to 	останокъ, санъ, саукъ	 distance == 2
+CANNOT chose from орловъ	 to 	олговъ, пословъ	 distance == 2
+CANNOT chose from внутрений	 to 	утрений, вѣтрений, нутреный, заутрений	 distance == 2
+CANNOT chose from ахавъ	 to 	исавъ, нравъ, асатъ, асанъ, адамъ, сахаръ, харъ, хамъ, аранъ, ханъ	 distance == 2
+CANNOT chose from лстець	 to 	лтець, истець	 distance == 1
+CANNOT chose from обискати	 to 	доискати, сискати, поискати, искати	 distance == 2
+CANNOT chose from кюриякъ	 to 	крикъ, рюрикъ	 distance == 2
+CANNOT chose from сжечи	 to 	сѣчи, сжещи, слечи, стечи, жечи	 distance == 1
+CANNOT chose from тури	 to 	туры, туръ	 distance == 1
+CANNOT chose from преходити	 to 	проходити, переходити	 distance == 1
+CANNOT chose from рубежь	 to 	трубежь, рубець	 distance == 1
+CANNOT chose from мозырь	 to 	пузырь, мозоль	 distance == 2
+CANNOT chose from притяжати	 to 	прибѣжати, прижати, прилежати, привязати, приѣзжати, пригожати	 distance == 2
+CANNOT chose from сомино	 to 	сочиво, гобино	 distance == 2
+CANNOT chose from стлещи	 to 	стрѣщи, свлѣщи	 distance == 1
+CANNOT chose from маври	 to 	мати, мария, маи, мамврий	 distance == 2
+CANNOT chose from мегльный	 to 	хмельный, земльный, тельный	 distance == 2
+CANNOT chose from наставление	 to 	направление, уставление, поставление, оставление	 distance == 2
+CANNOT chose from вихоръ	 to 	взоръ, воръ, иворъ, нахоръ, риторъ, видокъ	 distance == 2
+CANNOT chose from поспѣшение	 to 	посѣчение, посѣщение, потѣшение, послушение, попечение	 distance == 2
+CANNOT chose from горний	 to 	горий, горкий, горший	 distance == 1
+CANNOT chose from премножение	 to 	прѣдложение, преложение	 distance == 2
+CANNOT chose from лакония	 to 	ликаония, панония	 distance == 2
+CANNOT chose from класный	 to 	квасный, красный	 distance == 1
+CANNOT chose from воигость	 to 	волость, погость	 distance == 2
+CANNOT chose from ошелъ	 to 	оселъ, орелъ	 distance == 1
+CANNOT chose from фругий	 to 	фригия, вручий	 distance == 2
+CANNOT chose from коломна	 to 	колода, коломанъ, солома, соломка	 distance == 2
+CANNOT chose from чпагъ	 to 	часъ, спасъ, врагъ, шпага	 distance == 2
+CANNOT chose from шатерный	 to 	татебный, матерний, матерны	 distance == 2
+CANNOT chose from насылати	 to 	насыпати, насыщати	 distance == 1
+CANNOT chose from подостояти	 to 	достояти, постояти, простояти	 distance == 2
+CANNOT chose from горка	 to 	голка, гора	 distance == 1
+CANNOT chose from стражба	 to 	страна, стражь	 distance == 2
+CANNOT chose from сечь	 to 	семь, печь, мечь	 distance == 1
+CANNOT chose from далство	 to 	дѣиство, дѣтство, дѣвство	 distance == 2
+CANNOT chose from ефудъ	 to 	судъ, удъ, пудъ, фуръ	 distance == 2
+CANNOT chose from попадати	 to 	пропадати, попахати	 distance == 1
+CANNOT chose from ищазати	 to 	сказати, мазати, указати, казати, исчазати	 distance == 2
+CANNOT chose from любный	 to 	людный, любый	 distance == 1
+CANNOT chose from розгрети	 to 	созрѣти, дозрѣти, разгорѣти, возрѣти, розбрати, прозрѣти, позрѣти	 distance == 2
+CANNOT chose from вспустити	 to 	выпустити, впустити, спустити, испустити	 distance == 1
+CANNOT chose from суровъ	 to 	турдовъ, гудовъ, симовъ, сифовъ, дировъ, чудовъ, суровый, бутовъ, исусовъ	 distance == 2
+CANNOT chose from вѣрование	 to 	чарование, бѣсование, цѣлование, дарование, сѣтование	 distance == 2
+CANNOT chose from гийкъ	 to 	грекъ, ликъ, пискъ, диякъ	 distance == 2
+CANNOT chose from празный	 to 	разный, праздный	 distance == 1
+CANNOT chose from ступание	 to 	спание, стяжание, стонание, стенание	 distance == 2
+CANNOT chose from блщание	 to 	обѣщание, блевание	 distance == 2
+CANNOT chose from злодѣяти	 to 	подѣяти, одѣяти	 distance == 2
+CANNOT chose from учредити	 to 	утрудити, прѣдити, врѣдити, предити, урядити, укрѣпити, вередити	 distance == 2
+CANNOT chose from поводити	 to 	проводити, доводити, породити, походити	 distance == 1
+CANNOT chose from вывлачити	 to 	влачити, вывалити, вылазити	 distance == 2
+CANNOT chose from харитонъ	 to 	ларионъ, хараонъ	 distance == 2
+CANNOT chose from случь	 to 	лучъ, слухъ, селунь	 distance == 2
+CANNOT chose from учрежение	 to 	брежение, уряжение	 distance == 2
+CANNOT chose from плѣшь	 to 	плѣнь, плѣщь	 distance == 1
+CANNOT chose from смотрение	 to 	смѣрение, смирение, стрение	 distance == 2
+CANNOT chose from клектати	 to 	клеветати, блекотати	 distance == 2
+CANNOT chose from попорникъ	 to 	полонникъ, покоиникъ, помощникъ, повозникъ	 distance == 2
+CANNOT chose from трубити	 to 	срубити, рубити, трудити, трѣбити	 distance == 1
+CANNOT chose from лубяный	 to 	льняный, зубный, лукиный	 distance == 2
+CANNOT chose from низина	 to 	натина, тишина, никита, ирина, ширина	 distance == 2
+CANNOT chose from прострищи	 to 	простити, ростричи, прострѣти, пострѣщи, острищи, постричи	 distance == 2
+CANNOT chose from арсений	 to 	армения, иргений	 distance == 2
+CANNOT chose from козичина	 to 	кончина, козлина	 distance == 2
+CANNOT chose from чуръ	 to 	туръ, куръ, фуръ	 distance == 1
+CANNOT chose from упатъ	 to 	указъ, ужасъ, платъ, купанъ, братъ, асатъ, шпотъ, уланъ, спасъ, кратъ, ударъ, потъ, булатъ	 distance == 2
+CANNOT chose from птичь	 to 	плищь, прѣтичь, птица, печь, плачь, кличь	 distance == 2
+CANNOT chose from издолбити	 to 	изволити, издоити	 distance == 2
+CANNOT chose from обияти	 to 	обуяти, обяти, обити	 distance == 1
+CANNOT chose from властитель	 to 	властель, блюститель	 distance == 2
+CANNOT chose from вишлий	 to 	иулий, тилий, гилий	 distance == 2
+CANNOT chose from ввозъ	 to 	увозъ, возъ	 distance == 1
+CANNOT chose from ручечникъ	 to 	ученикъ, мученикъ	 distance == 2
+CANNOT chose from козлянинъ	 to 	колязинъ, полянинъ	 distance == 2
+CANNOT chose from вондъ	 to 	оводъ, воня, вождь, видъ	 distance == 2
+CANNOT chose from бисеръ	 to 	бсиръ, истръ	 distance == 2
+CANNOT chose from закалание	 to 	заколение, наказание, закихание	 distance == 2
+CANNOT chose from домовникъ	 to 	духовникъ, головникъ, помощникъ, доложникъ	 distance == 2
+CANNOT chose from понукнути	 to 	посякнути, поткнути	 distance == 2
+CANNOT chose from угашение	 to 	утаение, украшение, ударение, утѣшение, квашение	 distance == 2
+CANNOT chose from хуждий	 to 	чужий, худый, мужний	 distance == 2
+CANNOT chose from финикий	 to 	индикий, никий	 distance == 2
+CANNOT chose from антигонъ	 to 	антонъ, антиохъ	 distance == 2
+CANNOT chose from убоиный	 to 	ушиный, утиный	 distance == 2
+CANNOT chose from смущение	 to 	служение, смятение, священие, мучение, смнѣние, наущение, мщение, смѣрение, пущение, смирение, смѣшение, скудѣние	 distance == 2
+CANNOT chose from еолкса	 to 	полка, голка	 distance == 2
+CANNOT chose from наткнути	 to 	навыкнути, затхнути, замкнути, поткнути, накинути, насунути	 distance == 2
+CANNOT chose from ублажити	 to 	обнажити, усладити, уладити	 distance == 2
+CANNOT chose from опонникъ	 to 	конникъ, полонникъ	 distance == 2
+CANNOT chose from мидянинъ	 to 	пинянинъ, киянинъ	 distance == 2
+CANNOT chose from хотѣнный	 to 	говенный, колѣнный	 distance == 2
+CANNOT chose from еладский	 to 	лядский, людский	 distance == 2
+CANNOT chose from испокоити	 to 	покоити, исполчити, испортити, упокоити, исполнити	 distance == 2
+CANNOT chose from бочный	 to 	точный, ночный	 distance == 1
+CANNOT chose from широкъ	 to 	дировъ, широкий	 distance == 2
+CANNOT chose from растягнути	 to 	встягнути, ростянути, стягнути	 distance == 2
+CANNOT chose from кровавъ	 to 	кровавый, кротовъ	 distance == 2
+CANNOT chose from избости	 to 	изнести, избити, извести, избыти	 distance == 2
+CANNOT chose from пленница	 to 	пшеница, пещница, сѣнница, плѣнникъ, денница	 distance == 2
+CANNOT chose from тухчинъ	 to 	торчинъ, усчинъ	 distance == 2
+CANNOT chose from укладъ	 to 	указъ, закладъ, акланъ, уланъ, накладъ, ладъ, класъ, усланъ, клада, гладъ	 distance == 2
+CANNOT chose from мирошка	 to 	крошка, сиротка	 distance == 2
+CANNOT chose from статира	 to 	стихира, старина	 distance == 2
+CANNOT chose from выкливати	 to 	всклицати, вливати, выбивати, взливати, вскликати	 distance == 2
+CANNOT chose from соли	 to 	солъ, соль	 distance == 1
+CANNOT chose from амаусъ	 to 	дамасъ, амосъ	 distance == 2
+CANNOT chose from приничение	 to 	привидѣние, принесение, примирение, приношение	 distance == 2
+CANNOT chose from аравский	 to 	братский, градский, таревский, раиский	 distance == 2
+CANNOT chose from фивѣи	 to 	свеи, швѣи, фивъ	 distance == 2
+CANNOT chose from бронь	 to 	броня, брань	 distance == 1
+CANNOT chose from досягати	 to 	досажати, достати	 distance == 2
+CANNOT chose from предлагати	 to 	прѣдлежати, прѣкладати	 distance == 2
+CANNOT chose from лтица	 to 	лжица, птица, утица	 distance == 1
+CANNOT chose from олыча	 to 	елычь, луча	 distance == 2
+CANNOT chose from затворъ	 to 	затворка, зазоръ, потворъ	 distance == 2
+CANNOT chose from горющный	 to 	городный, горушный	 distance == 2
+CANNOT chose from самфиръ	 to 	самуилъ, панфиръ	 distance == 2
+CANNOT chose from затыкати	 to 	засыпати, засѣкати, забывати, затирати	 distance == 2
+CANNOT chose from шуица	 to 	спица, лжица, шуба, птица, буицѣ, рудица, утица, сулица, улица, нужица, мщица, сжица	 distance == 2
+CANNOT chose from горѣнъ	 to 	горюнъ, горнъ	 distance == 1
+CANNOT chose from бесквернный	 to 	несквернный, бескверный	 distance == 1
+CANNOT chose from твержий	 to 	твердый, тверский, свѣжий	 distance == 2
+CANNOT chose from посагати	 to 	помагати, полагати, посажати	 distance == 1
+CANNOT chose from приучити	 to 	примучити, прилучити	 distance == 1
+CANNOT chose from поморие	 to 	заморие, подобие, позорище, пособие, поморяне, погодие, подворие	 distance == 2
+CANNOT chose from починание	 to 	почитание, почивание	 distance == 1
+CANNOT chose from клитъ	 to 	китъ, критъ	 distance == 1
+CANNOT chose from неразумѣти	 to 	разумѣти, уразумѣти	 distance == 2
+CANNOT chose from дубница	 to 	дубникъ, драница, десница, убоица, денница	 distance == 2
+CANNOT chose from суза	 to 	уза, суша, сума, сула	 distance == 1
+CANNOT chose from потребовати	 to 	прѣтрѣбовати, трѣбовати	 distance == 2
+CANNOT chose from усвнути	 to 	успнути, усхнути, уснути	 distance == 1
+CANNOT chose from луки	 to 	лука, лукъ	 distance == 1
+CANNOT chose from офласъ	 to 	гласъ, власъ, класъ	 distance == 2
+CANNOT chose from думець	 to 	давець, купець, унець, уметь, нѣмець, рубець	 distance == 2
+CANNOT chose from благини	 to 	латини, елагинъ	 distance == 2
+CANNOT chose from смердѣти	 to 	свертѣти, смѣрити, стерпѣти, сердити, сѣдѣти, свѣдѣти, смѣряти	 distance == 2
+CANNOT chose from шеломъ	 to 	шелепъ, шлѣмъ, шелкъ	 distance == 2
+CANNOT chose from онбонъ	 to 	обозъ, бубонъ, антонъ, онбаръ	 distance == 2
+CANNOT chose from вынрети	 to 	вынзти, вынести, выняти, вытерети	 distance == 2
+CANNOT chose from пребывание	 to 	прѣтыкание, трѣбование	 distance == 2
+CANNOT chose from прирещи	 to 	приречи, притещи	 distance == 1
+CANNOT chose from офонъ	 to 	гонъ, леонъ, сонъ, овенъ, донъ	 distance == 2
+CANNOT chose from турийский	 to 	туркский, турский, асурийский, студийский	 distance == 2
+CANNOT chose from прилѣтати	 to 	прилетѣти, причетати, прилежати	 distance == 1
+CANNOT chose from борко	 to 	боръ, борщь, борть, бокъ	 distance == 2
+CANNOT chose from ислѣпити	 to 	слѣпити, ослѣпити	 distance == 1
+CANNOT chose from насочити	 to 	насорити, наскочити, намочити	 distance == 1
+CANNOT chose from побрати	 to 	побирати, побарати	 distance == 1
+CANNOT chose from рожший	 to 	болший, божий, горший, робий	 distance == 2
+CANNOT chose from липицѣ	 to 	лице, лисица	 distance == 2
+CANNOT chose from кюрилъ	 to 	кирилъ, курилъ	 distance == 1
+CANNOT chose from дразнити	 to 	грязнити, упразнити, казнити, блазнити, разити, сразити, уранити, бранити, хранити, разбити	 distance == 2
+CANNOT chose from пребити	 to 	пробити, перебити	 distance == 1
+CANNOT chose from попрание	 to 	поспание, послание, познание, роптание, копание, потщание	 distance == 2
+CANNOT chose from дядковъ	 to 	ияковъ, яковъ	 distance == 2
+CANNOT chose from укрочати	 to 	укротити, удрожати, ворочати, скропати, окрочити, скручати, украшати, упродати, кричати, укрывати	 distance == 2
+CANNOT chose from розмѣтати	 to 	розвѣщати, розбѣжати, изметати, отмѣтати, омѣтати, пометати	 distance == 2
+CANNOT chose from всписати	 to 	вписати, вспитати, списати, исписати	 distance == 1
+CANNOT chose from вскипати	 to 	искивати, выкупати, всхищати, искупати, исщипати, всклицати, вступати, вспитати, ископати, вскликати, вскричати, выкопати, скитати	 distance == 2
+CANNOT chose from злумникъ	 to 	блудникъ, златникъ	 distance == 2
+CANNOT chose from створивати	 to 	своровати, створити	 distance == 2
+CANNOT chose from ужити	 to 	ожити, жити	 distance == 1
+CANNOT chose from велумный	 to 	безумный, цѣлоумный	 distance == 2
+CANNOT chose from провѣдѣти	 to 	повѣдѣти, провидѣти	 distance == 1
+CANNOT chose from сдумникъ	 to 	дубникъ, спутникъ	 distance == 2
+CANNOT chose from гнушение	 to 	заушение, вкушение	 distance == 2
+CANNOT chose from безвинный	 to 	бесчинный, безвѣрный, мѣзинный, безводный	 distance == 2
+CANNOT chose from виса	 to 	вина, висла, вира	 distance == 1
+CANNOT chose from поблѣдѣти	 to 	полетѣти, поглядѣти, повѣдѣти, посѣдѣти, побѣдити	 distance == 2
+CANNOT chose from висъ	 to 	лисъ, видъ, вѣсъ	 distance == 1
+CANNOT chose from мученица	 to 	мучение, гусеница, мученикъ	 distance == 2
+CANNOT chose from ворожство	 to 	рожство, торжство	 distance == 2
+CANNOT chose from трепѣзница	 to 	тряпезница, трапезница	 distance == 1
+CANNOT chose from таири	 to 	таина, тархи	 distance == 2
+CANNOT chose from играние	 to 	изгнание, сбрание, избрание, срание	 distance == 2
+CANNOT chose from арпса	 to 	аепа, роса, арака	 distance == 2
+CANNOT chose from наливати	 to 	жаловати, начинати, разливати, налагати, обливати, назидати, вливати, напитати, насѣвати, налити, надавати, налияти, написати, нарицати, взливати, назирати, налѣгати, назвати, поливати, сливати, доливати, шаловати	 distance == 2
+CANNOT chose from амнонъ	 to 	канонъ, антонъ, аронъ, амосъ	 distance == 2
+CANNOT chose from стряти	 to 	стояти, стрѣти, стаяти	 distance == 1
+CANNOT chose from налога	 to 	нагота, налои, волога, нога, жалоба	 distance == 2
+CANNOT chose from слазити	 to 	лазити, славити, влазити, сразити	 distance == 1
+CANNOT chose from комкати	 to 	толкати, кончати, ломати, кликати, помчати, копати, ковати	 distance == 2
+CANNOT chose from глуховъ	 to 	глоговъ, глухота	 distance == 2
+CANNOT chose from обухати	 to 	обирати, обѣдати, обуяти, обути, охати, осужати, окушати, отѣхати, опутати, обѣщати, обитати, обругати, обрати	 distance == 2
+CANNOT chose from шуи	 to 	буи, шуий	 distance == 1
+CANNOT chose from изволодѣти	 to 	изволочити, володѣти	 distance == 2
+CANNOT chose from даяние	 to 	каяние, дѣяние	 distance == 1
+CANNOT chose from помолкнути	 to 	умолкнути, померкнути	 distance == 2
+CANNOT chose from убѣщи	 to 	рещи, пещи, врещи, ижещи, сѣщи, сжещи, врѣщи, убити, брещи, тещи, умѣти, лещи, ожещи, брѣщи, уречи, вжещи, влѣщи, облещи, утечи	 distance == 2
+CANNOT chose from вакъ	 to 	вѣкъ, макъ, валъ	 distance == 1
+CANNOT chose from издѣлати	 to 	извѣщати, подѣлати, надѣлати, сдѣлати, изрѣзати, задѣлати, дѣлати, изметати, издыхати, изѣхати, отдѣлати	 distance == 2
+CANNOT chose from скупый	 to 	скудный, слѣпый, скорый, глупый	 distance == 2
+CANNOT chose from мукианъ	 to 	улианъ, окианъ	 distance == 2
+CANNOT chose from всѣяти	 to 	всѣсти, вселяти, всияти, сѣяти	 distance == 1
+CANNOT chose from снизити	 to 	срѣзити, снити, изити, сразити, снимати, свозити, смирити	 distance == 2
+CANNOT chose from сборникъ	 to 	вторникъ, сотникъ, убоиникъ, сродникъ	 distance == 2
+CANNOT chose from свѣдокъ	 to 	судокъ, святокъ, цвѣтокъ, сверчокъ, видокъ, вѣдомъ, медокъ	 distance == 2
+CANNOT chose from троянъ	 to 	аронъ, тмиянъ	 distance == 2
+CANNOT chose from притягнути	 to 	притяскнути, протянути, потягнути, притиснути, прибѣгнути, пристигнути	 distance == 2
+CANNOT chose from врозумѣти	 to 	разумѣти, уразумѣти	 distance == 2
+CANNOT chose from исухий	 to 	иулий, исакий	 distance == 2
+CANNOT chose from арганъ	 to 	варганъ, аранъ	 distance == 1
+CANNOT chose from забытный	 to 	засыпный, работный	 distance == 2
+CANNOT chose from раждати	 to 	жаждати, ражати	 distance == 1
+CANNOT chose from сскочити	 to 	вскочити, ускочити, искочити, скочити	 distance == 1
+CANNOT chose from утрети	 to 	узрѣти, отрѣти, стрѣти, умрѣти, упрѣти	 distance == 1
+CANNOT chose from перезоръ	 to 	перевозъ, переносъ, перегобъ	 distance == 2
+CANNOT chose from блюстель	 to 	властель, блюститель	 distance == 2
+CANNOT chose from донець	 to 	конець, гонець	 distance == 1
+CANNOT chose from залозникъ	 to 	паломникъ, золотникъ	 distance == 2
+CANNOT chose from пламянный	 to 	платяный, памятный	 distance == 2
+CANNOT chose from вусъ	 to 	усъ, кусъ, вѣсъ	 distance == 1
+CANNOT chose from крада	 to 	брада, клада	 distance == 1
+CANNOT chose from доръ	 to 	даръ, дора, диръ	 distance == 1
+CANNOT chose from нечути	 to 	почути, чути	 distance == 2
+CANNOT chose from пресвятый	 to 	прѣсвѣтлый, всесвятый	 distance == 2
+CANNOT chose from внити	 to 	вняти, винити	 distance == 1
+CANNOT chose from своякъ	 to 	воскъ, срокъ, сводъ, волкъ, сокъ	 distance == 2
+CANNOT chose from купалия	 to 	купля, камалия, русалия	 distance == 2
+CANNOT chose from растачати	 to 	растесати, растинати, расказати, растаскати, расточити, роскачати, наставати, растаяти, растачивати	 distance == 2
+CANNOT chose from галваа	 to 	галица, галка	 distance == 2
+CANNOT chose from олъ	 to 	волъ, солъ, колъ, полъ	 distance == 1
+CANNOT chose from планити	 to 	платити, плѣнити	 distance == 1
+CANNOT chose from погибение	 to 	пошибание, погубление	 distance == 2
+CANNOT chose from хужший	 to 	унший, чужий, мужний	 distance == 2
+CANNOT chose from пила	 to 	сила, жила, пища	 distance == 1
+CANNOT chose from дѣдичь	 to 	недачь, дѣтищь	 distance == 2
+CANNOT chose from вологеса	 to 	вологда, волога	 distance == 2
+CANNOT chose from акушь	 to 	адунь, скупь, кошь, скуфь	 distance == 2
+CANNOT chose from бравъ	 to 	братъ, нравъ, бракъ	 distance == 1
+CANNOT chose from влити	 to 	вялити, влияти, валити	 distance == 1
+CANNOT chose from раифа	 to 	раба, рана, таина, марфа, раи, риза, рака, рига	 distance == 2
+CANNOT chose from плѣновати	 to 	плевати, именовати	 distance == 2
+CANNOT chose from горѣние	 to 	корение, гонение, гордениѣ	 distance == 1
+CANNOT chose from ликионъ	 to 	ларионъ, лимонъ, никонъ	 distance == 2
+CANNOT chose from паска	 to 	палка, ласка, пасха	 distance == 1
+CANNOT chose from лутава	 to 	тава, литва	 distance == 2
+CANNOT chose from лопотъ	 to 	локотъ, хлопотъ	 distance == 1
+CANNOT chose from царевъ	 to 	сараевъ, цѣсаревъ	 distance == 2
+CANNOT chose from застава	 to 	засада, паства, наставъ	 distance == 2
+CANNOT chose from обидѣние	 to 	обядение, обѣдение	 distance == 1
+CANNOT chose from влетѣти	 to 	летѣти, взлетѣти	 distance == 1
+CANNOT chose from докучивати	 to 	докучати, покушивати	 distance == 2
+CANNOT chose from исчинити	 to 	починити, чинити, исчисти, учинити, исчитати, начинити	 distance == 2
+CANNOT chose from многоцвѣтный	 to 	многовещный, многоцѣнный	 distance == 2
+CANNOT chose from знание	 to 	знамение, познание	 distance == 2
+CANNOT chose from сѣнникъ	 to 	цѣпникъ, садникъ, конникъ, сотникъ, мѣрникъ, стѣнщикъ, данникъ, мечникъ, сенадикъ, лѣтникъ, ледникъ, сѣнница, свѣтникъ, плѣнникъ, сензякъ	 distance == 2
+CANNOT chose from каневский	 to 	таревский, киевский	 distance == 2
+CANNOT chose from зимница	 to 	задница, пияница, житница, зѣница, темница	 distance == 2
+CANNOT chose from зазирати	 to 	затирати, назирати, запирати	 distance == 1
+CANNOT chose from злобный	 to 	зубный, слебный, золотный	 distance == 2
+CANNOT chose from вздѣлати	 to 	подѣлати, надѣлати, сдѣлати, вздрѣмати, вздѣти, вздати, задѣлати, дѣлати, взлежати, отдѣлати, взбѣжати, взвѣщати, вздыхати, вздержати, возжелати	 distance == 2
+CANNOT chose from мемфа	 to 	межа, марфа, мечта, метла, мама, мѣра	 distance == 2
+CANNOT chose from брехание	 to 	рѣзание, урѣкание, обрѣзание, брежение, блевание, прѣдание	 distance == 2
+CANNOT chose from осырѣти	 to 	сгрѣти, стрѣти	 distance == 2
+CANNOT chose from безлобный	 to 	безгодный, безбожный, безлобивый, безводный	 distance == 2
+CANNOT chose from мемфь	 to 	семь, мѣль, месть, мечь	 distance == 2
+CANNOT chose from иовль	 to 	ияковль, моавль	 distance == 2
+CANNOT chose from рѣяти	 to 	дѣяти, прѣяти, сѣяти	 distance == 1
+CANNOT chose from яздити	 to 	язвити, ѣздити	 distance == 1
+CANNOT chose from парфи	 to 	перси, марфа, тархи, пали, сараи	 distance == 2
+CANNOT chose from осѣкъ	 to 	олекъ, оселъ	 distance == 1
+CANNOT chose from убожати	 to 	убѣжати, угожати	 distance == 1
+CANNOT chose from взникнути	 to 	изникнути, вникнути	 distance == 1
+CANNOT chose from ферора	 to 	девора, федоръ, нерома	 distance == 2
+CANNOT chose from трусный	 to 	трубный, трудный	 distance == 1
+CANNOT chose from висосъ	 to 	дискосъ, исусъ, волосъ, видокъ	 distance == 2
+CANNOT chose from груна	 to 	груша, груда	 distance == 1
+CANNOT chose from наклеветати	 to 	клеветати, оклеветати	 distance == 2
+CANNOT chose from сломити	 to 	сложити, словити, ломити	 distance == 1
+CANNOT chose from лютая	 to 	лютъ, лития	 distance == 2
+CANNOT chose from помѣнити	 to 	помнити, помѣтити	 distance == 1
+CANNOT chose from ити	 to 	уити, яти	 distance == 1
+CANNOT chose from ищистити	 to 	христити, очистити	 distance == 2
+CANNOT chose from разрѣшити	 to 	раздрѣшити, разрушити	 distance == 1
+CANNOT chose from ватания	 to 	шатание, встание, вритания	 distance == 2
+CANNOT chose from увѣрение	 to 	велѣние, утвержение, смѣрение, ударение, варение, творение, утѣшение, свѣтѣние	 distance == 2
+CANNOT chose from жерны	 to 	чернь, жердь, зернь, серна, жерць, жена, тернъ, зерно	 distance == 2
+CANNOT chose from обсѣсти	 to 	осѣсти, обрѣсти	 distance == 1
+CANNOT chose from связание	 to 	свѣщание, священие, сказание, стяжание	 distance == 2
+CANNOT chose from исыхати	 to 	слыхати, сыпати, испытати, ссыпати, осыпати, сехати, издыхати, изѣхати, исткати, дыхати, искати, ссылати, всылати	 distance == 2
+CANNOT chose from глумъ	 to 	гримъ, шлѣмъ, гяуръ, умъ, глазъ, гласъ, лукъ, клубъ, лучъ, плугъ, слухъ, громъ, блудъ, лугъ, гладъ, лубъ, глѣбъ, шумъ	 distance == 2
+CANNOT chose from уцѣлѣти	 to 	оцѣпѣти, желѣти, велѣти, вжелѣти, цѣлити, увѣдѣти	 distance == 2
+CANNOT chose from пѣснникъ	 to 	постникъ, вѣстникъ, местникъ, плѣнникъ	 distance == 2
+CANNOT chose from слезити	 to 	срѣзити, слѣпити, слѣзти	 distance == 1
+CANNOT chose from урядъ	 to 	уродъ, рядъ	 distance == 1
+CANNOT chose from одаляти	 to 	удаляти, одалати	 distance == 1
+CANNOT chose from зрѣние	 to 	пѣние, ревние, бдѣние, чтение, одѣние, мщение, биение, крщение, зелие, мвение, курение, корение, срание, ядение, стрение, учение, тлѣние, варение, имѣние, рвение	 distance == 2
+CANNOT chose from кобрынь	 to 	корень, добрыня	 distance == 2
+CANNOT chose from еумилъ	 to 	емигъ, кумиръ, курилъ	 distance == 2
+CANNOT chose from дупль	 to 	купѣль, гусль, купля, рубль, даль, вопль	 distance == 2
+CANNOT chose from тимонъ	 to 	лимонъ, симонъ	 distance == 1
+CANNOT chose from зелва	 to 	молва, зола	 distance == 2
+CANNOT chose from пелынь	 to 	плѣнь, волынь	 distance == 2
+CANNOT chose from мусский	 to 	мужский, русский	 distance == 1
+CANNOT chose from слѣсти	 to 	смѣсти, сѣсти, снѣсти, слѣзти, ссѣсти, срѣсти	 distance == 1
+CANNOT chose from посупляти	 to 	погубляти, пособляти, похуляти	 distance == 2
+CANNOT chose from испродати	 to 	продати, испросити, упродати	 distance == 2
+CANNOT chose from замышление	 to 	размышление, помышление	 distance == 2
+CANNOT chose from рядца	 to 	руда, рудица, редка, рядъ, грядка	 distance == 2
+CANNOT chose from отплатити	 to 	поплатити, платити, сплатити	 distance == 2
+CANNOT chose from оцѣпнути	 to 	оцѣпѣти, оцѣпляти	 distance == 2
+CANNOT chose from дивъ	 to 	диръ, фивъ	 distance == 1
+CANNOT chose from потрети	 to 	отрѣти, почрѣти, пожрѣти, позрѣти, помрѣти	 distance == 1
+CANNOT chose from припущати	 to 	приобщати, попущати, причащати, прикупати, припадати, приписати	 distance == 2
+CANNOT chose from зарачение	 to 	брачение, заточение, омрачение	 distance == 2
+CANNOT chose from пердика	 to 	персида, перина	 distance == 2
+CANNOT chose from вишта	 to 	вина, вышата, висла, свита, башта, вишня, кишка, врата, вира	 distance == 2
+CANNOT chose from пострищи	 to 	пострѣщи, острищи, постричи	 distance == 1
+CANNOT chose from кормный	 to 	скоромный, хоромный, корчемный, чермный	 distance == 2
+CANNOT chose from рости	 to 	росути, расти	 distance == 1
+CANNOT chose from иолѣи	 to 	иереи, поле	 distance == 2
+CANNOT chose from модана	 to 	подача, година, морава, родона	 distance == 2
+CANNOT chose from обияздити	 to 	обрядити, обиходити, обездити	 distance == 2
+CANNOT chose from взбити	 to 	выбити, вабити, взлити, избити, взити	 distance == 1
+CANNOT chose from уркания	 to 	урѣкание, аркадия	 distance == 2
+CANNOT chose from полошити	 to 	полонити, поломити, положити	 distance == 1
+CANNOT chose from пелы	 to 	поле, полъ	 distance == 2
+CANNOT chose from безгодие	 to 	бездждие, безлобие	 distance == 2
+CANNOT chose from прити	 to 	проити, преити	 distance == 1
+CANNOT chose from скрань	 to 	страна, стражь, брань	 distance == 2
+CANNOT chose from смедлити	 to 	смѣрити, смѣсити, смыслити, смѣтити	 distance == 2
+CANNOT chose from пела	 to 	пѣна, бѣла	 distance == 1
+CANNOT chose from обручити	 to 	дручити, поручити	 distance == 2
+CANNOT chose from подобити	 to 	подобати, уподобити	 distance == 1
+CANNOT chose from непочивание	 to 	почивание, опочивание	 distance == 2
+CANNOT chose from анания	 to 	аравия, панония, анний	 distance == 2
+CANNOT chose from надхнути	 to 	издхнути, дхнути, затхнути, пахнути, накинути, насунути	 distance == 2
+CANNOT chose from козий	 to 	болий, борзий, скотий, горий, божий, робий	 distance == 2
+CANNOT chose from хортица	 to 	горница, горлица, хоривица	 distance == 2
+CANNOT chose from осмужити	 to 	служити, смутити, стужити	 distance == 2
+CANNOT chose from стбло	 to 	столъ, стулъ	 distance == 2
+CANNOT chose from памфилъ	 to 	самуилъ, памфилия, панфиръ	 distance == 2
+CANNOT chose from арсѣний	 to 	армения, иргений	 distance == 2
+CANNOT chose from отшити	 to 	отити, отбити	 distance == 1
+CANNOT chose from нуждение	 to 	рождение, неядение	 distance == 2
+CANNOT chose from кель	 to 	зель, рель, щель	 distance == 1
+CANNOT chose from престаяти	 to 	прѣстояти, прѣстати	 distance == 1
+CANNOT chose from успѣние	 to 	утаение, пѣние, спание, усние, отпѣние, учение, убиение	 distance == 2
+CANNOT chose from лучница	 to 	блудница, ключница	 distance == 2
+CANNOT chose from ласкание	 to 	плакание, алкание, плескание	 distance == 2
+CANNOT chose from ерихо	 to 	брюхо, мѣрило, крило	 distance == 2
+CANNOT chose from роговъ	 to 	рогъ, ровъ	 distance == 2
+CANNOT chose from лакиня	 to 	латина, латини, ликия, аксиня, асиня	 distance == 2
+CANNOT chose from ошити	 to 	опити, сшити, отити, ожити, обити	 distance == 1
+CANNOT chose from онболъ	 to 	обозъ, онбаръ	 distance == 2
+CANNOT chose from порочникъ	 to 	воротникъ, полонникъ, покоиникъ, городникъ, помощникъ, повозникъ	 distance == 2
+CANNOT chose from тукота	 to 	субота, тягота, сухота	 distance == 2
+CANNOT chose from лупити	 to 	упити, купити, лучити	 distance == 1
+CANNOT chose from ерихъ	 to 	орѣхъ, шихъ, римъ	 distance == 2
+CANNOT chose from стубла	 to 	стугна, стрѣла, сула, стулъ	 distance == 2
+CANNOT chose from обязание	 to 	обядение, обрѣзание, обѣщание, обѣдание	 distance == 2
+CANNOT chose from аравь	 to 	нравъ, аранъ, жеравь	 distance == 2
+CANNOT chose from исхитрити	 to 	всхитити, испстрити	 distance == 2
+CANNOT chose from пламень	 to 	платежь, плѣнь	 distance == 2
+CANNOT chose from укупити	 to 	купити, окупити	 distance == 1
+CANNOT chose from власий	 to 	флавий, власъ, власть	 distance == 2
+CANNOT chose from пожизати	 to 	пожинати, пожигати	 distance == 1
+CANNOT chose from лукий	 to 	иулий, гурий, луеи, ликия, лукно, туки, кий, лука, лукъ, лубие, буки, мокий, никий, лукиний	 distance == 2
+CANNOT chose from улѣсти	 to 	увести, плести	 distance == 1
+CANNOT chose from взбранивати	 to 	взбранити, бранивати	 distance == 2
+CANNOT chose from пытание	 to 	писание, метание, шатание, встание, дышание, рыдание, дыхание, потщание	 distance == 2
+CANNOT chose from врачба	 to 	раба, вражда, врачь, врата	 distance == 2
+CANNOT chose from махати	 to 	мазати, пахати	 distance == 1
+CANNOT chose from порунский	 to 	поганский, корсунский	 distance == 2
+CANNOT chose from роздумати	 to 	подумати, раздувати, розломати	 distance == 2
+CANNOT chose from корѣли	 to 	корець, козелъ, корень, кортель, корение, котелъ, кормля, корета, король, коцелъ, орелъ	 distance == 2
+CANNOT chose from жирява	 to 	жидята, жертва	 distance == 2
+CANNOT chose from вразумѣти	 to 	разумѣти, уразумѣти	 distance == 1
+CANNOT chose from орѣховый	 to 	гороховый, греховный	 distance == 2
+CANNOT chose from вожение	 to 	хожение, рожение	 distance == 1
+CANNOT chose from мутный	 to 	мчетный, суетный	 distance == 2
+CANNOT chose from потребие	 to 	потчение, потрѣба	 distance == 2
+CANNOT chose from прикрыти	 to 	перекрыти, прикроити	 distance == 2
+CANNOT chose from всѣдати	 to 	ссѣдати, вѣдати	 distance == 1
+CANNOT chose from вынити	 to 	выняти, винити	 distance == 1
+CANNOT chose from налючь	 to 	ключь, алочь, палачь	 distance == 2
+CANNOT chose from елтукъ	 to 	стукъ, лукъ	 distance == 2
+CANNOT chose from делфа	 to 	дѣва, дѣвка, дѣло, сдѣлка, денга, бѣлка, бѣла, десна, цѣлба, щелка	 distance == 2
+CANNOT chose from суморокъ	 to 	спорокъ, уборокъ	 distance == 2
+CANNOT chose from дубнець	 to 	унець, кузнець, рубець	 distance == 2
+CANNOT chose from ряжение	 to 	рожение, уряжение	 distance == 1
+CANNOT chose from тапатъ	 to 	харатъ, запасъ, асатъ, табакъ, талантъ, западъ, таганъ	 distance == 2
+CANNOT chose from портокъ	 to 	потокъ, порокъ	 distance == 1
+CANNOT chose from сочити	 to 	точити, почити, солити, скочити	 distance == 1
+CANNOT chose from дорогъ	 to 	дорогий, дировъ	 distance == 2
+CANNOT chose from примѣшение	 to 	премѣнение, принесение, приведение, примирение, приношение	 distance == 2
+CANNOT chose from жжерский	 to 	женский, тверский	 distance == 2
+CANNOT chose from росмотрѣти	 to 	посмотрѣти, досмотрѣти, сосмотрѣти, осмотрѣти	 distance == 1
+CANNOT chose from крити	 to 	корити, кроити	 distance == 1
+CANNOT chose from авиронъ	 to 	воронъ, вавилонъ, аронъ	 distance == 2
+CANNOT chose from нафанъ	 to 	казанъ, саванъ, навинъ, кафтанъ, асанъ, началъ, каганъ, кафаръ, насадъ, кабанъ, аранъ, баранъ, наказъ, заганъ, лаванъ, ладанъ, наинъ, таганъ	 distance == 2
+CANNOT chose from вѣдание	 to 	сѣдание, вздание	 distance == 1
+CANNOT chose from матѣевъ	 to 	вакѣевъ, алеевъ	 distance == 2
+CANNOT chose from вмѣшати	 to 	мѣшати, вмѣщати, вѣшати, смѣшати	 distance == 1
+CANNOT chose from руса	 to 	русь, роса	 distance == 1
+CANNOT chose from сѣдати	 to 	снѣдати, сѣждати, сѣдѣти, свѣдати, ссѣдати, вѣдати	 distance == 1
+CANNOT chose from приводъ	 to 	приходъ, привозъ	 distance == 1
+CANNOT chose from сластный	 to 	власяный, страстный, лестный, сястный, славный	 distance == 2
+CANNOT chose from розимати	 to 	изимати, взимати, розломати	 distance == 2
+CANNOT chose from опѣшати	 to 	помѣшати, мѣшати, вѣшати	 distance == 2
+CANNOT chose from взлѣтѣти	 to 	низлетѣти, летѣти, взлѣзти, полетѣти, взлежати, взревѣти	 distance == 2
+CANNOT chose from сгрѣтися	 to 	сгрѣти, скрытися	 distance == 2
+CANNOT chose from свузъ	 to 	ссудъ, судъ, студъ, спудъ, скуфъ, скутъ, стукъ, увозъ, возъ, наузъ, саулъ, звукъ, сваръ, слухъ, стулъ, сводъ, саукъ, свѣтъ	 distance == 2
+CANNOT chose from аспида	 to 	спица, спина, заспица	 distance == 2
+CANNOT chose from зажитие	 to 	забытие, житие, наитие	 distance == 2
+CANNOT chose from расмотрѣти	 to 	расмотрити, расмотряти	 distance == 1
+CANNOT chose from взболѣти	 to 	болѣти, поболѣти, взгорѣти, разболѣти, заболѣти	 distance == 2
+CANNOT chose from мнимый	 to 	мний, нѣмый, милый, гнилый	 distance == 2
+CANNOT chose from смѣжити	 to 	смѣрити, смѣсити, смѣтити	 distance == 1
+CANNOT chose from вядна	 to 	вина, весна, волна, дна, воина, вода	 distance == 2
+CANNOT chose from искривити	 to 	искивати, исправити	 distance == 2
+CANNOT chose from премѣнятися	 to 	премѣняти, прѣмѣняти	 distance == 2
+CANNOT chose from свуза	 to 	уза, ссуда, свѣча, суша, сума, слуга, свада, свита, свѣща, сула, слеза	 distance == 2
+CANNOT chose from куровъ	 to 	турдовъ, гудовъ, дировъ, чудовъ, бутовъ	 distance == 2
+CANNOT chose from нилосъ	 to 	носъ, хилокъ, волосъ, никонъ, крилосъ	 distance == 2
+CANNOT chose from тесовъ	 to 	туровъ, пѣсокъ	 distance == 2
+CANNOT chose from ось	 to 	лось, рось	 distance == 1
+CANNOT chose from обиймати	 to 	обирати, отимати, приймати, обитати	 distance == 2
+CANNOT chose from жалъ	 to 	жаль, жало	 distance == 1
+CANNOT chose from свѣи	 to 	свои, швѣи	 distance == 1
+CANNOT chose from облѣщи	 to 	брѣщи, влѣщи	 distance == 2
+CANNOT chose from позадѣяти	 to 	порадѣти, подѣяти, пощадѣти, позавести	 distance == 2
+CANNOT chose from безбѣдный	 to 	безгодный, безбожный, безмездный, безмѣрный, безвѣрный, безводный	 distance == 2
+CANNOT chose from вковати	 to 	оковати, сковати, ковати	 distance == 1
+CANNOT chose from благопищие	 to 	благожитие, благочиние	 distance == 2
+CANNOT chose from гать	 to 	тать, рать	 distance == 1
+CANNOT chose from бритва	 to 	притча, литва	 distance == 2
+CANNOT chose from исидъ	 to 	иосифъ, исходъ	 distance == 2
+CANNOT chose from амбонъ	 to 	бубонъ, антонъ, аронъ, амосъ, амбаръ	 distance == 2
+CANNOT chose from пакостный	 to 	постный, жалостный, радостный	 distance == 2
+CANNOT chose from фаватъ	 to 	харатъ, навѣтъ, саванъ, асатъ, завѣтъ, лаванъ	 distance == 2
+CANNOT chose from еладий	 to 	флавий, генадий	 distance == 2
+CANNOT chose from селукъ	 to 	стукъ, лукъ, слухъ, селунь, саукъ	 distance == 2
+CANNOT chose from бѣлескъ	 to 	бужескъ, мѣнескъ	 distance == 2
+CANNOT chose from онъ	 to 	гонъ, сонъ, донъ	 distance == 1
+CANNOT chose from книжка	 to 	ножка, книга, кишка, нитка	 distance == 2
+CANNOT chose from чюдь	 to 	чудь, чадь	 distance == 1
+CANNOT chose from словный	 to 	сливный, славный	 distance == 1
+CANNOT chose from чюдо	 to 	чудо, чадо	 distance == 1
+CANNOT chose from поврести	 to 	погрести, повѣсти, повести, побрести	 distance == 1
+CANNOT chose from измазати	 to 	помазати, изрѣзати, изметати, мазати, излазити, изгарати, исчазати	 distance == 2
+CANNOT chose from климовъ	 to 	симовъ, каиновъ, клековъ	 distance == 2
+CANNOT chose from усилие	 to 	усние, обилие, устие, насилие, удолие	 distance == 2
+CANNOT chose from лювий	 to 	флавий, ливия, юрий, людие	 distance == 2
+CANNOT chose from подсѣдати	 to 	поддати, подѣлати, подсыпати, посѣкати, подтекати, посѣщати, посѣдѣти, повѣдати	 distance == 2
+CANNOT chose from тростный	 to 	крестный, хрестный	 distance == 2
+CANNOT chose from вѣяти	 to 	дѣяти, взяти, вняти, сѣяти	 distance == 1
+CANNOT chose from ушескъ	 to 	курескъ, сутѣскъ, утесъ, шестъ, луческъ, шелкъ, бужескъ	 distance == 2
+CANNOT chose from вздринути	 to 	вринути, изринути, вздвигнути	 distance == 2
+CANNOT chose from касози	 to 	касогъ, кози	 distance == 2
+CANNOT chose from дрютский	 to 	братский, критский, дѣтский	 distance == 2
+CANNOT chose from шумескъ	 to 	курескъ, сутѣскъ, луческъ, бужескъ	 distance == 2
+CANNOT chose from искупъ	 to 	пискупъ, искусъ	 distance == 1
+CANNOT chose from премедлити	 to 	прѣселити, прѣмѣнити	 distance == 2
+CANNOT chose from ужникъ	 to 	ружникъ, нужникъ, узникъ	 distance == 1
+CANNOT chose from сѣчение	 to 	течение, речение, печение, сѣдѣние	 distance == 1
+CANNOT chose from верники	 to 	вирникъ, мѣрникъ	 distance == 2
+CANNOT chose from верника	 to 	черница, вирникъ, мѣрникъ, веревка, варница	 distance == 2
+CANNOT chose from ижера	 to 	игра, икра	 distance == 2
+CANNOT chose from обѣхати	 to 	обѣдати, отѣхати, обѣщати	 distance == 1
+CANNOT chose from мученный	 to 	мчетный, ученый	 distance == 2
+CANNOT chose from илъ	 to 	иевъ, било, идолъ, волъ, зло, солъ, колъ, полъ	 distance == 2
+CANNOT chose from оттещи	 to 	отрещи, оттечи	 distance == 1
+CANNOT chose from ушь	 to 	усъ, кошь, ухо, умъ, вошь, уи, удъ, угъ	 distance == 2
+CANNOT chose from мануилъ	 to 	самуилъ, рагуилъ, данилъ, иммануилъ	 distance == 2
+CANNOT chose from титъ	 to 	китъ, щитъ	 distance == 1
+CANNOT chose from ира	 to 	игра, икра, вира	 distance == 1
+CANNOT chose from кочетъ	 to 	кочене, кметъ, отчетъ, счетъ	 distance == 2
+CANNOT chose from комовъ	 to 	ковъ, оковъ, комонь, кловъ	 distance == 2
+CANNOT chose from ключный	 to 	лычный, клѣтный, людный	 distance == 2
+CANNOT chose from путный	 to 	плотный, портный, постный, суетный	 distance == 2
+CANNOT chose from заячный	 to 	ячный, заемный, зарный	 distance == 2
+CANNOT chose from ермовъ	 to 	симовъ, хамовъ, берновъ	 distance == 2
+CANNOT chose from селище	 to 	селце, зелие, дѣтище, судище, стрѣлище, жилище	 distance == 2
+CANNOT chose from касий	 to 	асия, кий, арий, масия, паисий, кария, кчий, осий	 distance == 2
+CANNOT chose from отряживати	 to 	наряживати, отрясывати	 distance == 2
+CANNOT chose from помѣнение	 to 	плѣнение, премѣнение	 distance == 2
+CANNOT chose from сиси	 to 	сѣни, сила, миди, сирий, сирия, сани, сифъ, сито, лисъ, свои, симъ, свеи, сигъ	 distance == 2
+CANNOT chose from истба	 to 	истобка, гостба	 distance == 2
+CANNOT chose from ждана	 to 	рана, дань, данъ, дна, дача, жаба, жена, жажа	 distance == 2
+CANNOT chose from скуплевати	 to 	купливати, склевати	 distance == 2
+CANNOT chose from проганяти	 to 	продаяти, поганити, прогнати, прогонити, промѣняти	 distance == 2
+CANNOT chose from господний	 to 	господский, господиный	 distance == 2
+CANNOT chose from серпъ	 to 	стропъ, скопъ, сербь, снопъ	 distance == 2
+CANNOT chose from седекия	 to 	езекия, сѣдѣние	 distance == 2
+CANNOT chose from касия	 to 	асия, масия, кария	 distance == 1
+CANNOT chose from скѣпание	 to 	скокание, свѣщание, спание, сѣдание, сказание, копание, стенание	 distance == 2
+CANNOT chose from утянути	 to 	утнути, утонути, тянути	 distance == 1
+CANNOT chose from искипати	 to 	искупати, ископати	 distance == 1
+CANNOT chose from брынъ	 to 	обринъ, боранъ, брань	 distance == 2
+CANNOT chose from вымыкати	 to 	вымыти, вызывати, выметати, высылати, умыкати, вымчати, высѣкати	 distance == 2
+CANNOT chose from таранъ	 to 	аранъ, баранъ, таганъ	 distance == 1
+CANNOT chose from парфский	 to 	пермский, персский	 distance == 2
+CANNOT chose from шгла	 to 	сила, жила, шуба, зола, хула, игра, яглъ, сула, бѣла, югра, угра	 distance == 2
+CANNOT chose from ерихонъ	 to 	приходъ, припонъ	 distance == 2
+CANNOT chose from равнати	 to 	давати, рвати, разгнати, чавкати, ражати	 distance == 2
+CANNOT chose from испечи	 to 	исѣчи, испещи	 distance == 1
+CANNOT chose from припрѣтити	 to 	припрятати, припустити, присѣтити	 distance == 2
+CANNOT chose from калешь	 to 	палець, кашель, кашень, клѣть, талець	 distance == 2
+CANNOT chose from яригъ	 to 	емигъ, ясинъ, рогъ, крикъ, гримъ, яремъ, другъ, фрягъ, кругъ, критъ, врагъ, ятинъ, брѣгъ, рига, римъ, сигъ, пругъ	 distance == 2
+CANNOT chose from обѣшати	 to 	обѣдати, обѣщати	 distance == 1
+CANNOT chose from подний	 to 	поздный, родный, прочний, полный, водный, годный, прѣдний	 distance == 2
+CANNOT chose from вгонити	 to 	сгонити, гонити, угонити	 distance == 1
+CANNOT chose from проломити	 to 	прѣломити, поломити	 distance == 1
+CANNOT chose from гаи	 to 	раи, маи	 distance == 1
+CANNOT chose from сватъ	 to 	сваръ, свѣтъ	 distance == 1
+CANNOT chose from потортати	 to 	поторгати, потоптати	 distance == 1
+CANNOT chose from закрытися	 to 	скрытися, закрыти	 distance == 2
+CANNOT chose from стрепетати	 to 	встрепетати, трепетати	 distance == 1
+CANNOT chose from обѣздити	 to 	бѣдити, поѣздити, ѣздити	 distance == 2
+CANNOT chose from затворение	 to 	створение, заточение, растворение, творение	 distance == 2
+CANNOT chose from володша	 to 	вологда, колода, волога	 distance == 2
+CANNOT chose from сткляный	 to 	сукняный, стольный	 distance == 2
+CANNOT chose from вжделати	 to 	подѣлати, надѣлати, сдѣлати, вжелѣти, задѣлати, дѣлати, отдѣлати, желати	 distance == 2
+CANNOT chose from кармилъ	 to 	кирилъ, караулъ, курилъ	 distance == 2
+CANNOT chose from заткнути	 to 	затхнути, замкнути	 distance == 1
+CANNOT chose from изламляти	 to 	избавляти, излаяти, изваляти	 distance == 2
+CANNOT chose from загражение	 to 	сгражение, взгражение	 distance == 2
+CANNOT chose from выбирати	 to 	выбивати, вытирати	 distance == 1
+CANNOT chose from прочный	 to 	прочний, причный	 distance == 1
+CANNOT chose from корнилъ	 to 	конникъ, кирилъ, корнилий, курилъ	 distance == 2
+CANNOT chose from лишеница	 to 	лишение, пшеница	 distance == 2
+CANNOT chose from брачинъ	 to 	братина, брячина, гречинъ	 distance == 2
+CANNOT chose from розирати	 to 	прозирати, розбрати, дозирати	 distance == 1
+CANNOT chose from пуминъ	 to 	пучина, пудикъ, куманъ, шуринъ, кумиръ, чудинъ, попинъ, русинъ	 distance == 2
+CANNOT chose from скупати	 to 	искупати, скупити	 distance == 1
+CANNOT chose from каиданъ	 to 	казанъ, каитакъ, кафтанъ, каганъ, каинъ, кабанъ, ладанъ, китанъ	 distance == 2
+CANNOT chose from поминути	 to 	поминати, помянути	 distance == 1
+CANNOT chose from яртакъ	 to 	фракъ, зракъ, бракъ	 distance == 2
+CANNOT chose from полонина	 to 	половина, солонина	 distance == 1
+CANNOT chose from влена	 to 	олена, елена	 distance == 1
+CANNOT chose from обещствовати	 to 	оземствовати, бѣдствовати	 distance == 2
+CANNOT chose from откладати	 to 	покладати, вкладати, складати, укладати	 distance == 2
+CANNOT chose from стгно	 to 	стѣнъ, станъ	 distance == 2
+CANNOT chose from измостити	 to 	помостити, мостити, извѣстити, измочити, износити, изоостати	 distance == 2
+CANNOT chose from рода	 to 	руда, родъ	 distance == 1
+CANNOT chose from мирникъ	 to 	вирникъ, мѣрникъ	 distance == 1
+CANNOT chose from щитный	 to 	житный, ситный	 distance == 1
+CANNOT chose from анбалъ	 to 	амбаръ, канбатъ, онбаръ, ангелъ	 distance == 2
+CANNOT chose from издушити	 to 	исушити, издоити, изучити, задушити, изгубити	 distance == 2
+CANNOT chose from рахъ	 to 	рабъ, прахъ	 distance == 1
+CANNOT chose from ливаний	 to 	сливание, ливанъ	 distance == 2
+CANNOT chose from преводъ	 to 	перевозъ, проходъ	 distance == 2
+CANNOT chose from полости	 to 	полоти, порости	 distance == 1
+CANNOT chose from десятникъ	 to 	вѣстникъ, десятокъ, местникъ	 distance == 2
+CANNOT chose from полещи	 to 	пожещи, потещи	 distance == 1
+CANNOT chose from селение	 to 	велѣние, сѣдѣние	 distance == 1
+CANNOT chose from алудия	 to 	олядия, лидия, судия, асурия, блудня	 distance == 2
+CANNOT chose from мѣдница	 to 	черница, задница, десница, седмица, пещница, мовница, зѣница, темница, мельница, сѣнница, денница	 distance == 2
+CANNOT chose from позвание	 to 	созвание, познание	 distance == 1
+CANNOT chose from замышляти	 to 	размышляти, смышляти, помышляти, умышляти, замыслити	 distance == 2
+CANNOT chose from лукины	 to 	лукно, лукянъ, лукиний	 distance == 2
+CANNOT chose from поклоняние	 to 	поклонение, покланяние	 distance == 1
+CANNOT chose from тепра	 to 	аепа, сѣра, тигра, вепрь, тепло, рѣпа, мѣра, вѣра	 distance == 2
+CANNOT chose from обхаждати	 to 	обнажати, обѣзждати, обладати	 distance == 2
+CANNOT chose from запрашати	 to 	запасати, впрашати, прашати, заплакати, запрѣщати	 distance == 2
+CANNOT chose from шептати	 to 	шатати, топтати, роптати	 distance == 2
+CANNOT chose from фокионъ	 to 	поконъ, поклонъ, родионъ, окианъ	 distance == 2
+CANNOT chose from милескъ	 to 	пинескъ, мѣнескъ	 distance == 2
+CANNOT chose from вздичати	 to 	взирати, взжигати, вздати, вздвизати, взливати, величати, взимати, вздыхати	 distance == 2
+CANNOT chose from истба	 to 	истобка, гостба	 distance == 2
+CANNOT chose from осочити	 to 	омочити, отсочити, осолити, опочити, досочити	 distance == 1
+CANNOT chose from обнавляти	 to 	оправляти, оставляти	 distance == 2
+CANNOT chose from ермилъ	 to 	емигъ, ермола	 distance == 2
+CANNOT chose from ташь	 to 	тать, таль	 distance == 1
+CANNOT chose from белзский	 to 	селский, бѣленкий	 distance == 2
+CANNOT chose from обуимати	 to 	обирати, обнищати, обливати, обзирати, отимати, облизати, отнимати, обличати, обитати	 distance == 2
+CANNOT chose from воиный	 to 	доиный, водный	 distance == 1
+CANNOT chose from порожний	 to 	прочний, прѣжний	 distance == 2
+CANNOT chose from ляница	 to 	лжица, ланита, пятница, пияница, зѣница, лисица	 distance == 2
+CANNOT chose from мури	 to 	муха, фудри, миди, гурий, мужь, луеи, миръ, туки, умри, егри, нура, мати, меря, туры, туръ, мария, мука, море, моръ, уи, куци, сурия, буря, куръ, маи, буки, фуръ, куря, мѣра	 distance == 2
+CANNOT chose from подруме	 to 	подружие, подруга	 distance == 2
+CANNOT chose from вѣтрило	 to 	свѣтило, мѣрило	 distance == 2
+CANNOT chose from болгаринъ	 to 	болгарыни, боляринъ	 distance == 2
+CANNOT chose from удаление	 to 	удавление, ударение	 distance == 1
+CANNOT chose from уродивъ	 to 	иродовъ, уродивый	 distance == 2
+CANNOT chose from туска	 to 	сутка, рука, трѣска, туки, туркъ, мска, мука, соска, лука, дска, утка, щука, сумка, мучка, ласка, туга, уста, пушка	 distance == 2
+CANNOT chose from грамотикъ	 to 	грамотица, грамотка	 distance == 2
+CANNOT chose from молоти	 to 	молыти, молити	 distance == 1
+CANNOT chose from пасати	 to 	пасти, писати	 distance == 1
+CANNOT chose from угожение	 to 	хожение, сложение, рожение, умножение, гонение, уряжение	 distance == 2
+CANNOT chose from уразъ	 to 	указъ, мразъ	 distance == 1
+CANNOT chose from препирати	 to 	прѣзирати, прѣпитати, прѣтирати	 distance == 1
+CANNOT chose from дубовъ	 to 	гудовъ, дировъ, чудовъ, бутовъ, тулбовъ	 distance == 2
+CANNOT chose from ввозити	 to 	возити, свозити, вводити	 distance == 1
+CANNOT chose from измерзнути	 to 	мерзнути, обмерзнути	 distance == 2
+CANNOT chose from черность	 to 	ревность, лѣность, дерзость, бѣдность	 distance == 2
+CANNOT chose from посупити	 to 	посушити, посудити, поступити	 distance == 1
+CANNOT chose from шибение	 to 	биение, видѣние, лишение, имѣние	 distance == 2
+CANNOT chose from открывати	 to 	покрывати, скрывати, укрывати	 distance == 2
+CANNOT chose from свлачати	 to 	влагати, влачити, складати, облачати, слагати, свѣчати	 distance == 2
+CANNOT chose from помордати	 to 	помолчати, поторгати	 distance == 2
+CANNOT chose from полнъ	 to 	полый, полный	 distance == 2
+CANNOT chose from утерти	 to 	отерти, терти	 distance == 1
+CANNOT chose from посягнути	 to 	посякнути, потягнути	 distance == 1
+CANNOT chose from загнати	 to 	загнути, загнити	 distance == 1
+CANNOT chose from всыпати	 to 	сыпати, ссыпати, осыпати, всылати	 distance == 1
+CANNOT chose from утѣшникъ	 to 	отѣникъ, грѣшникъ, ученикъ	 distance == 2
+CANNOT chose from пухати	 to 	пихати, пахати, пхати	 distance == 1
+CANNOT chose from наважение	 to 	наведение, нападение, наслажение, нахожение	 distance == 2
+CANNOT chose from полоная	 to 	погоня, полонъ, попона, полота	 distance == 2
+CANNOT chose from кринъ	 to 	крикъ, критъ, каинъ	 distance == 1
+CANNOT chose from восткнути	 to 	ростянути, посякнути, поткнути	 distance == 2
+CANNOT chose from наѣздити	 to 	нарядити, поѣздити, ѣздити, нацидити, наводити, навадити, обездити, находити, насадити	 distance == 2
+CANNOT chose from дука	 to 	рука, душа, дуга, мука, лука, дума, дска, щука	 distance == 1
+CANNOT chose from виоти	 to 	вои, меоти	 distance == 2
+CANNOT chose from розносити	 to 	износити, взносити	 distance == 2
+CANNOT chose from бѣгание	 to 	обѣщание, обѣдание	 distance == 2
+CANNOT chose from прихажати	 to 	проважати, придавати, прибѣжати, прижати, прилежати, причащати, приказати, прохлажати, приѣзжати, припадати, пригожати	 distance == 2
+CANNOT chose from луковати	 to 	исковати, оковати, лиховати, сковати, куповати, ковати, уповати, лукавовати	 distance == 2
+CANNOT chose from дунути	 to 	дхнути, сунути	 distance == 1
+CANNOT chose from повиснути	 to 	окиснути, починути, повинити, потснути, дотиснути, прокиснути, подвигнути, погибнути, покинути	 distance == 2
+CANNOT chose from втещи	 to 	врещи, тещи, втечи, вжещи	 distance == 1
+CANNOT chose from предварити	 to 	подварити, приварити, переварити	 distance == 2
+CANNOT chose from залозный	 to 	законный, жалобный, золотный	 distance == 2
+CANNOT chose from дверца	 to 	дверь, верба, вѣра	 distance == 2
+CANNOT chose from одолѣние	 to 	полѣние, одѣние	 distance == 2
+CANNOT chose from потскивати	 to 	потчивати, покивати, понюкивати	 distance == 2
+CANNOT chose from хоружка	 to 	дорожка, порука	 distance == 2
+CANNOT chose from щирица	 to 	ирина, ширина, лисица	 distance == 2
+CANNOT chose from измолвити	 to 	изволити, измочити, намолвити, молвити	 distance == 2
+CANNOT chose from выправити	 to 	выпарити, направити, поправити, правити, оправити, отправити, доправити, управити, исправити	 distance == 2
+CANNOT chose from пронский	 to 	понтский, плотский, полский, брянский, прокий, конский	 distance == 2
+CANNOT chose from прошибати	 to 	прорицати, проливати, прочитати, пробивати, прозирати, проимати, пропивати, погибати	 distance == 2
+CANNOT chose from пленение	 to 	сплетение, печение	 distance == 2
+CANNOT chose from буий	 to 	буи, шуий	 distance == 1
+CANNOT chose from подхути	 to 	поддати, подпити, подаяти, поѣхати, подтяти, почути, подѣяти, подрати, подити, подати, подяти	 distance == 2
+CANNOT chose from порожение	 to 	положение, поможение	 distance == 1
+CANNOT chose from предвести	 to 	привести, провести, перевести	 distance == 2
+CANNOT chose from пошити	 to 	поити, побити, пожити, почити, подити	 distance == 1
+CANNOT chose from вчинити	 to 	чинити, учинити, винити	 distance == 1
+CANNOT chose from трость	 to 	ярость, рость	 distance == 1
+CANNOT chose from выврещи	 to 	взврѣщи, вврѣщи	 distance == 1
+CANNOT chose from прѣтити	 to 	срѣтити, прѣдити	 distance == 1
+CANNOT chose from самара	 to 	навара, сарра, смага, самария, сахаръ, комара, сатана	 distance == 2
+CANNOT chose from раждигати	 to 	разжигати, зажигати	 distance == 2
+CANNOT chose from стрѣжевъ	 to 	стрежень, стрешневъ	 distance == 2
+CANNOT chose from безводие	 to 	безвѣрие, бездждие, безлобие	 distance == 2
+CANNOT chose from поповъ	 to 	пословъ, лотовъ	 distance == 2
+CANNOT chose from иона	 to 	гиона, хиона, икона	 distance == 1
+CANNOT chose from полати	 to 	палати, полоти	 distance == 1
+CANNOT chose from удица	 to 	рудица, утица, улица	 distance == 1
+CANNOT chose from повинникъ	 to 	пошлинникъ, полонникъ, подвижникъ, повозникъ	 distance == 2
+CANNOT chose from славий	 to 	славлий, флавий	 distance == 1
+CANNOT chose from потечение	 to 	потчение, поточение	 distance == 1
+CANNOT chose from срещи	 to 	рещи, врещи, сѣщи, сжещи, брещи	 distance == 1
+CANNOT chose from избѣжение	 to 	извѣщение, измѣнение	 distance == 2
+CANNOT chose from свѣиский	 to 	тверский, воиский, селский, сѣверский	 distance == 2
+CANNOT chose from безвѣстный	 to 	безвѣрный, бесчестный	 distance == 2
+CANNOT chose from полова	 to 	голова, полота	 distance == 1
+CANNOT chose from ламский	 to 	вамский, лазский	 distance == 1
+CANNOT chose from потапляти	 to 	поставляти, покрапляти, попаляти	 distance == 2
+CANNOT chose from сравный	 to 	срамный, равный, славный	 distance == 1
+CANNOT chose from сирвидъ	 to 	сновидъ, сиринъ	 distance == 2
+CANNOT chose from очерести	 to 	обрѣсти, отврѣсти, очервити	 distance == 2
+CANNOT chose from введение	 to 	велѣние, взвѣщение, наведение, видѣние, обѣдение, невѣдѣние, снѣдение, отѣдение, сѣдѣние, свѣтѣние	 distance == 2
+CANNOT chose from баснь	 to 	башня, часть, казнь, дань, пѣснь, брань, баня	 distance == 2
+CANNOT chose from изотяти	 to 	изяти, измяти	 distance == 2
+CANNOT chose from варязи	 to 	варя, варягъ	 distance == 2
+CANNOT chose from комата	 to 	комната, комара	 distance == 1
+CANNOT chose from скрания	 to 	сбрание, срание, сардания, скамия	 distance == 2
+CANNOT chose from вшити	 to 	сшити, впити, взити, вити	 distance == 1
+CANNOT chose from лодийный	 to 	ролийный, копийный	 distance == 2
+CANNOT chose from меншица	 to 	зѣница, сѣнница, денница	 distance == 2
+CANNOT chose from наѣздъ	 to 	наузъ, поѣздъ, нарядъ, народъ, насадъ	 distance == 2
+CANNOT chose from чернило	 to 	черница, мѣрило	 distance == 2
+CANNOT chose from нѣмъ	 to 	яневъ, нѣмый, ноевъ	 distance == 2
+CANNOT chose from малихъ	 to 	мнихъ, малокъ, малъ, маринъ, меликъ, малчикъ	 distance == 2
+CANNOT chose from уротити	 to 	укротити, уронити	 distance == 1
+CANNOT chose from ращисти	 to 	тащити, рачити, разити, радити, расѣсти, ратити, расти	 distance == 2
+CANNOT chose from яволодъ	 to 	голодъ, волокъ, солодъ, волохъ, волосъ	 distance == 2
+CANNOT chose from побѣживати	 to 	побѣждати, побѣжати, побивати	 distance == 2
+CANNOT chose from издразити	 to 	здравити, излазити	 distance == 2
+CANNOT chose from силець	 to 	палець, селедь, сидѣлець, писець, талець, ссець, сѣчець	 distance == 2
+CANNOT chose from хотрия	 to 	дория, локрия	 distance == 2
+CANNOT chose from титла	 to 	сила, тиуна, татба, жила, тигра, висла, метла, литва, литра, нитка	 distance == 2
+CANNOT chose from измолити	 to 	изволити, измочити	 distance == 1
+CANNOT chose from просѣщи	 to 	посѣщи, просѣчи	 distance == 1
+CANNOT chose from городелъ	 to 	городъ, городокъ, городець	 distance == 2
+CANNOT chose from пригарати	 to 	пригнати, приварити, придавати, причащати, приказати, прибрати, припадати, прибирати, призирати, припарити, пригожати	 distance == 2
+CANNOT chose from поповый	 to 	соковый, готовый, годовый	 distance == 2
+CANNOT chose from выѣздити	 to 	выѣждати, поѣздити, выѣзжати, врѣдити, ѣздити, высадити, обездити, выходити	 distance == 2
+CANNOT chose from привища	 to 	пригрща, прививка	 distance == 2
+CANNOT chose from анафанъ	 to 	сарафанъ, агафонъ	 distance == 2
+CANNOT chose from платище	 to 	платице, платие	 distance == 1
+CANNOT chose from врежати	 to 	дрожати, ржати	 distance == 2
+CANNOT chose from рослати	 to 	послати, сослати	 distance == 1
+CANNOT chose from жалати	 to 	жалити, желати	 distance == 1
+CANNOT chose from силва	 to 	сила, силка	 distance == 1
+CANNOT chose from чуждь	 to 	ужь, чужий	 distance == 2
+CANNOT chose from загородець	 to 	огородець, городець	 distance == 2
+CANNOT chose from изварити	 to 	изжарити, взварити	 distance == 1
+CANNOT chose from котянь	 to 	комонь, корень, конь, кознь	 distance == 2
+CANNOT chose from грезнъ	 to 	грекъ, гречинъ, грѣхъ, рѣзъ	 distance == 2
+CANNOT chose from вписание	 to 	писание, списание	 distance == 1
+CANNOT chose from сѣхати	 to 	вѣхати, ѣхати	 distance == 1
+CANNOT chose from нищь	 to 	синь, нищий, нашь	 distance == 2
+CANNOT chose from погрязати	 to 	погрузити, повязати, порѣзати, погрязнути, погружати, погребати	 distance == 2
+CANNOT chose from синатовъ	 to 	пилатовъ, симановъ	 distance == 2
+CANNOT chose from сумъ	 to 	сума, симъ	 distance == 1
+CANNOT chose from поспѣвати	 to 	вспѣвати, успѣвати	 distance == 2
+CANNOT chose from прерѣзати	 to 	прорѣзати, перерѣзати	 distance == 1
+CANNOT chose from отравити	 to 	отрадити, оправити, отправити	 distance == 1
+CANNOT chose from иопий	 to 	иулий, копие, фотий, осий, мокий	 distance == 2
+CANNOT chose from потыкание	 to 	прѣтыкание, потщание	 distance == 2
+CANNOT chose from дослати	 to 	послати, достати, сослати	 distance == 1
+CANNOT chose from сольникъ	 to 	сотникъ, сокольникъ, росольникъ	 distance == 2
+CANNOT chose from строкъ	 to 	отрокъ, стропъ, срокъ	 distance == 1
+CANNOT chose from лохть	 to 	лесть, ловоть, лотъ	 distance == 2
+CANNOT chose from дакий	 to 	кий, исакий, арий, раклий, мокий, никий	 distance == 2
+CANNOT chose from поимъ	 to 	пиръ, симъ, поземъ, римъ	 distance == 2
+CANNOT chose from разяти	 to 	разити, розяти	 distance == 1
+CANNOT chose from июдинъ	 to 	июдиный, июдовъ	 distance == 2
+CANNOT chose from рафия	 to 	софия, братия, фракия, русия, рафли, асия, мария, раи, масия, кария, аравия, ролия, робия	 distance == 2
+CANNOT chose from отторгнути	 to 	исторгнути, выторгнути	 distance == 2
+CANNOT chose from пожагание	 to 	поругание, показание	 distance == 2
+CANNOT chose from кимонъ	 to 	лимонъ, симонъ	 distance == 1
+CANNOT chose from мариамъ	 to 	маринъ, мадиомъ, варламъ	 distance == 2
+CANNOT chose from моложий	 to 	молодый, холопий	 distance == 2
+CANNOT chose from обстати	 to 	остати, отстати, обитати	 distance == 1
+CANNOT chose from взущати	 to 	пущати, взирати, взмужати, взорати, вздати, вѣщати, вкушати, взвѣщати, вмѣщати, взимати, смущати, поущати	 distance == 2
+CANNOT chose from богуславъ	 to 	богословъ, болеславъ	 distance == 2
+CANNOT chose from паличный	 to 	пялечный, папиный, различный, причный	 distance == 2
+CANNOT chose from сумь	 to 	семь, сума	 distance == 1
+CANNOT chose from мельникъ	 to 	зеленикъ, мечникъ, метельникъ, меликъ	 distance == 2
+CANNOT chose from начатие	 to 	назание, наитие	 distance == 2
+CANNOT chose from краиний	 to 	красный, краткий	 distance == 2
+CANNOT chose from карасъ	 to 	харатъ, запасъ, дамасъ, казанъ, квасъ, караулъ, фарисъ, баракъ, каганъ, кратъ, кафаръ, кабанъ, аранъ, баранъ, казакъ, класъ, парусъ	 distance == 2
+CANNOT chose from щитникъ	 to 	вирникъ, сотникъ, хищникъ, мытникъ, лѣтникъ, ратникъ	 distance == 2
+CANNOT chose from премостити	 to 	простити, помостити, прелстити	 distance == 2
+CANNOT chose from горячь	 to 	боричь, горячий	 distance == 2
+CANNOT chose from розгонити	 to 	разгонити, розгоняти	 distance == 1
+CANNOT chose from вѣрникъ	 to 	вирникъ, мѣрникъ	 distance == 1
+CANNOT chose from подзирати	 to 	прозирати, дозирати	 distance == 2
+CANNOT chose from невѣжский	 to 	сѣверский, невеликий	 distance == 2
+CANNOT chose from доспѣвати	 to 	вспѣвати, успѣвати	 distance == 2
+CANNOT chose from кумъ	 to 	умъ, кусъ, кунъ, куръ, шумъ	 distance == 1
+CANNOT chose from угошити	 to 	угонити, угодити	 distance == 1
+CANNOT chose from гордъ	 to 	гордый, горий	 distance == 2
+CANNOT chose from отполонити	 to 	полонити, отклонити	 distance == 2
+CANNOT chose from прохоръ	 to 	проторъ, проходъ	 distance == 1
+CANNOT chose from анаданъ	 to 	енданъ, ладанъ, аладинъ	 distance == 2
+CANNOT chose from увити	 to 	явити, вити	 distance == 1
+CANNOT chose from дщичный	 to 	дивный, длинный, доиный, дщаный, причный	 distance == 2
+CANNOT chose from всковати	 to 	исковати, сковати	 distance == 1
+CANNOT chose from лаосъ	 to 	лисъ, лось	 distance == 2
+CANNOT chose from погарати	 to 	побарати, погашати	 distance == 1
+CANNOT chose from клавдий	 to 	славлий, флавий	 distance == 2
+CANNOT chose from терентий	 to 	берестий, дементий	 distance == 2
+CANNOT chose from хрусипъ	 to 	хрустъ, русинъ	 distance == 2
+CANNOT chose from ищезати	 to 	рѣзати, изрѣзати, исчезати, изѣхати	 distance == 2
+CANNOT chose from вгрѣшити	 to 	грѣшити, сгрѣшити	 distance == 1
+CANNOT chose from туча	 to 	луча, туга	 distance == 1
+CANNOT chose from обатѣти	 to 	богатѣти, обертѣти	 distance == 2
+CANNOT chose from гинути	 to 	минути, кинути, ринути	 distance == 1
+CANNOT chose from поръ	 to 	пиръ, пора	 distance == 1
+CANNOT chose from причитати	 to 	прочитати, причетати	 distance == 1
+CANNOT chose from кочь	 to 	корь, кошь, ночь, конь	 distance == 1
+CANNOT chose from калка	 to 	кашка, камка, палка, галка	 distance == 1
+CANNOT chose from вспросити	 to 	впросити, спросити, испросити	 distance == 1
+CANNOT chose from свлещи	 to 	влѣщи, сврѣщи	 distance == 1
+CANNOT chose from нелѣпота	 to 	лѣпота, слѣпота	 distance == 2
+CANNOT chose from сдвакъ	 to 	саванъ, сваръ	 distance == 2
+CANNOT chose from калуръ	 to 	каптуръ, калъ, асуръ, канунъ, клубъ, куръ, кафаръ	 distance == 2
+CANNOT chose from олекса	 to 	олена, олекъ	 distance == 2
+CANNOT chose from небръ	 to 	дебрь, бобръ, ребро, небо	 distance == 2
+CANNOT chose from иосѣянинъ	 to 	индѣянинъ, поселянинъ	 distance == 2
+CANNOT chose from изборный	 to 	сборный, взорный	 distance == 2
+CANNOT chose from городенъ	 to 	городня, груденъ	 distance == 2
+CANNOT chose from липовъ	 to 	симовъ, филиповъ, сифовъ, дировъ, лотовъ	 distance == 2
+CANNOT chose from разбиение	 to 	разорение, разжжение, разумѣние	 distance == 2
+CANNOT chose from дудимъ	 to 	пудикъ, радимъ, рувимъ, чудинъ	 distance == 2
+CANNOT chose from обсѣсти	 to 	осѣсти, обрѣсти	 distance == 1
+CANNOT chose from початие	 to 	платие, почестие	 distance == 2
+CANNOT chose from двоиный	 to 	дворный, доиный	 distance == 1
+CANNOT chose from дчинь	 to 	чинъ, дчи	 distance == 2
+CANNOT chose from траяда	 to 	отрада, троада	 distance == 2
+CANNOT chose from обрасти	 to 	обрѣсти, окрасти, обрати	 distance == 1
+CANNOT chose from гавафъ	 to 	саваофъ, гаваонъ	 distance == 2
+CANNOT chose from сидонский	 to 	идолский, содомский, жидовский	 distance == 2
+CANNOT chose from фаустъ	 to 	кустъ, хрустъ	 distance == 2
+CANNOT chose from залещи	 to 	зажещи, залечи	 distance == 1
+CANNOT chose from облыгати	 to 	отлагати, обливати, облѣчати, облизати, облачати, обличати, обладати, облежати, обругати	 distance == 2
+CANNOT chose from вверечи	 to 	ввѣрити, уберечи, стеречи, вврѣщи, беречи	 distance == 2
+CANNOT chose from таковъ	 to 	адовъ, таковый, хамовъ, исаковъ, тудковъ, юшковъ	 distance == 2
+CANNOT chose from можити	 to 	ложити, пожити, морити, ожити, множити, божити, молити	 distance == 1
+CANNOT chose from фриса	 to 	гриба, приспа, орина, фарисъ, риза, ирина, рига, роса	 distance == 2
+CANNOT chose from демидъ	 to 	емигъ, дѣмонъ, демиянъ, денисъ, дѣдъ	 distance == 2
+CANNOT chose from решетный	 to 	трепетный, бѣшеный, ременный	 distance == 2
+CANNOT chose from погнести	 to 	понести, погрести	 distance == 1
+CANNOT chose from сѣмець	 to 	нѣмець, сѣчець	 distance == 1
+CANNOT chose from обуздати	 to 	обѣдати, обѣзждати, обладати, обездити	 distance == 2
+CANNOT chose from брадица	 to 	драница, братина, рудица, срачица, брада, крабица	 distance == 2
+CANNOT chose from прояти	 to 	проити, прияти	 distance == 1
+CANNOT chose from бывший	 to 	болший, выший	 distance == 2
+CANNOT chose from горина	 to 	година, орина, гобина	 distance == 1
+CANNOT chose from изѣдь	 to 	зель, снѣдь	 distance == 2
+CANNOT chose from волптъ	 to 	волхвъ, волъ, волокъ, полотъ, холстъ, волохъ, волосъ, волкъ	 distance == 2
+CANNOT chose from выпущати	 to 	пущати, выкупати, испущати, попущати, вычищати, выпахати, отпущати	 distance == 2
+CANNOT chose from демествяникъ	 to 	деместникъ, ремествникъ	 distance == 2
+CANNOT chose from люблинъ	 to 	людинъ, блинъ	 distance == 2
+CANNOT chose from синаи	 to 	сѣни, сила, сани, вина, спина, дунаи, мина, инди, сараи, синко	 distance == 2
+CANNOT chose from взгрѣбати	 to 	вздрѣмати, взгремѣти, отгрѣбати, погребати	 distance == 2
+CANNOT chose from сгубити	 to 	срубити, губити	 distance == 1
+CANNOT chose from входъ	 to 	ходъ, оходъ	 distance == 1
+CANNOT chose from тесати	 to 	ткати, ссати, тщати, тпати	 distance == 2
+CANNOT chose from усрѣтовати	 to 	свѣтовати, сѣтовати	 distance == 2
+CANNOT chose from пригорѣти	 to 	пригрѣсти, призрѣти	 distance == 2
+CANNOT chose from люнфъ	 to 	лютъ, льнъ	 distance == 2
+CANNOT chose from горнило	 to 	горница, горло	 distance == 2
+CANNOT chose from пристраяти	 to 	пристояти, пристравати, пристати, пристроити	 distance == 2
+CANNOT chose from цѣвца	 to 	дѣва, дѣвка, евга, цѣна, овца, дѣвица, цѣлба	 distance == 2
+CANNOT chose from стухия	 to 	скуфия, судия, сурия	 distance == 2
+CANNOT chose from тщивый	 to 	живый, тщий, лживый, таиный, кривый	 distance == 2
+CANNOT chose from скуменъ	 to 	куманъ, игуменъ	 distance == 2
+CANNOT chose from похотникъ	 to 	постникъ, плотникъ	 distance == 2
+CANNOT chose from ярь	 to 	ямь, ядь, янь, язь	 distance == 1
+CANNOT chose from давятъ	 to 	навѣтъ, давыдъ, завѣтъ	 distance == 2
+CANNOT chose from порозный	 to 	породный, пороздный	 distance == 1
+CANNOT chose from роспросити	 to 	спросити, испросити	 distance == 2
+CANNOT chose from кра	 to 	икра, краи	 distance == 1
+CANNOT chose from стрещи	 to 	отрещи, острѣщи	 distance == 1
+CANNOT chose from зинути	 to 	минути, кинути, ринути	 distance == 1
+CANNOT chose from поглядати	 to 	оглядати, поглядѣти	 distance == 1
+CANNOT chose from волити	 to 	вялити, валити	 distance == 1
+CANNOT chose from измирати	 to 	взирати, измерети, избрати, изимати, изметати, изгарати, умирати, изнимати, избивати, сзирати	 distance == 2
+CANNOT chose from лаворъ	 to 	ларъ, лазорь, аверъ	 distance == 2
+CANNOT chose from отолстити	 to 	отомстити, оболстити	 distance == 1
+CANNOT chose from землець	 to 	нѣмець, зелень	 distance == 2
+CANNOT chose from кихание	 to 	писание, кричание, дыхание, зидание, закихание, копание	 distance == 2
+CANNOT chose from голско	 to 	молоко, голка, воиско, колчко	 distance == 2
+CANNOT chose from сринути	 to 	вринути, скинути, ринути	 distance == 1
+CANNOT chose from сдеславъ	 to 	судиславъ, всеславъ	 distance == 2
+CANNOT chose from выборъ	 to 	сборъ, боръ, взоръ, воръ	 distance == 2
+CANNOT chose from удовный	 to 	дивный, духовный, ровный, кровный, угодный, усобный, удобый, судовый, доиный	 distance == 2
+CANNOT chose from скокъ	 to 	скопъ, срокъ, скотъ, сокъ	 distance == 1
+CANNOT chose from бещинный	 to 	единный, бесчинный, рѣпинный, мѣзинный	 distance == 2
+CANNOT chose from кучковъ	 to 	тудковъ, клековъ	 distance == 2
+CANNOT chose from бѣдница	 to 	черница, божница, задница, десница, седмица, пещница, зѣница, темница, сѣнница, блудница, денница	 distance == 2
+CANNOT chose from чашный	 to 	банный, частый, разный, варный, пышный, ратный, тошный, равный, черный, чудный, ранный, таиный, зарный, раный	 distance == 2
+CANNOT chose from предрещи	 to 	прѣдтещи, прѣдречи	 distance == 1
+CANNOT chose from рютие	 to 	прутие, питие, устие, житие, пѣтие, ястие, людие, бытие	 distance == 2
+CANNOT chose from запяти	 to 	заяти, напяти, запѣти, заняти	 distance == 1
+CANNOT chose from виси	 to 	миди, вои, вина, вино, лисъ, висла, викия, видъ, вѣсъ, весь, вира	 distance == 2
+CANNOT chose from бременный	 to 	бревенный, ременный	 distance == 1
+CANNOT chose from сыпъ	 to 	сыръ, сынъ	 distance == 1
+CANNOT chose from кликъ	 to 	крикъ, ликъ	 distance == 1
+CANNOT chose from капилия	 to 	капля, камалия	 distance == 2
+CANNOT chose from блазнь	 to 	болѣзнь, сблазнъ	 distance == 2
+CANNOT chose from келаревъ	 to 	итларевъ, цѣсаревъ	 distance == 2
+CANNOT chose from прѣсна	 to 	пѣна, чрѣсла, трѣска, весна, приспа, пѣснь, десна, плѣснь	 distance == 2
+CANNOT chose from овчий	 to 	ловчий, отчий	 distance == 1
+CANNOT chose from мравий	 to 	флавий, аравия	 distance == 2
+CANNOT chose from вѣдѣние	 to 	видѣние, сѣдѣние	 distance == 1
+CANNOT chose from днище	 to 	дѣтище, ужище	 distance == 2
+CANNOT chose from испѣти	 to 	успѣти, спѣти	 distance == 1
+CANNOT chose from почрети	 to 	пожрѣти, позрѣти, помрѣти	 distance == 1
+CANNOT chose from луевъ	 to 	яневъ, алеевъ, ноевъ	 distance == 2
+CANNOT chose from алочный	 to 	лычный, плотный, яблочный, точный, лавочный, ложный, ночный, оточный, жалобный	 distance == 2
+CANNOT chose from капилие	 to 	насилие, капище	 distance == 2
+CANNOT chose from критий	 to 	критъ, куриний	 distance == 2
+CANNOT chose from панемъ	 to 	павелъ, снемъ, поземъ	 distance == 2
+CANNOT chose from гадаръ	 to 	даръ, адамъ, сахаръ, гадира, базаръ, кафаръ, ударъ, ладанъ, гадъ	 distance == 2
+CANNOT chose from меркнути	 to 	смеркнути, мерзнути	 distance == 1
+CANNOT chose from прославление	 to 	поставление, прѣставление	 distance == 2
+CANNOT chose from тпотъ	 to 	шпотъ, потъ	 distance == 1
+CANNOT chose from благолюбивый	 to 	братолюбивый, боголюбивый	 distance == 2
+CANNOT chose from надѣвати	 to 	надѣлати, насѣвати, надавати	 distance == 1
+CANNOT chose from вбости	 to 	бости, сбости	 distance == 1
+CANNOT chose from дустръ	 to 	днѣстръ, истръ, кустъ, дмитръ	 distance == 2
+CANNOT chose from поѣсти	 to 	понести, поясти, помести, посѣсти, плести, повѣсти, почести, повести	 distance == 1
+CANNOT chose from галѣя	 to 	галуи, шлея, галка	 distance == 2
+CANNOT chose from предати	 to 	передати, продати	 distance == 1
+CANNOT chose from двренъ	 to 	дубенъ, врѣдъ, вранъ, овенъ	 distance == 2
+CANNOT chose from тошманъ	 to 	обманъ, романъ	 distance == 2
+CANNOT chose from алвинъ	 to 	навинъ, алтынъ, аршинъ, овинъ, блинъ, алвадъ, аладинъ	 distance == 2
+CANNOT chose from премогати	 to 	прѣбѣгати, прѣмолчати	 distance == 2
+CANNOT chose from врыти	 to 	рыти, выти, крыти	 distance == 1
+CANNOT chose from пощадити	 to 	посадити, пощадѣти, покадити	 distance == 1
+CANNOT chose from лѣсти	 to 	лѣзти, сѣсти, ѣсти	 distance == 1
+CANNOT chose from коту	 to 	корь, коря, ковъ, рота, ротъ, кожа, кошь, котка, готе, сотъ, китъ, коса, кость, кози, фота, кобъ, потъ, конь, колъ, коло, скотъ, коза, лотъ	 distance == 2
+CANNOT chose from бзяница	 to 	божница, пияница, зѣница	 distance == 2
+CANNOT chose from воини	 to 	воина, воинъ, воинь	 distance == 1
+CANNOT chose from надмение	 to 	затмение, наущение, научение, знамение, неимѣние, падение, камение	 distance == 2
+CANNOT chose from преносити	 to 	проносити, переносити	 distance == 1
+CANNOT chose from храмати	 to 	пращати, хватати, прашати, дрѣмати, хапати, хрщати, ражати, хранити	 distance == 2
+CANNOT chose from вятский	 to 	лядский, вамский, воиский, летский, дѣтский, ямский, сотский	 distance == 2
+CANNOT chose from папулъ	 to 	павелъ, падунъ, посулъ, саулъ, парусъ, пепелъ	 distance == 2
+CANNOT chose from подвести	 to 	подмести, повести	 distance == 1
+CANNOT chose from неродити	 to 	бродити, сердити, родити, городити, породити, вередити, дородити	 distance == 2
+CANNOT chose from отобѣдати	 to 	обѣдати, отбѣжати	 distance == 2
+CANNOT chose from докладывати	 to 	укладывати, откладывати, складывати	 distance == 2
+CANNOT chose from удобный	 to 	усобный, удобый	 distance == 1
+CANNOT chose from лѣтный	 to 	лестный, клѣтный	 distance == 1
+CANNOT chose from тѣлище	 to 	зелие, дѣтище, тылие, стрѣлище, жилище	 distance == 2
+CANNOT chose from средъ	 to 	срѣда, ссѣдъ, слѣдъ, врѣдъ	 distance == 1
+CANNOT chose from сартакъ	 to 	салтанъ, каитакъ, баракъ, саадакъ	 distance == 2
+CANNOT chose from мафорий	 to 	мамврий, мефодий, макарий	 distance == 2
+CANNOT chose from мусия	 to 	масия, мосия	 distance == 1
+CANNOT chose from рѣшити	 to 	рушити, грѣшити, тѣшити	 distance == 1
+CANNOT chose from гребець	 to 	жеребець, погребець	 distance == 2
+CANNOT chose from испрание	 to 	сбрание, спание, избрание, срание	 distance == 2
+CANNOT chose from ужский	 to 	лужский, мужский	 distance == 1
+CANNOT chose from германий	 to 	германъ, германы	 distance == 2
+CANNOT chose from мордовский	 to 	московский, мартовский	 distance == 2
+CANNOT chose from спрящи	 to 	напрящи, впрячи, стрѣщи, сврѣщи	 distance == 2
+CANNOT chose from лвовъ	 to 	олговъ, лотовъ	 distance == 2
+CANNOT chose from прикрашати	 to 	приказати, прикладати	 distance == 2
+CANNOT chose from германия	 to 	германъ, германы	 distance == 2
+CANNOT chose from сплѣтати	 to 	срѣтати, сплясати, плевати, сметати, лѣтати, исплатати, склевати, счетати, спрятати, сплатити, оплевати	 distance == 2
+CANNOT chose from дивие	 to 	питие, ирие, ливия, житие	 distance == 2
+CANNOT chose from всаживати	 to 	сваживати, всажати	 distance == 2
+CANNOT chose from перфира	 to 	персида, перина	 distance == 2
+CANNOT chose from лои	 to 	вои, бои, нои	 distance == 1
+CANNOT chose from неслушание	 to 	послушание, ослушание	 distance == 2
+CANNOT chose from ровамъ	 to 	ровоамъ, еровамъ	 distance == 1
+CANNOT chose from замедлити	 to 	замѣсити, замыслити	 distance == 2
+CANNOT chose from миличь	 to 	биричь, кличь	 distance == 2
+CANNOT chose from мѣрный	 to 	мѣдный, вѣрный	 distance == 1
+CANNOT chose from ия	 to 	имя, шия, лия	 distance == 1
+CANNOT chose from греци	 to 	греча, грекъ, ереи, рѣи, грѣхъ	 distance == 2
+CANNOT chose from касикъ	 to 	камыкъ, крикъ, косякъ, кусокъ, каинъ, касогъ, казакъ, асиръ	 distance == 2
+CANNOT chose from изнарядити	 to 	изрядити, нарядити	 distance == 2
+CANNOT chose from плесно	 to 	плесо, плѣснь	 distance == 1
+CANNOT chose from посмагъ	 to 	посмѣхъ, поставъ	 distance == 2
+CANNOT chose from повестися	 to 	повѣсти, повести	 distance == 2
+CANNOT chose from вячий	 to 	вѣчий, вящий	 distance == 1
+CANNOT chose from проочищати	 to 	подчищати, прочитати	 distance == 2
+CANNOT chose from крестиянъ	 to 	крестиянинъ, крестины	 distance == 2
+CANNOT chose from дворский	 to 	тверский, дворецкий	 distance == 2
+CANNOT chose from уступити	 to 	ступити, оступити, иступити	 distance == 1
+CANNOT chose from роспрати	 to 	роскрыти, попрати, распрѣти, опрати, розбрати, поспати, роптати	 distance == 2
+CANNOT chose from овощный	 to 	нощный, водный, мощный	 distance == 2
+CANNOT chose from подучивати	 to 	покушивати, подчищати, потчивати, почивати	 distance == 2
+CANNOT chose from асафъ	 to 	асатъ, асанъ	 distance == 1
+CANNOT chose from вредъ	 to 	уродъ, родъ, видъ, бродъ, иродъ	 distance == 2
+CANNOT chose from ананъ	 to 	асанъ, аранъ	 distance == 1
+CANNOT chose from посагъ	 to 	пожаръ, пологъ, порогъ, посулъ, поставъ, посохъ, поваръ, постъ, посолъ, просугъ, посѣтъ	 distance == 2
+CANNOT chose from томитель	 to 	кормитель, обитель, водитель, гонитель, родитель	 distance == 2
+CANNOT chose from разгадати	 to 	разградити, раздавати, разгнати, разглядати	 distance == 2
+CANNOT chose from отѣкати	 to 	отсѣкати, отѣхати	 distance == 1
+CANNOT chose from взревновати	 to 	ревновати, поревновати	 distance == 2
+CANNOT chose from волочи	 to 	толочи, сволочи	 distance == 1
+CANNOT chose from немочи	 to 	мочи, помочи	 distance == 2
+CANNOT chose from помнѣти	 to 	помнити, помрѣти	 distance == 1
+CANNOT chose from акакий	 to 	исакий, макарий	 distance == 2
+CANNOT chose from упочити	 to 	почити, опочити	 distance == 1
+CANNOT chose from бережати	 to 	бѣжати, держати	 distance == 2
+CANNOT chose from позѣвание	 to 	созвание, поливание, познание, почивание	 distance == 2
+CANNOT chose from лусий	 to 	иулий, гурий, луеи, русия, лубие, осий	 distance == 2
+CANNOT chose from срядити	 to 	рядити, урядити	 distance == 1
+CANNOT chose from масльный	 to 	смысльный, сальный, гусльный, кальный, маслинный	 distance == 2
+CANNOT chose from теплота	 to 	лѣпота, тѣснота, тепло	 distance == 2
+CANNOT chose from покладывати	 to 	укладывати, откладывати, складывати	 distance == 2
+CANNOT chose from грезнъ	 to 	грекъ, гречинъ, грѣхъ, рѣзъ	 distance == 2
+CANNOT chose from потаеный	 to 	потопный, поганый	 distance == 2
+CANNOT chose from немиловати	 to 	помиловати, миловати	 distance == 2
+CANNOT chose from зовъ	 to 	ковъ, ловъ, ровъ	 distance == 1
+CANNOT chose from вязание	 to 	тяжание, встание, рѣзание, назание, вещание, вздание, вякане	 distance == 2
+CANNOT chose from тска	 to 	мска, дска	 distance == 1
+CANNOT chose from извинити	 to 	изволити, изринути, изводити, изгонити, повинити, измѣнити, извѣсити, обвинити, винити, звонити, изгнити	 distance == 2
+CANNOT chose from надѣление	 to 	наведение, раздѣление	 distance == 2
+CANNOT chose from лежание	 to 	метание, тяжание, рѣзание, вещание, дѣлание, сѣдание, желание, блевание, належание	 distance == 2
+CANNOT chose from сступъ	 to 	сустугъ, ссудъ, студъ, заступъ, стукъ, сставъ, асупъ, стулъ	 distance == 2
+CANNOT chose from фондъ	 to 	понтъ, гонъ, сонъ, годъ, родъ, ходъ, донъ	 distance == 2
+CANNOT chose from черпати	 to 	утерпати, держати, терзати, терпѣти, дерзати	 distance == 2
+CANNOT chose from раздробити	 to 	раздрѣшити, раздрушити, разграбити	 distance == 2
+CANNOT chose from разрачение	 to 	разлучение, разрѣшение	 distance == 2
+CANNOT chose from произити	 to 	прибити, прижити	 distance == 2
+CANNOT chose from стольникъ	 to 	столикъ, сокольникъ	 distance == 2
+CANNOT chose from баскакъ	 to 	башмакъ, баракъ	 distance == 2
+CANNOT chose from очертати	 to 	обертѣти, омѣтати, очервити, счетати, одержати	 distance == 2
+CANNOT chose from сяковъ	 to 	симовъ, сифовъ, исаковъ, сяковый, юшковъ	 distance == 2
+CANNOT chose from курсоръ	 to 	кусокъ, куртокъ, курокъ	 distance == 2
+CANNOT chose from постичи	 to 	постити, постричи	 distance == 1
+CANNOT chose from синаникъ	 to 	синодикъ, сенадикъ	 distance == 2
+CANNOT chose from мохъ	 to 	морхъ, мѣхъ, моръ	 distance == 1
+CANNOT chose from потреба	 to 	потѣха, трѣба, погребъ	 distance == 2
+CANNOT chose from притечи	 to 	приречи, притещи	 distance == 1
+CANNOT chose from неродство	 to 	юродство, уродство	 distance == 2
+CANNOT chose from рижский	 to 	римский, ризский	 distance == 1
+CANNOT chose from лодия	 to 	лидия, лодя	 distance == 1
+CANNOT chose from осла	 to 	сила, оселъ, сула	 distance == 2
+CANNOT chose from сжидати	 to 	ожидати, сзидати	 distance == 1
+CANNOT chose from взбѣгнути	 to 	вбѣгнути, избѣгнути, выбѣгнути	 distance == 1
+CANNOT chose from зобати	 to 	звати, здати, знати	 distance == 2
+CANNOT chose from густи	 to 	сути, гнити, бости, цвсти, чути, чисти, грѣти, пасти, уити, гасити, губити, сѣсти, грети, гнати, гуляти, нести, грясти, мясти, мести, ѣсти, сясти, ясти, вести, расти, чести, кусати	 distance == 2
+CANNOT chose from сткло	 to 	столъ, стулъ	 distance == 2
+CANNOT chose from брягинъ	 to 	бояринъ, брячина	 distance == 2
+CANNOT chose from голчити	 to 	ополчити, волочити	 distance == 2
+CANNOT chose from извнѣти	 to 	изумѣти, изнести, измлѣти, изгнати, изврѣщи, изодѣти, извлѣщи, извести, изгнити	 distance == 2
+CANNOT chose from фрина	 to 	орина, ирина	 distance == 1
+CANNOT chose from глубокъ	 to 	глѣбовъ, глубокий	 distance == 2
+CANNOT chose from виссъ	 to 	воскъ, лисъ, листъ, висла, власъ, исусъ, видъ, вѣсъ, пискъ	 distance == 2
+CANNOT chose from мическъ	 to 	пинескъ, луческъ, мѣнескъ	 distance == 2
+CANNOT chose from любь	 to 	либь, любы	 distance == 1
+CANNOT chose from лакомый	 to 	каковый, таковый, ласковый	 distance == 2
+CANNOT chose from вскипѣти	 to 	вспѣти, кипѣти	 distance == 2
+CANNOT chose from лафуръ	 to 	асуръ, ларъ, кафаръ, фуръ	 distance == 2
+CANNOT chose from огневъ	 to 	яневъ, осеневъ	 distance == 2
+CANNOT chose from опѣшити	 to 	потѣшити, тѣшити	 distance == 2
+CANNOT chose from порѣвати	 to 	порѣзати, порвати, повѣвати	 distance == 1
+CANNOT chose from мамедъ	 to 	медъ, ламехъ	 distance == 2
+CANNOT chose from поскакати	 to 	отскакати, скакати	 distance == 2
+CANNOT chose from изблевати	 to 	избивати, избывати	 distance == 2
+CANNOT chose from повивати	 to 	покивати, почивати, побивати, повѣвати, поливати	 distance == 1
+CANNOT chose from хитати	 to 	витати, питати	 distance == 1
+CANNOT chose from мичанинъ	 to 	кличанинъ, лучанинъ, рижанинъ	 distance == 2
+CANNOT chose from столець	 to 	стрѣлець, скопець, талець, ставець, старець	 distance == 2
+CANNOT chose from погрѣшение	 to 	сгрѣшение, прегрѣшение	 distance == 2
+CANNOT chose from мечевый	 to 	медовый, мечный	 distance == 2
+CANNOT chose from доволъ	 to 	волъ, дворъ	 distance == 2
+CANNOT chose from отлѣсти	 to 	отнести, отмести, отвести	 distance == 1
+CANNOT chose from побѣлити	 to 	подѣлити, обѣлити, побѣдити	 distance == 1
+CANNOT chose from истергати	 to 	истекати, стегати, истеряти, истерти	 distance == 2
+CANNOT chose from удечь	 to 	печь, рѣчь, унець, уметь, день, мечь, углечь	 distance == 2
+CANNOT chose from повои	 to 	покои, побои	 distance == 1
+CANNOT chose from филонъ	 to 	слонъ, полонъ, лимонъ, симонъ, филипъ, хилокъ, сионъ, никонъ	 distance == 2
+CANNOT chose from умедлити	 to 	умолити, умалити, умилити	 distance == 2
+CANNOT chose from взмолвити	 to 	намолвити, молвити	 distance == 2
+CANNOT chose from сурожець	 to 	муромець, туровець	 distance == 2
+CANNOT chose from раздражати	 to 	раздавати, раздрати, раздраждити	 distance == 2
+CANNOT chose from акула	 to 	хула, скала, сула, купа, куна	 distance == 2
+CANNOT chose from прекрасный	 to 	прѣужасный, прѣмрачный	 distance == 2
+CANNOT chose from тарихѣи	 to 	тархи, фарисѣи	 distance == 2
+CANNOT chose from нузла	 to 	нужда, уза, хула, нура, нужа, сула, узда	 distance == 2
+CANNOT chose from охудѣти	 to 	осудити, обидѣти, одѣти, осѣдѣти, оскудѣти	 distance == 2
+CANNOT chose from слина	 to 	спина, длина, глина, слива	 distance == 1
+CANNOT chose from подавляти	 to 	подаяти, подавити, подавати, поставляти, попаляти	 distance == 2
+CANNOT chose from усунути	 to 	сунути, уснути	 distance == 1
+CANNOT chose from ровнина	 to 	конина, мовница	 distance == 2
+CANNOT chose from скрежтати	 to 	стрежати, срѣтати	 distance == 2
+CANNOT chose from гагина	 to 	година, латина, таина, натина, глина, гадира, галица, гобина	 distance == 2
+CANNOT chose from удвоити	 to 	удивити, удавити	 distance == 2
+CANNOT chose from чгловъ	 to 	чудовъ, чюдовъ	 distance == 2
+CANNOT chose from иулианъ	 to 	иулиянъ, улианъ	 distance == 1
+CANNOT chose from перегатити	 to 	перемѣтити, перегнити, переварити	 distance == 2
+CANNOT chose from роскладати	 to 	складати, вскладати	 distance == 2
+CANNOT chose from григорь	 to 	григорий, игорь	 distance == 2
+CANNOT chose from росвѣтъ	 to 	просвѣть, свѣтъ	 distance == 2
+CANNOT chose from канъ	 to 	кунъ, каинъ	 distance == 1
+CANNOT chose from матѣи	 to 	мати, матфѣи	 distance == 1
+CANNOT chose from адоровъ	 to 	адовъ, федоровъ	 distance == 2
+CANNOT chose from излупити	 to 	облупити, искупити, изучити, излазити, излити, иступити, изгубити	 distance == 2
+CANNOT chose from занести	 to 	завести, нанести	 distance == 1
+CANNOT chose from звонение	 to 	изволение, гонение, творение	 distance == 2
+CANNOT chose from бивати	 to 	бывати, убивати	 distance == 1
+CANNOT chose from неистовъ	 to 	неистовый, христовъ	 distance == 2
+CANNOT chose from рождвати	 to 	доживати, дождати, пождати	 distance == 2
+CANNOT chose from адский	 to 	лядский, газский, вамский, градский, раиский, людский, лазский, ямский, дикий	 distance == 2
+CANNOT chose from сумеонъ	 to 	симеонъ, семеонъ	 distance == 1
+CANNOT chose from уристание	 to 	пристанище, блистание	 distance == 2
+CANNOT chose from битие	 to 	бите, бытие	 distance == 1
+CANNOT chose from страда	 to 	страна, отрада	 distance == 1
+CANNOT chose from скрада	 to 	срѣда, страна, смрадъ, ограда, скала, свада, брада, отрада, израда, середа, клада	 distance == 2
+CANNOT chose from дхорь	 to 	дверь, дебрь, дворъ	 distance == 2
+CANNOT chose from велрѣчие	 to 	велѣние, величие	 distance == 2
+CANNOT chose from плева	 to 	пѣна, плесо, дѣва, плече, олена, левъ, плечо, плаха, плѣнь, лѣна, елена, плеть, плита, слеза, плетка, глава, хлѣвъ, слива, плѣщь, племя, слава	 distance == 2
+CANNOT chose from сбѣжати	 to 	убѣжати, бѣжати	 distance == 1
+CANNOT chose from меотский	 to 	морский, летский, сотский	 distance == 2
+CANNOT chose from ниловъ	 to 	симовъ, сифовъ, дировъ, мниховъ	 distance == 2
+CANNOT chose from немощи	 to 	смощи, мощи, помощи	 distance == 2
+CANNOT chose from нетщета	 to 	нищета, тщета	 distance == 2
+CANNOT chose from авлонъ	 to 	слонъ, вавилонъ, антонъ, полонъ, гаваонъ, аронъ, акланъ, заулонъ, звонъ	 distance == 2
+CANNOT chose from пола	 to 	поле, полъ	 distance == 1
+CANNOT chose from напавание	 to 	нападение, наказание	 distance == 2
+CANNOT chose from печальникъ	 to 	начальникъ, пищальникъ	 distance == 2
+CANNOT chose from усякивати	 to 	искивати, умыкивати	 distance == 2
+CANNOT chose from переняти	 to 	перетяти, перемяти, переяти	 distance == 1
+CANNOT chose from преступити	 to 	проступити, переступити	 distance == 1
+CANNOT chose from лучникъ	 to 	ученикъ, мученикъ	 distance == 2
+CANNOT chose from ксанфъ	 to 	санъ, асанъ	 distance == 2
+CANNOT chose from изволяти	 to 	изволити, изваляти	 distance == 1
+CANNOT chose from пригрозити	 to 	присрочити, пригвоздити, природити, пригодити, прикроити, приразити, привозити	 distance == 2
+CANNOT chose from тщетина	 to 	тщета, фетина	 distance == 2
+CANNOT chose from защищати	 to 	затирати, защитити, записати, загибати, заимати, зажигати, запирати, запинати	 distance == 2
+CANNOT chose from порѣи	 to 	перси, рѣи, еврѣи	 distance == 2
+CANNOT chose from рѣшати	 to 	рѣзати, мѣшати, вѣшати	 distance == 1
+CANNOT chose from анфира	 to 	анфимъ, панфиръ	 distance == 2
+CANNOT chose from отравление	 to 	управление, обавление, оставление	 distance == 2
+CANNOT chose from волшба	 to 	волхва, волга, волна, полуба, молба, волога, полша	 distance == 2
+CANNOT chose from донь	 to 	день, донъ	 distance == 1
+CANNOT chose from мѣдь	 to 	медъ, мѣль	 distance == 1
+CANNOT chose from бловь	 to 	слово, бчевь, ловъ, кловъ, уловъ	 distance == 2
+CANNOT chose from настасия	 to 	настася, анастасия	 distance == 1
+CANNOT chose from стрижець	 to 	стрѣлець, стрежень	 distance == 2
+CANNOT chose from пинигъ	 to 	пирогъ, пинокъ	 distance == 2
+CANNOT chose from выплюнути	 to 	выпихнути, плюнути	 distance == 2
+CANNOT chose from завидъ	 to 	давыдъ, заходъ, навинъ, заимъ, западъ, завѣтъ, видъ, задъ	 distance == 2
+CANNOT chose from приклѣщити	 to 	приклонити, прилѣпити, приключити	 distance == 2
+CANNOT chose from крѣмонъ	 to 	дѣмонъ, артемонъ, игемонъ	 distance == 2
+CANNOT chose from фермие	 to 	перие, терние	 distance == 2
+CANNOT chose from поравнати	 to 	подавати, помавати, порвати	 distance == 2
+CANNOT chose from взрѣзати	 to 	изрѣзати, вырѣзати	 distance == 1
+CANNOT chose from тураний	 to 	тарасий, куриний	 distance == 2
+CANNOT chose from суринъ	 to 	саринъ, сиринъ	 distance == 1
+CANNOT chose from взводный	 to 	розводный, безводный	 distance == 2
+CANNOT chose from поражати	 to 	подражати, посажати	 distance == 1
+CANNOT chose from спихати	 to 	пихати, списати, упихати	 distance == 1
+CANNOT chose from телебуга	 to 	шелепуга, телѣга	 distance == 2
+CANNOT chose from полѣтати	 to 	полетѣти, полежати, пометати	 distance == 1
+CANNOT chose from кояръ	 to 	корь, киръ, куръ	 distance == 2
+CANNOT chose from ваара	 to 	варя, ватрь, накра, варвара, навара, сарра, фара, зара, ваалъ, опара, врата, вира, вѣра	 distance == 2
+CANNOT chose from премудрый	 to 	прѣщедрый, прѣчудный	 distance == 2
+CANNOT chose from савий	 to 	сирий, славлий, сани, флавий, исакий, арий, сава	 distance == 2
+CANNOT chose from гремѣти	 to 	погремѣти, грѣти	 distance == 2
+CANNOT chose from папосъ	 to 	запасъ, амосъ, сапогъ, поносъ, парусъ	 distance == 2
+CANNOT chose from предтещи	 to 	подтещи, притещи	 distance == 2
+CANNOT chose from лавица	 to 	латина, лжица, ланита, лавка, дѣвица, галица, лисица, яловица	 distance == 2
+CANNOT chose from радило	 to 	кадило, садило	 distance == 1
+CANNOT chose from поспѣхъ	 to 	посмѣхъ, доспѣхъ	 distance == 1
+CANNOT chose from моль	 to 	соль, мовь, мѣль, мощь	 distance == 1
+CANNOT chose from дробитель	 to 	обитель, родитель	 distance == 2
+CANNOT chose from бориславъ	 to 	моиславъ, болеславъ	 distance == 2
+CANNOT chose from выверечи	 to 	вывѣтрѣти, вытерети	 distance == 2
+CANNOT chose from щуръ	 to 	туръ, куръ, фуръ	 distance == 1
+CANNOT chose from отплути	 to 	отпрѣти, отпѣти, отпасти	 distance == 2
+CANNOT chose from ушица	 to 	утица, улица	 distance == 1
+CANNOT chose from махание	 to 	метание, шатание, назание, дыхание	 distance == 2
+CANNOT chose from страшити	 to 	устрашити, страшати	 distance == 1
+CANNOT chose from шюмский	 to 	вамский, римский, земский, людский, ямский	 distance == 2
+CANNOT chose from младший	 to 	младый, сладкий, гладкий	 distance == 2
+CANNOT chose from попродати	 to 	попрати, продати, упродати	 distance == 2
+CANNOT chose from бчельный	 to 	обельный, больный	 distance == 2
+CANNOT chose from балаи	 to 	галуи, бака, пали, ратаи, налои, бѣла, сараи, баба	 distance == 2
+CANNOT chose from туждий	 to 	чужий, тяжкий, мужний	 distance == 2
+CANNOT chose from лысто	 to 	лесть, листъ, листь, листе	 distance == 2
+CANNOT chose from дуновение	 to 	мгновение, мановение	 distance == 2
+CANNOT chose from старица	 to 	отарица, старина	 distance == 1
+CANNOT chose from общение	 to 	пощение, мщение, биение, рощение	 distance == 2
+CANNOT chose from отвѣтный	 to 	цвѣтный, свѣтный	 distance == 2
+CANNOT chose from власти	 to 	впасти, класти	 distance == 1
+CANNOT chose from строгати	 to 	стрежати, стегати	 distance == 2
+CANNOT chose from прихватити	 to 	приварити, привабити, похватити, приквасити, привалити, прикатити	 distance == 2
+CANNOT chose from вассъ	 to 	воскъ, квасъ, васянъ, часъ, власъ, ваалъ, вѣсъ, валъ	 distance == 2
+CANNOT chose from фрязи	 to 	грязь, фрягъ	 distance == 2
+CANNOT chose from грознъ	 to 	гроза, горнъ	 distance == 2
+CANNOT chose from испрашати	 to 	устрашати, впрашати, прашати, исплатати, исправити, страшати	 distance == 2
+CANNOT chose from гавийнъ	 to 	гаваонъ, навинъ	 distance == 2
+CANNOT chose from задний	 to 	зимний, зарный	 distance == 2
+CANNOT chose from захождение	 to 	исхождение, нахожение	 distance == 2
+CANNOT chose from пожечи	 to 	пожещи, поречи, попечи	 distance == 1
+CANNOT chose from геонский	 to 	женский, елеонский, конский	 distance == 2
+CANNOT chose from испрати	 to 	спати, испытати, попрати, избрати, испущати, сдрати, испужати, срати, испасти, исписати, опрати, играти, исткати, искати, испивати, испити, исправити	 distance == 2
+CANNOT chose from изворочати	 to 	ворочати, изволочити	 distance == 2
+CANNOT chose from вмѣщение	 to 	велѣние, взвѣщение, вещание, мщение, смѣрение, оцѣщение, смѣшение	 distance == 2
+CANNOT chose from шнека	 to 	инока, янка	 distance == 2
+CANNOT chose from угаждати	 to 	жаждати, угасати, сграждати, сгадати, гадати, вгажати, угожати	 distance == 2
+CANNOT chose from врети	 to 	врещи, грети	 distance == 1
+CANNOT chose from истирати	 to 	искивати, истязати, отирати, исщипати, затирати, сдирати, сбирати, вытирати, исписати, истекати, исткати, истеряти, истерти, сзирати, испивати, исчитати	 distance == 2
+CANNOT chose from хевронъ	 to 	неронъ, меронъ	 distance == 2
+CANNOT chose from горный	 to 	гордый, годный	 distance == 1
+CANNOT chose from ѣмь	 to 	семь, ямь	 distance == 1
+CANNOT chose from хизина	 to 	хиона, тишина, ирина, ширина	 distance == 2
+CANNOT chose from испытывати	 to 	испытати, оспытовати	 distance == 2
+CANNOT chose from ущкнути	 to 	усѣкнути, унзнути, успнути, усхнути, рикнути, рыкнути, утнути, утонути, увянути, уснути	 distance == 2
+CANNOT chose from елфемъ	 to 	едемъ, ефрѣмъ, шлѣмъ, ефесъ	 distance == 2
+CANNOT chose from сановный	 to 	сыновний, виновный, даровный, сапожный	 distance == 2
+CANNOT chose from индий	 to 	инди, индия	 distance == 1
+CANNOT chose from мѣстити	 to 	мстити, мѣсити, мостити, вмѣстити	 distance == 1
+CANNOT chose from подучити	 to 	поручити, поучити, получити	 distance == 1
+CANNOT chose from накормляти	 to 	окормляти, накормити	 distance == 2
+CANNOT chose from выкрити	 to 	ввѣрити, выпарити, выпити, выбити, вѣрити, взярити, варити, выдрати, вдарити, выкрасти	 distance == 2
+CANNOT chose from магнъ	 to 	манна, данъ, малъ, мартъ, санъ, маринъ, агня, каганъ, каинъ, заганъ, макъ, наинъ, таганъ, ханъ	 distance == 2
+CANNOT chose from парамия	 to 	харатия, аравия	 distance == 2
+CANNOT chose from нелюбити	 to 	любити, слюбити, полюбити	 distance == 2
+CANNOT chose from дивление	 to 	удавление, явление	 distance == 2
+CANNOT chose from обувь	 to 	омуль, обручь, обярь	 distance == 2
+CANNOT chose from граникъ	 to 	грѣшникъ, бражникъ, градокъ, ратникъ	 distance == 2
+CANNOT chose from истоптати	 to 	истопити, потоптати, затоптати, топтати, ископати	 distance == 2
+CANNOT chose from прилипати	 to 	проливати, прилѣпити, принимати, прилежати, присыпати, прикупати, прилгати, приближати, прибирати, призирати, приписати, прививати	 distance == 2
+CANNOT chose from халевъ	 to 	халѣпъ, хлѣвъ	 distance == 1
+CANNOT chose from еремий	 to 	ереи, иеремия, жрѣбий	 distance == 2
+CANNOT chose from уѣдати	 to 	увѣдати, удати, вѣдати	 distance == 1
+CANNOT chose from осѣнение	 to 	осужение, плѣнение, смнѣние, посѣчение, обѣдение, оцѣщение, посѣщение, отѣдение, сѣдѣние	 distance == 2
+CANNOT chose from дрѣмота	 to 	грамота, нѣмота	 distance == 2
+CANNOT chose from муро	 to 	миръ, море, моръ	 distance == 2
+CANNOT chose from ищсти	 to 	имѣти, изяти, изити, бости, цвсти, изыти, идти, чисти, пасти, сѣсти, ущити, тщати, нести, мясти, мщати, мести, ѣсти, сясти, ясти, вести, расти, чести, имати	 distance == 2
+CANNOT chose from пирение	 to 	писание, полѣние, пѣние, пощение, биение, видѣние, курение, лишение, печение, корение, пущение, смирение, стрение, падение, варение, имѣние	 distance == 2
+CANNOT chose from тупый	 to 	теплый, лѣпый, худый, уный, тучный, глупый	 distance == 2
+CANNOT chose from оружный	 to 	ручный, рудный, нужный	 distance == 2
+CANNOT chose from аркеи	 to 	ереи, рѣи	 distance == 2
+CANNOT chose from прѣщати	 to 	пращати, прѣдати, прѣлщати	 distance == 1
+CANNOT chose from вертѣние	 to 	велѣние, терпѣние, варение, свѣтѣние	 distance == 2
+CANNOT chose from вщижь	 to 	щить, воинь, вожь	 distance == 2
+CANNOT chose from притѣкати	 to 	прибѣгати, примешати, причетати, прѣтыкати, примѣчати, прибѣжати, прийскати, приѣхати, прилежати, прѣсѣкати, подтекати, привѣчати	 distance == 2
+CANNOT chose from глекъ	 to 	олекъ, грекъ, лекъ	 distance == 1
+CANNOT chose from учюти	 to 	учати, учити	 distance == 1
+CANNOT chose from измякчити	 to 	измочити, умякчити	 distance == 2
+CANNOT chose from слоновый	 to 	соковый, слоновъ, столовый	 distance == 2
+CANNOT chose from велумие	 to 	велѣние, величие, безумие	 distance == 2
+CANNOT chose from демествяникъ	 to 	деместникъ, ремествникъ	 distance == 2
+CANNOT chose from приплести	 to 	припасти, приплыти	 distance == 2
+CANNOT chose from подмолвити	 to 	помолити, примолвити	 distance == 2
+CANNOT chose from попрѣти	 to 	почрѣти, попрати, пожрѣти, позрѣти, помрѣти	 distance == 1
+CANNOT chose from вдружити	 to 	воружити, дружити, вдрузити	 distance == 1
+CANNOT chose from пирифъ	 to 	пирогъ, кирилъ, пиръ, сиринъ	 distance == 2
+CANNOT chose from пѣнязь	 to 	князь, пеня	 distance == 2
+CANNOT chose from выходъ	 to 	заходъ, походъ, ходъ, исходъ, отходъ, доходъ, оходъ	 distance == 2
+CANNOT chose from саломи	 to 	сало, солома, саловъ, налои, псаломъ	 distance == 2
+CANNOT chose from алочба	 to 	злоба, алочь, жалоба	 distance == 2
+CANNOT chose from веврои	 to 	вѣдро, ведро, еврѣи	 distance == 2
+CANNOT chose from зарои	 to 	заря, зара	 distance == 2
+CANNOT chose from свина	 to 	вина, двина, спина, свита	 distance == 1
+CANNOT chose from нѣзда	 to 	нужда, нерча, звѣзда, гнѣздо, бѣда, нерпа, бездна, мзда, узда, ездра, неука	 distance == 2
+CANNOT chose from очютити	 to 	очутити, очитити	 distance == 1
+CANNOT chose from русальный	 to 	сальный, гусльный	 distance == 2
+CANNOT chose from росѣвати	 to 	расѣкати, одѣвати, посѣкати, насѣвати, посѣщати, повѣвати, ночевати, разѣвати, воевати	 distance == 2
+CANNOT chose from лада	 to 	луда, ладъ, ладя	 distance == 1
+CANNOT chose from гавао	 to 	гаваонъ, тава, сава, глава	 distance == 2
+CANNOT chose from просокъ	 to 	просопъ, протокъ, просолъ, пророкъ	 distance == 1
+CANNOT chose from дѣтинець	 to 	мѣзинець, единець	 distance == 2
+CANNOT chose from пуфовъ	 to 	гудовъ, сифовъ, чудовъ, бутовъ	 distance == 2
+CANNOT chose from дждевный	 to 	душевный, дневный	 distance == 2
+CANNOT chose from жадный	 to 	мѣдный, гладный, банный, жирный, бѣдный, разный, варный, ссадный, градный, ржаный, житный, ратный, рудный, родный, судный, равный, чудный, людный, ранный, водный, годный, таиный, ужасный, зарный, радый, лядный, раный	 distance == 2
+CANNOT chose from предѣлъ	 to 	прадѣдъ, плѣвелъ, пепелъ	 distance == 2
+CANNOT chose from гели	 to 	гнои, зелие	 distance == 2
+CANNOT chose from всклепати	 to 	всклицати, поклепати, заклепати, вскладати, вскликати, вскрѣшати, склевати, клепати	 distance == 2
+CANNOT chose from подучати	 to 	подумати, поучати, поручати	 distance == 1
+CANNOT chose from надѣляти	 to 	надѣлати, надѣлити	 distance == 1
+CANNOT chose from исихий	 to 	сирий, исакий, сисиний	 distance == 2
+CANNOT chose from пожрети	 to 	почрѣти, позрѣти, помрѣти	 distance == 1
+CANNOT chose from сѣяние	 to 	дѣяние, сияние	 distance == 1
+CANNOT chose from клевати	 to 	плевати, склевати, клепати, блевати	 distance == 1

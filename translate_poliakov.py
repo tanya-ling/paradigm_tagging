@@ -114,20 +114,23 @@ def add_torot_to_up(name_torot, up_dict):
     added = {}  # словарь слов из up (лемма : [distance, index]), которые были присоединены к торот
     for word in tf:
         i += 1
-        if i == 16430:
-            break
-            continue
+        # if i == 200:
+        #     break
+        #     continue
         if u'lemma_new' not in word:
             if u'lemma' not in word:
                 print u'nothing to work with', word
-                continue
-            word['lemma_new'] = oslo_trans(word['lemma'])
-            print u'почему леммы-то не было?', word['lemma']
+                word['lemma_new'] = word['tor_lemma_new']
+                word['lemma'] = word['tor_lemma']
+                word['id'] = max_id + 1
         if word[u'lemma_new'] in up_dict:
             word, added = add_group_of_words(word, up_dict, added, word[u'lemma_new'], i, tf)
         else:
             if word[u'pos'] == u'N':
-                distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'], word['gender'])
+                if u'gender' not in word:
+                    distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'], word['tor_gender'])
+                else:
+                    distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'], word['gender'])
             else:
                 distance, array = use_leven(word[u'lemma_new'], up_dict, word[u'pos'])
             if array == u'no':
@@ -143,6 +146,7 @@ def add_torot_to_up(name_torot, up_dict):
                     word, added = add_group_of_words(word, up_dict, added, array[0], i, tf, distance)
                     oc.write(u'from ' + word[u'lemma_new'] + u'\t to \t' + array[0] + u'\t distance == ' + str(distance) + u'\r\n')
         print i, u'done'
+        max_id = word['id']
         # if i == 100:
         #     # json.dump(tf, pt, ensure_ascii=False, indent=2)
         #     break
@@ -174,7 +178,7 @@ def add_rest(tf, added, up):
             word[u'up_stems'] = {}
             for par in up[sl]:
                 word[u'up_stems'][par.paradigm] = par.stems
-            word[u'index'] = max_index + 1
+            word[u'id'] = max_index + 1
             max_index += 1
             tf.append(word)
     return tf
@@ -284,16 +288,16 @@ def simplify_array(word, full_fall0):
 lr = codecs.open(u'no_correspondence_j0.txt', u'w', u'utf-8')
 tr = codecs.open(u'have_several_corr_j0.txt', u'w', u'utf-8')
 oc = codecs.open(u'have_one_corr_j0.txt', u'w', u'utf-8')
-pt = codecs.open(u'poliakov_added_j0.json', u'w', u'utf-8')
+pt = codecs.open(u'СЛОВАРЬ_2.json', u'w', u'utf-8')
 name_up = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\dictionary_1805_norm_pos.txt'
 name_or = u'C:\Tanya\НИУ ВШЭ\двевн курсач\приведение словаря\poliakov-to-uniparser\All_dict_polyakov.txt'
 up_array = files_open(name_up, name_or)
 print len(up_array)
 t1 = time.clock()
-tf, added = add_torot_to_up(u'joined.json', up_array)
+tf, added = add_torot_to_up(u'joined_2.json', up_array)
 t2 = time.clock()
 print str(t2-t1), 'seconds for searching correspondencies'
-tf = add_rest(tf, added, up_array)
+# tf = add_rest(tf, added, up_array)
 # for word in up_array:
 #     print word.lemma, word.simple_lemma, word.paradigm, word.stems, word.translation, word.gram, word.examples[0]
 json.dump(tf, pt, ensure_ascii=False, indent=2)
