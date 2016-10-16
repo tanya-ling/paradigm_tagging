@@ -1718,7 +1718,7 @@
   gramm: pl,gen
  -flex: <0>.ь
   gramm: sg,acc
- -paradigm: N5en
+-paradigm: N5en
  -flex: <1>.ема//<1>.ама//<1>.ьма
   gramm: du,ins
  -flex: <0>.
