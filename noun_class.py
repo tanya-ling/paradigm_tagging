@@ -223,7 +223,7 @@ class word:
                 if whateveritis.par.name not in self.group_par_stem:
                     self.group_par_stem[whateveritis.par.name] = [[] for i in xrange(whateveritis.par.num_of_stems)]
                 # print self.group_par_stem[whateveritis.par.name], whateveritis.stem.number, whateveritis.par.num_of_stems
-                self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] = list(set(self.group_par_stem[whateveritis.par.name][whateveritis.stem.number]) | set([whateveritis.stem.stem_form]))
+                self.group_par_stem[whateveritis.par.name][whateveritis.stem.number] = list(set(self.group_par_stem[whateveritis.par.name][whateveritis.stem.number]) | set([whateveritis.stem.stem_form.lower()]))
 
         for par_st in self.group_par_stem:
             i = 0
@@ -287,7 +287,7 @@ class word:
             measure = 0.1
         elif self.predicted_par_stem[par_name] == []:
             if par_name != u'Viti':
-                print u'is it okey that nothing was predicted for ', self.lemma, par_name
+                # print u'is it okey that nothing was predicted for ', self.lemma, par_name
                 l.write(u'nothing was predicted for:\t' + self.lemma + u'\t' + par_name + u'\r\n')
             measure = 0.1
         else:
@@ -301,8 +301,8 @@ class word:
                     else:
                         measure = 0.05
                 else:
-                    print u'predicted and real stems length is no equal', self.lemma, par_name, len(predicted_stems), predicted_stems[0][0], len(real_stems)
-                    l.write(u'predicted ' + str(len(predicted_stems)) + ' and real' + str(len(real_stems)) + ' stems length is no equal:\t' + self.lemma + u'\t' + par_name + u'\r\n')
+                    # print u'predicted and real stems length is no equal', self.lemma, par_name, len(predicted_stems), predicted_stems[0][0], len(real_stems)
+                    l.write(u'predicted (' + str(len(predicted_stems)) + ') and real (' + str(len(real_stems)) + ') stems length is no equal:\t' + self.lemma + u'\t' + par_name + u'\r\n')
                     measure = 0.1
             else:
                 i = 0
@@ -350,6 +350,8 @@ class word:
         return wtw
 
     def write_guessed_to_file(self, rnc=False):
+        if self.id == '94307' or self.id == '185022':
+            print 'test sample', self.lemma, self.examples, self.group_par_stem, self.gramm, self.par_stem
         uninfl = False
         if self.pos == u'N':
             pos_max = 15  # real - 31
@@ -392,6 +394,8 @@ class word:
         return wtw
 
     def write_unguessed_to_file(self):
+        if self.id == '94307' or self.id == '185022':
+            print 'test sample', self.lemma, self.examples, self.group_par_stem, self.gramm, self.par_stem
         wtw = {u'id': self.id, u'torot_id': self.torot_id, u'pos': self.pos, u'gender': self.gramm, u'lemma': self.lemma}
         wtw[u'lemma_new'] = self.lemma_after_fall
         wtw[u'examples'] = [{ex.analys: ex.form, u'paradigms': ex.par_name_list} for ex in self.examples]

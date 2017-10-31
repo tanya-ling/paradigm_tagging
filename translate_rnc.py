@@ -86,8 +86,8 @@ def open_rnc():
             elif pos == u'Adj' and pm_a < len(new_word.examples):
                 pm_a = len(new_word.examples)
         dict[simple_lemma] = new_word
-        if i % 10000 == 0:
-            print u'rnc is opening, ', str(100 * float(i)/343096), u'%', i
+        if i % 100000 == 0:
+            print u'rnc is opening, ', str(100 * float(i)/343096), u'%'
         # if len(dict) == 500:
         #     break
     return dict, pm_n, pm_a, pm_v
@@ -444,13 +444,6 @@ time1 = time.clock()
 great_d = []
 misirable = []
 for key_lemma in dict:
-    # print key_lemma
-    # for example in dict[key_lemma].examples:
-    #     print example.analys, example.form
-    #     for form in example.form:
-    #         print form
-    #     for fn in example.form_norm:
-    #         print fn.form
     word = dict[key_lemma]
     if word.pos == u'V' or word.pos == u'N' or word.pos == u'Adj':
         uninfl = False
@@ -469,15 +462,14 @@ for key_lemma in dict:
         if word.predicted_par_stem == u'delete_this_word':
             continue
         word.change_score()
-    # new_word.print_par_stem()
-    print word.rnc_id[0], float(index) / ld * 100, u'% made'
-    # if index == 1070:
-    #     break
+    if index % 100 == 0:
+        print word.rnc_id[0], float(index) / ld * 100, u'% made'
+    if word.id == 94307 or word.id == 185022:
+            print 'test sample 1', word.lemma, word.examples, word.group_par_stem, word.gramm, word.par_stem, uninfl
     if len(word.group_par_stem) > 0 or uninfl:
         parsed += 1
         wtw = word.write_guessed_to_file(rnc=True)
         great_d.append(wtw)
-        # json.dump(wtw, w, ensure_ascii=False, indent=2)
     else:
         unparsed += 1
         wtw = word.write_unguessed_to_file()
